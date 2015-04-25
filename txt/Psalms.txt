@@ -1,9 +1,6 @@
 
 The Book of Psalms
 
-   Book I
-
-
 Psalm 1
 
 {1:1} Blessed [is] the man that walketh not in the counsel of the
@@ -1593,8 +1590,6 @@ To the chief Musician, A Psalm of David.
 {41:13} Blessed [be] the LORD God of Israel from everlasting, and to
       everlasting. Amen, and Amen.
 
-Book II
-
 Psalm 42
 
 To the chief Musician, Maschil, for the sons of Korah.
@@ -2826,8 +2821,6 @@ A [Psalm] for Solomon.
       earth be filled [with] his glory; Amen, and Amen.
 {72:20} The prayers of David the son of Jesse are ended.
 
-Book III
-
 Psalm 73
 
 A Psalm of Asaph.
@@ -3676,8 +3669,6 @@ Maschil of Ethan the Ezrahite.
       have reproached the footsteps of thine anointed.
 {89:52} Blessed [be] the LORD for evermore. Amen, and Amen.
 
-Book IV
-
 Psalm 90
 
 A Prayer of Moses the man of God.
@@ -4406,8 +4397,6 @@ Psalm 106
       to give thanks unto thy holy name, [and] to triumph in thy praise.
 {106:48} Blessed [be] the Lord God of Israel from everlasting to
       everlasting: and let all the people say, Amen. Praise ye the LORD.
-
-Book V
 
 Psalm 107
 

@@ -1,10 +1,5 @@
-
-The Book of Psalms
-
- Book I
-
 [Book]
-title="Psalm 1"
+title="The Book of Psalms"
 
 [[Chapter]] #1
 text="""\
@@ -22,10 +17,7 @@ text="""\
  sinners in the congregation of the righteous.
 {1:6} For the LORD knoweth the way of the righteous: but the way of the
  ungodly shall perish.
-
-
-[Book]
-title="Psalm 2"
+"""
 
 [[Chapter]] #2
 text="""\
@@ -54,13 +46,6 @@ text="""\
 {2:12} Kiss the Son, lest he be angry, and ye perish from the way,
  when his wrath is kindled but a little. Blessed are all they
  that put their trust in him.
-
-
-Psalm 3
-
-A Psalm of David, when he fled from Absalom his son.
-
-
 """
 
 [[Chapter]] #3
@@ -81,13 +66,6 @@ text="""\
  ungodly.
 {3:8} Salvation belongeth unto the LORD: thy blessing is upon thy
  people. Selah.
-
-
-Psalm 4
-
-To the chief Musician on Neginoth, A Psalm of David.
-
-
 """
 
 [[Chapter]] #4
@@ -109,13 +87,6 @@ text="""\
  their corn and their wine increased.
 {4:8} I will both lay me down in peace, and sleep: for thou, LORD, only
  makest me dwell in safety.
-
-
-Psalm 5
-
-To the chief Musician upon Nehiloth, A Psalm of David.
-
-
 """
 
 [[Chapter]] #5
@@ -147,13 +118,6 @@ text="""\
  that love thy name be joyful in thee.
 {5:12} For thou, LORD, wilt bless the righteous; with favour wilt thou
  compass him as with a shield.
-
-
-Psalm 6
-
-To the chief Musician on Neginoth upon Sheminith, A Psalm of David.
-
-
 """
 
 [[Chapter]] #6
@@ -176,14 +140,6 @@ text="""\
  prayer.
 {6:10} Let all mine enemies be ashamed and sore vexed: let them return
  and be ashamed suddenly.
-
-
-Psalm 7
-
-Shiggaion of David, which he sang unto the LORD, concerning the words
-of Cush the Benjamite.
-
-
 """
 
 [[Chapter]] #7
@@ -223,13 +179,6 @@ text="""\
  dealing shall come down upon his own pate.
 {7:17} I will praise the LORD according to his righteousness: and will
  sing praise to the name of the LORD most high.
-
-
-Psalm 8
-
-To the chief Musician upon Gittith, A Psalm of David.
-
-
 """
 
 [[Chapter]] #8
@@ -251,13 +200,6 @@ text="""\
 {8:8} The fowl of the air, and the fish of the sea, and whatsoever
  passeth through the paths of the seas.
 {8:9} O LORD our Lord, how excellent is thy name in all the earth!
-
-
-Psalm 9
-
-To the chief Musician upon Muthlabben, A Psalm of David.
-
-
 """
 
 [[Chapter]] #9
@@ -303,9 +245,7 @@ text="""\
  thy sight.
 {9:20} Put them in fear, O LORD: that the nations may know themselves
  to be but men. Selah.
-
-[Book]
-title="Psalm 10"
+"""
 
 [[Chapter]] #10
 text="""\
@@ -347,13 +287,6 @@ text="""\
  prepare their heart, thou wilt cause thine ear to hear:
 {10:18} To judge the fatherless and the oppressed, that the man of the
  earth may no more oppress.
-
-
-Psalm 11
-
-To the chief Musician, A Psalm of David.
-
-
 """
 
 [[Chapter]] #11
@@ -372,13 +305,6 @@ text="""\
  horrible tempest: this shall be the portion of their cup.
 {11:7} For the righteous LORD loveth righteousness; his countenance
  doth behold the upright.
-
-
-Psalm 12
-
-To the chief Musician upon Sheminith, A Psalm of David.
-
-
 """
 
 [[Chapter]] #12
@@ -399,13 +325,6 @@ text="""\
 {12:7} Thou shalt keep them, O LORD, thou shalt preserve them from this
  generation for ever.
 {12:8} The wicked walk on every side, when the vilest men are exalted.
-
-
-Psalm 13
-
-To the chief Musician, A Psalm of David.
-
-
 """
 
 [[Chapter]] #13
@@ -422,13 +341,6 @@ text="""\
  salvation.
 {13:6} I will sing unto the LORD, because he hath dealt bountifully
  with me.
-
-
-Psalm 14
-
-To the chief Musician, A Psalm of David.
-
-
 """
 
 [[Chapter]] #14
@@ -449,13 +361,6 @@ text="""\
 {14:7} Oh that the salvation of Israel were come out of Zion! when
  the LORD bringeth back the captivity of his people, Jacob shall
  rejoice, and Israel shall be glad.
-
-
-Psalm 15
-
-A Psalm of David.
-
-
 """
 
 [[Chapter]] #15
@@ -472,13 +377,6 @@ text="""\
 {15:5} He that putteth not out his money to usury, nor taketh reward
  against the innocent. He that doeth these things shall never be
  moved.
-
-
-Psalm 16
-
-Michtam of David.
-
-
 """
 
 [[Chapter]] #16
@@ -506,13 +404,6 @@ text="""\
 {16:11} Thou wilt shew me the path of life: in thy presence is
  fulness of joy; at thy right hand there are pleasures for
  evermore.
-
-
-Psalm 17
-
-A Prayer of David.
-
-
 """
 
 [[Chapter]] #17
@@ -552,14 +443,7 @@ text="""\
  satisfied, when I awake, with thy likeness.
 
 
-Psalm 18
-
-To the chief Musician, A Psalm of David, the servant of the LORD, who
-spake unto the LORD the words of this song in the day that the LORD
-delivered him from the hand of all his enemies, and from the hand of
-Saul: And he said,
-
-
+: And he said,
 """
 
 [[Chapter]] #18
@@ -666,13 +550,6 @@ text="""\
  heathen, and sing praises unto thy name.
 {18:50} Great deliverance giveth he to his king; and sheweth mercy to
  his anointed, to David, and to his seed for evermore.
-
-
-Psalm 19
-
-To the chief Musician, A Psalm of David.
-
-
 """
 
 [[Chapter]] #19
@@ -708,13 +585,6 @@ text="""\
  be innocent from the great transgression.
 {19:14} Let the words of my mouth, and the meditation of my heart, be
  acceptable in thy sight, O LORD, my strength, and my redeemer.
-
-
-Psalm 20
-
-To the chief Musician, A Psalm of David.
-
-
 """
 
 [[Chapter]] #20
@@ -736,13 +606,6 @@ text="""\
 {20:8} They are brought down and fallen: but we are risen, and stand
  upright.
 {20:9} Save, LORD: let the king hear us when we call.
-
-
-Psalm 21
-
-To the chief Musician, A Psalm of David.
-
-
 """
 
 [[Chapter]] #21
@@ -775,13 +638,6 @@ text="""\
  of them.
 {21:13} Be thou exalted, LORD, in thine own strength: so will we sing
  and praise thy power.
-
-
-Psalm 22
-
-To the chief Musician upon Aijeleth Shahar, A Psalm of David.
-
-
 """
 
 [[Chapter]] #22
@@ -849,13 +705,6 @@ text="""\
  generation.
 {22:31} They shall come, and shall declare his righteousness unto a
  people that shall be born, that he hath done this.
-
-
-Psalm 23
-
-A Psalm of David.
-
-
 """
 
 [[Chapter]] #23
@@ -872,13 +721,6 @@ text="""\
  enemies: thou anointest my head with oil; my cup runneth over.
 {23:6} Surely goodness and mercy shall follow me all the days of my
  life: and I will dwell in the house of the LORD for ever.
-
-
-Psalm 24
-
-A Psalm of David.
-
-
 """
 
 [[Chapter]] #24
@@ -903,13 +745,6 @@ text="""\
  everlasting doors; and the King of glory shall come in.
 {24:10} Who is this King of glory? The LORD of hosts, he is the King
  of glory. Selah.
-
-
-Psalm 25
-
-A Psalm of David.
-
-
 """
 
 [[Chapter]] #25
@@ -954,13 +789,6 @@ text="""\
  put my trust in thee.
 {25:21} Let integrity and uprightness preserve me; for I wait on thee.
 {25:22} Redeem Israel, O God, out of all his troubles.
-
-
-Psalm 26
-
-A Psalm of David.
-
-
 """
 
 [[Chapter]] #26
@@ -987,13 +815,6 @@ text="""\
  merciful unto me.
 {26:12} My foot standeth in an even place: in the congregations will I
  bless the LORD.
-
-
-Psalm 27
-
-A Psalm of David.
-
-
 """
 
 [[Chapter]] #27
@@ -1033,13 +854,6 @@ text="""\
  the LORD in the land of the living.
 {27:14} Wait on the LORD: be of good courage, and he shall strengthen
  thine heart: wait, I say, on the LORD.
-
-
-Psalm 28
-
-A Psalm of David.
-
-
 """
 
 [[Chapter]] #28
@@ -1066,13 +880,6 @@ text="""\
  his anointed.
 {28:9} Save thy people, and bless thine inheritance: feed them also,
  and lift them up for ever.
-
-
-Psalm 29
-
-A Psalm of David.
-
-
 """
 
 [[Chapter]] #29
@@ -1099,13 +906,6 @@ text="""\
  ever.
 {29:11} The LORD will give strength unto his people; the LORD will
  bless his people with peace.
-
-
-Psalm 30
-
-A Psalm and Song at the dedication of the house of David.
-
-
 """
 
 [[Chapter]] #30
@@ -1130,13 +930,6 @@ text="""\
  off my sackcloth, and girded me with gladness;
 {30:12} To the end that my glory may sing praise to thee, and not be
  silent. O LORD my God, I will give thanks unto thee for ever.
-
-
-Psalm 31
-
-To the chief Musician, A Psalm of David.
-
-
 """
 
 [[Chapter]] #31
@@ -1194,13 +987,6 @@ text="""\
  the faithful, and plentifully rewardeth the proud doer.
 {31:24} Be of good courage, and he shall strengthen your heart, all ye
  that hope in the LORD.
-
-
-Psalm 32
-
-A Psalm of David, Maschil.
-
-
 """
 
 [[Chapter]] #32
@@ -1230,9 +1016,7 @@ text="""\
  the LORD, mercy shall compass him about.
 {32:11} Be glad in the LORD, and rejoice, ye righteous: and shout for
  joy, all ye that are upright in heart.
-
-[Book]
-title="Psalm 33"
+"""
 
 [[Chapter]] #33
 text="""\
@@ -1275,14 +1059,6 @@ text="""\
 {33:21} For our heart shall rejoice in him, because we have trusted in
  his holy name.
 {33:22} Let thy mercy, O LORD, be upon us, according as we hope in thee.
-
-
-Psalm 34
-
-A Psalm of David, when he changed his behaviour before Abimelech; who
-drove him away, and he departed.
-
-
 """
 
 [[Chapter]] #34
@@ -1327,13 +1103,6 @@ text="""\
  shall be desolate.
 {34:22} The LORD redeemeth the soul of his servants: and none of them
  that trust in him shall be desolate.
-
-
-Psalm 35
-
-A Psalm of David.
-
-
 """
 
 [[Chapter]] #35
@@ -1400,13 +1169,6 @@ text="""\
  which hath pleasure in the prosperity of his servant.
 {35:28} And my tongue shall speak of thy righteousness and of thy
  praise all the day long.
-
-
-Psalm 36
-
-To the chief Musician, A Psalm of David, the servant of the LORD.
-
-
 """
 
 [[Chapter]] #36
@@ -1436,13 +1198,6 @@ text="""\
  of the wicked remove me.
 {36:12} There are the workers of iniquity fallen: they are cast down,
  and shall not be able to rise.
-
-
-Psalm 37
-
-A Psalm of David.
-
-
 """
 
 [[Chapter]] #37
@@ -1529,13 +1284,6 @@ text="""\
  their strength in the time of trouble.
 {37:40} And the LORD shall help them and deliver them: he shall deliver
  them from the wicked, and save them, because they trust in him.
-
-
-Psalm 38
-
-A Psalm of David, to bring to remembrance.
-
-
 """
 
 [[Chapter]] #38
@@ -1580,13 +1328,6 @@ text="""\
  because I follow the thing that good is.
 {38:21} Forsake me not, O LORD: O my God, be not far from me.
 {38:22} Make haste to help me, O Lord my salvation.
-
-
-Psalm 39
-
-To the chief Musician, even to Jeduthun, A Psalm of David.
-
-
 """
 
 [[Chapter]] #39
@@ -1620,13 +1361,6 @@ text="""\
  sojourner, as all my fathers were.
 {39:13} O spare me, that I may recover strength, before I go hence, and
  be no more.
-
-
-Psalm 40
-
-To the chief Musician, A Psalm of David.
-
-
 """
 
 [[Chapter]] #40
@@ -1672,13 +1406,6 @@ text="""\
  such as love thy salvation say continually, The LORD be magnified.
 {40:17} But I am poor and needy; yet the Lord thinketh upon me:
  thou art my help and my deliverer; make no tarrying, O my God.
-
-
-Psalm 41
-
-To the chief Musician, A Psalm of David.
-
-
 """
 
 [[Chapter]] #41
@@ -1711,14 +1438,6 @@ text="""\
  me before thy face for ever.
 {41:13} Blessed be the LORD God of Israel from everlasting, and to
  everlasting. Amen, and Amen.
-
-Book II
-
-Psalm 42
-
-To the chief Musician, Maschil, for the sons of Korah.
-
-
 """
 
 [[Chapter]] #42
@@ -1751,9 +1470,7 @@ text="""\
 {42:11} Why art thou cast down, O my soul? and why art thou disquieted
  within me? hope thou in God: for I shall yet praise him, who is
  the health of my countenance, and my God.
-
-[Book]
-title="Psalm 43"
+"""
 
 [[Chapter]] #43
 text="""\
@@ -1768,13 +1485,6 @@ text="""\
 {43:5} Why art thou cast down, O my soul? and why art thou disquieted
  within me? hope in God: for I shall yet praise him, who is the
  health of my countenance, and my God.
-
-
-Psalm 44
-
-To the chief Musician for the sons of Korah, Maschil.
-
-
 """
 
 [[Chapter]] #44
@@ -1831,14 +1541,6 @@ text="""\
 {44:25} For our soul is bowed down to the dust: our belly cleaveth unto
  the earth.
 {44:26} Arise for our help, and redeem us for thy mercies' sake.
-
-
-Psalm 45
-
-To the chief Musician upon Shoshannim, for the sons of Korah, Maschil,
-A Song of loves.
-
-
 """
 
 [[Chapter]] #45
@@ -1881,13 +1583,6 @@ text="""\
  make princes in all the earth.
 {45:17} I will make thy name to be remembered in all generations:
  therefore shall the people praise thee for ever and ever.
-
-
-Psalm 46
-
-To the chief Musician for the sons of Korah, A Song upon Alamoth.
-
-
 """
 
 [[Chapter]] #46
@@ -1915,13 +1610,6 @@ text="""\
  heathen, I will be exalted in the earth.
 {46:11} The LORD of hosts is with us; the God of Jacob is our
  refuge. Selah.
-
-
-Psalm 47
-
-To the chief Musician, A Psalm for the sons of Korah.
-
-
 """
 
 [[Chapter]] #47
@@ -1945,13 +1633,6 @@ text="""\
 {47:9} The princes of the people are gathered together, even the
  people of the God of Abraham: for the shields of the earth
  belong unto God: he is greatly exalted.
-
-
-Psalm 48
-
-A Song and Psalm for the sons of Korah.
-
-
 """
 
 [[Chapter]] #48
@@ -1982,13 +1663,6 @@ text="""\
  tell it to the generation following.
 {48:14} For this God is our God for ever and ever: he will be our
  guide even unto death.
-
-
-Psalm 49
-
-To the chief Musician, A Psalm for the sons of Korah.
-
-
 """
 
 [[Chapter]] #49
@@ -2034,13 +1708,6 @@ text="""\
  see light.
 {49:20} Man that is in honour, and understandeth not, is like the
  beasts that perish.
-
-
-Psalm 50
-
-A Psalm of Asaph.
-
-
 """
 
 [[Chapter]] #50
@@ -2091,14 +1758,6 @@ text="""\
  pieces, and there be none to deliver.
 {50:23} Whoso offereth praise glorifieth me: and to him that ordereth
  his conversation aright will I shew the salvation of God.
-
-
-Psalm 51
-
-To the chief Musician, A Psalm of David, when Nathan the prophet came
-unto him, after he had gone in to Bathsheba.
-
-
 """
 
 [[Chapter]] #51
@@ -2142,15 +1801,6 @@ text="""\
 {51:19} Then shalt thou be pleased with the sacrifices of
  righteousness, with burnt offering and whole burnt offering: then
  shall they offer bullocks upon thine altar.
-
-
-Psalm 52
-
-To the chief Musician, Maschil, A Psalm of David, when Doeg the
-Edomite came and told Saul, and said unto him, David is come to the
-house of Ahimelech.
-
-
 """
 
 [[Chapter]] #52
@@ -2173,13 +1823,6 @@ text="""\
  in the mercy of God for ever and ever.
 {52:9} I will praise thee for ever, because thou hast done it: and I
  will wait on thy name; for it is good before thy saints.
-
-
-Psalm 53
-
-To the chief Musician upon Mahalath, Maschil, A Psalm of David.
-
-
 """
 
 [[Chapter]] #53
@@ -2201,12 +1844,7 @@ text="""\
  rejoice, and Israel shall be glad.
 
 
-Psalm 54
-
-To the chief Musician on Neginoth, Maschil, A Psalm of David, when
-the Ziphims came and said to Saul, Doth not David hide himself with us?
-
-
+?
 """
 
 [[Chapter]] #54
@@ -2223,13 +1861,6 @@ text="""\
  LORD; for it is good.
 {54:7} For he hath delivered me out of all trouble: and mine eye hath
  seen his desire upon mine enemies.
-
-
-Psalm 55
-
-To the chief Musician on Neginoth, Maschil, A Psalm of David.
-
-
 """
 
 [[Chapter]] #55
@@ -2283,14 +1914,6 @@ text="""\
 {55:23} But thou, O God, shalt bring them down into the pit of
  destruction: bloody and deceitful men shall not live out half
  their days; but I will trust in thee.
-
-
-Psalm 56
-
-To the chief Musician upon Jonathelemrechokim, Michtam of David, when
-the Philistines took him in Gath.
-
-
 """
 
 [[Chapter]] #56
@@ -2320,14 +1943,6 @@ text="""\
 {56:13} For thou hast delivered my soul from death: wilt not thou
  deliver my feet from falling, that I may walk before God in the
  light of the living?
-
-
-Psalm 57
-
-To the chief Musician, Altaschith, Michtam of David, when he fled from
-Saul in the cave.
-
-
 """
 
 [[Chapter]] #57
@@ -2358,13 +1973,6 @@ text="""\
  clouds.
 {57:11} Be thou exalted, O God, above the heavens: let thy glory be
  above all the earth.
-
-
-Psalm 58
-
-To the chief Musician, Altaschith, Michtam of David.
-
-
 """
 
 [[Chapter]] #58
@@ -2393,14 +2001,6 @@ text="""\
  shall wash his feet in the blood of the wicked.
 {58:11} So that a man shall say, Verily there is a reward for the
  righteous: verily he is a God that judgeth in the earth.
-
-
-Psalm 59
-
-To the chief Musician, Altaschith, Michtam of David; when Saul sent,
-and they watched the house to kill him.
-
-
 """
 
 [[Chapter]] #59
@@ -2445,13 +2045,9 @@ text="""\
  and the God of my mercy.
 
 
-Psalm 60
-
-To the chief Musician upon Shushan-eduth, Michtam of David, to teach;
+-eduth, Michtam of David, to teach;
 when he strove with Aram-naharaim and with Aram-zobah, when Joab
 returned, and smote of Edom in the valley of salt twelve thousand.
-
-
 """
 
 [[Chapter]] #60
@@ -2479,13 +2075,6 @@ text="""\
 {60:11} Give us help from trouble: for vain is the help of man.
 {60:12} Through God we shall do valiantly: for he it is that shall
  tread down our enemies.
-
-
-Psalm 61
-
-To the chief Musician upon Neginah, A Psalm of David.
-
-
 """
 
 [[Chapter]] #61
@@ -2505,13 +2094,6 @@ text="""\
  which may preserve him.
 {61:8} So will I sing praise unto thy name for ever, that I may daily
  perform my vows.
-
-
-Psalm 62
-
-To the chief Musician, to Jeduthun, A Psalm of David.
-
-
 """
 
 [[Chapter]] #62
@@ -2543,13 +2125,6 @@ text="""\
  belongeth unto God.
 {62:12} Also unto thee, O Lord, belongeth mercy: for thou renderest
  to every man according to his work.
-
-
-Psalm 63
-
-A Psalm of David, when he was in the wilderness of Judah.
-
-
 """
 
 [[Chapter]] #63
@@ -2576,13 +2151,6 @@ text="""\
 {63:11} But the king shall rejoice in God; every one that sweareth by
  him shall glory: but the mouth of them that speak lies shall be
  stopped.
-
-
-Psalm 64
-
-To the chief Musician, A Psalm of David.
-
-
 """
 
 [[Chapter]] #64
@@ -2608,13 +2176,6 @@ text="""\
  they shall wisely consider of his doing.
 {64:10} The righteous shall be glad in the LORD, and shall trust in
  him; and all the upright in heart shall glory.
-
-
-Psalm 65
-
-To the chief Musician, A Psalm and Song of David.
-
-
 """
 
 [[Chapter]] #65
@@ -2650,13 +2211,6 @@ text="""\
  hills rejoice on every side.
 {65:13} The pastures are clothed with flocks; the valleys also are
  covered over with corn; they shout for joy, they also sing.
-
-
-Psalm 66
-
-To the chief Musician, A Song or Psalm.
-
-
 """
 
 [[Chapter]] #66
@@ -2700,13 +2254,6 @@ text="""\
  of my prayer.
 {66:20} Blessed be God, which hath not turned away my prayer, nor his
  mercy from me.
-
-
-Psalm 67
-
-To the chief Musician on Neginoth, A Psalm or Song.
-
-
 """
 
 [[Chapter]] #67
@@ -2724,13 +2271,6 @@ text="""\
 {67:6} Then shall the earth yield her increase; and God, even our
  own God, shall bless us.
 {67:7} God shall bless us; and all the ends of the earth shall fear him.
-
-
-Psalm 68
-
-To the chief Musician, A Psalm or Song of David.
-
-
 """
 
 [[Chapter]] #68
@@ -2815,13 +2355,6 @@ text="""\
 {68:35} O God, thou art terrible out of thy holy places: the God of
  Israel is he that giveth strength and power unto his people.
  Blessed be God.
-
-
-Psalm 69
-
-To chief Musician upon Shoshannim, A Psalm of David.
-
-
 """
 
 [[Chapter]] #69
@@ -2901,13 +2434,6 @@ text="""\
  that they may dwell there, and have it in possession.
 {69:36} The seed also of his servants shall inherit it: and they that
  love his name shall dwell therein.
-
-
-Psalm 70
-
-To the chief Musician, A Psalm of David, to bring to remembrance.
-
-
 """
 
 [[Chapter]] #70
@@ -2924,9 +2450,7 @@ text="""\
  magnified.
 {70:5} But I am poor and needy: make haste unto me, O God: thou art
  my help and my deliverer; O LORD, make no tarrying.
-
-[Book]
-title="Psalm 71"
+"""
 
 [[Chapter]] #71
 text="""\
@@ -2982,13 +2506,6 @@ text="""\
 {71:24} My tongue also shall talk of thy righteousness all the day
  long: for they are confounded, for they are brought unto shame,
  that seek my hurt.
-
-
-Psalm 72
-
-A Psalm for Solomon.
-
-
 """
 
 [[Chapter]] #72
@@ -3035,14 +2552,6 @@ text="""\
 {72:19} And blessed be his glorious name for ever: and let the whole
  earth be filled with his glory; Amen, and Amen.
 {72:20} The prayers of David the son of Jesse are ended.
-
-Book III
-
-Psalm 73
-
-A Psalm of Asaph.
-
-
 """
 
 [[Chapter]] #73
@@ -3101,13 +2610,6 @@ text="""\
  destroyed all them that go a whoring from thee.
 {73:28} But it is good for me to draw near to God: I have put my
  trust in the Lord GOD, that I may declare all thy works.
-
-
-Psalm 74
-
-Maschil of Asaph.
-
-
 """
 
 [[Chapter]] #74
@@ -3159,13 +2661,6 @@ text="""\
  man reproacheth thee daily.
 {74:23} Forget not the voice of thine enemies: the tumult of those that
  rise up against thee increaseth continually.
-
-
-Psalm 75
-
-To the chief Musician, Altaschith, A Psalm or Song of Asaph.
-
-
 """
 
 [[Chapter]] #75
@@ -3190,13 +2685,6 @@ text="""\
  Jacob.
 {75:10} All the horns of the wicked also will I cut off; but the
  horns of the righteous shall be exalted.
-
-
-Psalm 76
-
-To the chief Musician on Neginoth, A Psalm or Song of Asaph.
-
-
 """
 
 [[Chapter]] #76
@@ -3223,13 +2711,6 @@ text="""\
  about him bring presents unto him that ought to be feared.
 {76:12} He shall cut off the spirit of princes: he is terrible to the
  kings of the earth.
-
-
-Psalm 77
-
-To the chief Musician, to Jeduthun, A Psalm of Asaph.
-
-
 """
 
 [[Chapter]] #77
@@ -3272,13 +2753,6 @@ text="""\
  thy footsteps are not known.
 {77:20} Thou leddest thy people like a flock by the hand of Moses and
  Aaron.
-
-
-Psalm 78
-
-Maschil of Asaph.
-
-
 """
 
 [[Chapter]] #78
@@ -3430,13 +2904,6 @@ text="""\
  Jacob his people, and Israel his inheritance.
 {78:72} So he fed them according to the integrity of his heart; and
  guided them by the skilfulness of his hands.
-
-
-Psalm 79
-
-A Psalm of Asaph.
-
-
 """
 
 [[Chapter]] #79
@@ -3471,11 +2938,7 @@ text="""\
  for ever: we will shew forth thy praise to all generations.
 
 
-Psalm 80
-
-To the chief Musician upon Shoshannim-Eduth, A Psalm of Asaph.
-
-
+-Eduth, A Psalm of Asaph.
 """
 
 [[Chapter]] #80
@@ -3518,13 +2981,6 @@ text="""\
  upon thy name.
 {80:19} Turn us again, O LORD God of hosts, cause thy face to shine;
  and we shall be saved.
-
-
-Psalm 81
-
-To the chief Musician upon Gittith, a Psalm of Asaph.
-
-
 """
 
 [[Chapter]] #81
@@ -3563,13 +3019,6 @@ text="""\
  him: but their time should have endured for ever.
 {81:16} He should have fed them also with the finest of the wheat: and
  with honey out of the rock should I have satisfied thee.
-
-
-Psalm 82
-
-A Psalm of Asaph.
-
-
 """
 
 [[Chapter]] #82
@@ -3589,13 +3038,6 @@ text="""\
 {82:7} But ye shall die like men, and fall like one of the princes.
 {82:8} Arise, O God, judge the earth: for thou shalt inherit all
  nations.
-
-
-Psalm 83
-
-A Song or Psalm of Asaph.
-
-
 """
 
 [[Chapter]] #83
@@ -3635,13 +3077,6 @@ text="""\
  put to shame, and perish:
 {83:18} That men may know that thou, whose name alone is JEHOVAH,
  art the most high over all the earth.
-
-
-Psalm 84
-
-To the chief Musician upon Gittith, A Psalm for the sons of Korah.
-
-
 """
 
 [[Chapter]] #84
@@ -3671,13 +3106,6 @@ text="""\
  grace and glory: no good thing will he withhold from them that
  walk uprightly.
 {84:12} O LORD of hosts, blessed is the man that trusteth in thee.
-
-
-Psalm 85
-
-To the chief Musician, A Psalm for the sons of Korah.
-
-
 """
 
 [[Chapter]] #85
@@ -3708,13 +3136,6 @@ text="""\
  shall yield her increase.
 {85:13} Righteousness shall go before him; and shall set us in the
  way of his steps.
-
-
-Psalm 86
-
-A Prayer of David.
-
-
 """
 
 [[Chapter]] #86
@@ -3754,13 +3175,6 @@ text="""\
 {86:17} Show me a token for good; that they which hate me may see it,
  and be ashamed: because thou, LORD, hast helped me, and comforted
  me.
-
-
-Psalm 87
-
-A Psalm or Song for the sons of Korah.
-
-
 """
 
 [[Chapter]] #87
@@ -3778,14 +3192,6 @@ text="""\
  man was born there. Selah.
 {87:7} As well the singers as the players on instruments shall be
  there: all my springs are in thee.
-
-
-Psalm 88
-
-A Song or Psalm for the sons of Korah, to the chief Musician upon
-Mahalath Leannoth, Maschil of Heman the Ezrahite.
-
-
 """
 
 [[Chapter]] #88
@@ -3824,13 +3230,6 @@ text="""\
  about together.
 {88:18} Lover and friend hast thou put far from me, and mine
  acquaintance into darkness.
-
-
-Psalm 89
-
-Maschil of Ethan the Ezrahite.
-
-
 """
 
 [[Chapter]] #89
@@ -3936,14 +3335,6 @@ text="""\
 {89:51} Wherewith thine enemies have reproached, O LORD; wherewith they
  have reproached the footsteps of thine anointed.
 {89:52} Blessed be the LORD for evermore. Amen, and Amen.
-
-Book IV
-
-Psalm 90
-
-A Prayer of Moses the man of God.
-
-
 """
 
 [[Chapter]] #90
@@ -3985,9 +3376,7 @@ text="""\
 {90:17} And let the beauty of the LORD our God be upon us: and
  establish thou the work of our hands upon us; yea, the work of
  our hands establish thou it.
-
-[Book]
-title="Psalm 91"
+"""
 
 [[Chapter]] #91
 text="""\
@@ -4022,13 +3411,6 @@ text="""\
 {91:15} He shall call upon me, and I will answer him: I will be with
  him in trouble; I will deliver him, and honour him.
 {91:16} With long life will I satisfy him, and shew him my salvation.
-
-
-Psalm 92
-
-A Psalm or Song for the sabbath day.
-
-
 """
 
 [[Chapter]] #92
@@ -4062,9 +3444,7 @@ text="""\
  fat and flourishing;
 {92:15} To shew that the LORD is upright: he is my rock, and there
  is no unrighteousness in him.
-
-[Book]
-title="Psalm 93"
+"""
 
 [[Chapter]] #93
 text="""\
@@ -4079,9 +3459,7 @@ text="""\
  yea, than the mighty waves of the sea.
 {93:5} Thy testimonies are very sure: holiness becometh thine house, O
  LORD, for ever.
-
-[Book]
-title="Psalm 94"
+"""
 
 [[Chapter]] #94
 text="""\
@@ -4129,9 +3507,7 @@ text="""\
 {94:23} And he shall bring upon them their own iniquity, and shall cut
  them off in their own wickedness; yea, the LORD our God shall
  cut them off.
-
-[Book]
-title="Psalm 95"
+"""
 
 [[Chapter]] #95
 text="""\
@@ -4156,9 +3532,7 @@ text="""\
  not known my ways:
 {95:11} Unto whom I sware in my wrath that they should not enter into
  my rest.
-
-[Book]
-title="Psalm 96"
+"""
 
 [[Chapter]] #96
 text="""\
@@ -4190,9 +3564,7 @@ text="""\
 {96:13} Before the LORD: for he cometh, for he cometh to judge the
  earth: he shall judge the world with righteousness, and the
  people with his truth.
-
-[Book]
-title="Psalm 97"
+"""
 
 [[Chapter]] #97
 text="""\
@@ -4219,13 +3591,6 @@ text="""\
  in heart.
 {97:12} Rejoice in the LORD, ye righteous; and give thanks at the
  remembrance of his holiness.
-
-
-Psalm 98
-
-A Psalm.
-
-
 """
 
 [[Chapter]] #98
@@ -4251,9 +3616,7 @@ text="""\
 {98:9} Before the LORD; for he cometh to judge the earth: with
  righteousness shall he judge the world, and the people with
  equity.
-
-[Book]
-title="Psalm 99"
+"""
 
 [[Chapter]] #99
 text="""\
@@ -4275,13 +3638,6 @@ text="""\
  forgavest them, though thou tookest vengeance of their inventions.
 {99:9} Exalt the LORD our God, and worship at his holy hill; for the
  LORD our God is holy.
-
-
-Psalm 100
-
-A Psalm of praise.
-
-
 """
 
 [[Chapter]] #100
@@ -4296,13 +3652,6 @@ text="""\
  with praise: be thankful unto him, and bless his name.
 {100:5} For the LORD is good; his mercy is everlasting; and his
  truth endureth to all generations.
-
-
-Psalm 101
-
-A Psalm of David.
-
-
 """
 
 [[Chapter]] #101
@@ -4324,14 +3673,6 @@ text="""\
  telleth lies shall not tarry in my sight.
 {101:8} I will early destroy all the wicked of the land; that I may cut
  off all wicked doers from the city of the LORD.
-
-
-Psalm 102
-
-A Prayer of the afflicted, when he is overwhelmed, and poureth out his
-complaint before the LORD.
-
-
 """
 
 [[Chapter]] #102
@@ -4390,13 +3731,6 @@ text="""\
 {102:27} But thou art the same, and thy years shall have no end.
 {102:28} The children of thy servants shall continue, and their seed
  shall be established before thee.
-
-
-Psalm 103
-
-A Psalm of David.
-
-
 """
 
 [[Chapter]] #103
@@ -4444,9 +3778,7 @@ text="""\
  that do his pleasure.
 {103:22} Bless the LORD, all his works in all places of his dominion:
  bless the LORD, O my soul.
-
-[Book]
-title="Psalm 104"
+"""
 
 [[Chapter]] #104
 text="""\
@@ -4521,9 +3853,7 @@ text="""\
 {104:35} Let the sinners be consumed out of the earth, and let the
  wicked be no more. Bless thou the LORD, O my soul. Praise ye the
  LORD.
-
-[Book]
-title="Psalm 105"
+"""
 
 [[Chapter]] #105
 text="""\
@@ -4607,9 +3937,7 @@ text="""\
  labour of the people;
 {105:45} That they might observe his statutes, and keep his laws.
  Praise ye the LORD.
-
-[Book]
-title="Psalm 106"
+"""
 
 [[Chapter]] #106
 text="""\
@@ -4708,10 +4036,7 @@ text="""\
  to give thanks unto thy holy name, and to triumph in thy praise.
 {106:48} Blessed be the Lord God of Israel from everlasting to
  everlasting: and let all the people say, Amen. Praise ye the LORD.
-
-Book V
-[Book]
-title="Psalm 107"
+"""
 
 [[Chapter]] #107
 text="""\
@@ -4799,13 +4124,6 @@ text="""\
  shall stop her mouth.
 {107:43} Whoso is wise, and will observe these things, even they
  shall understand the lovingkindness of the LORD.
-
-
-Psalm 108
-
-A Song or Psalm of David.
-
-
 """
 
 [[Chapter]] #108
@@ -4834,13 +4152,6 @@ text="""\
 {108:12} Give us help from trouble: for vain is the help of man.
 {108:13} Through God we shall do valiantly: for he it is that shall
  tread down our enemies.
-
-
-Psalm 109
-
-To the chief Musician, A Psalm of David.
-
-
 """
 
 [[Chapter]] #109
@@ -4904,13 +4215,6 @@ text="""\
  praise him among the multitude.
 {109:31} For he shall stand at the right hand of the poor, to save
  him from those that condemn his soul.
-
-
-Psalm 110
-
-A Psalm of David.
-
-
 """
 
 [[Chapter]] #110
@@ -4931,9 +4235,7 @@ text="""\
  countries.
 {110:7} He shall drink of the brook in the way: therefore shall he lift
  up the head.
-
-[Book]
-title="Psalm 111"
+"""
 
 [[Chapter]] #111
 text="""\
@@ -4958,9 +4260,7 @@ text="""\
 {111:10} The fear of the LORD is the beginning of wisdom: a good
  understanding have all they that do his commandments: his
  praise endureth for ever.
-
-[Book]
-title="Psalm 112"
+"""
 
 [[Chapter]] #112
 text="""\
@@ -4984,9 +4284,7 @@ text="""\
  endureth for ever; his horn shall be exalted with honour.
 {112:10} The wicked shall see it, and be grieved; he shall gnash with
  his teeth, and melt away: the desire of the wicked shall perish.
-
-[Book]
-title="Psalm 113"
+"""
 
 [[Chapter]] #113
 text="""\
@@ -5007,9 +4305,7 @@ text="""\
  his people.
 {113:9} He maketh the barren woman to keep house, and to be a joyful
  mother of children. Praise ye the LORD.
-
-[Book]
-title="Psalm 114"
+"""
 
 [[Chapter]] #114
 text="""\
@@ -5027,9 +4323,7 @@ text="""\
  presence of the God of Jacob;
 {114:8} Which turned the rock into a standing water, the flint into a
  fountain of waters.
-
-[Book]
-title="Psalm 115"
+"""
 
 [[Chapter]] #115
 text="""\
@@ -5065,9 +4359,7 @@ text="""\
  silence.
 {115:18} But we will bless the LORD from this time forth and for
  evermore. Praise the LORD.
-
-[Book]
-title="Psalm 116"
+"""
 
 [[Chapter]] #116
 text="""\
@@ -5105,18 +4397,14 @@ text="""\
  his people,
 {116:19} In the courts of the LORD'S house, in the midst of thee, O
  Jerusalem. Praise ye the LORD.
-
-[Book]
-title="Psalm 117"
+"""
 
 [[Chapter]] #117
 text="""\
 {117:1} O praise the LORD, all ye nations: praise him, all ye people.
 {117:2} For his merciful kindness is great toward us: and the truth of
  the LORD endureth for ever. Praise ye the LORD.
-
-[Book]
-title="Psalm 118"
+"""
 
 [[Chapter]] #118
 text="""\
@@ -5173,13 +4461,6 @@ text="""\
  I will exalt thee.
 {118:29} O give thanks unto the LORD; for he is good: for his mercy
  endureth for ever.
-
-
-Psalm 119
-
-ALEPH.
-
-
 """
 
 [[Chapter]] #119
@@ -5564,13 +4845,6 @@ TAU.
  judgments help me.
 {119:176} I have gone astray like a lost sheep; seek thy servant; for I
  do not forget thy commandments.
-
-
-Psalm 120
-
-A Song of degrees.
-
-
 """
 
 [[Chapter]] #120
@@ -5585,13 +4859,6 @@ text="""\
  tents of Kedar!
 {120:6} My soul hath long dwelt with him that hateth peace.
 {120:7} I am for peace: but when I speak, they are for war.
-
-
-Psalm 121
-
-A Song of degrees.
-
-
 """
 
 [[Chapter]] #121
@@ -5609,13 +4876,6 @@ text="""\
  thy soul.
 {121:8} The LORD shall preserve thy going out and thy coming in from
  this time forth, and even for evermore.
-
-
-Psalm 122
-
-A Song of degrees of David.
-
-
 """
 
 [[Chapter]] #122
@@ -5634,13 +4894,6 @@ text="""\
 {122:8} For my brethren and companions' sakes, I will now say, Peace
  be within thee.
 {122:9} Because of the house of the LORD our God I will seek thy good.
-
-
-Psalm 123
-
-A Song of degrees.
-
-
 """
 
 [[Chapter]] #123
@@ -5655,13 +4908,6 @@ text="""\
  exceedingly filled with contempt.
 {123:4} Our soul is exceedingly filled with the scorning of those that
  are at ease, and with the contempt of the proud.
-
-
-Psalm 124
-
-A Song of degrees of David.
-
-
 """
 
 [[Chapter]] #124
@@ -5681,13 +4927,6 @@ text="""\
  the snare is broken, and we are escaped.
 {124:8} Our help is in the name of the LORD, who made heaven and
  earth.
-
-
-Psalm 125
-
-A Song of degrees.
-
-
 """
 
 [[Chapter]] #125
@@ -5703,13 +4942,6 @@ text="""\
 {125:5} As for such as turn aside unto their crooked ways, the LORD
  shall lead them forth with the workers of iniquity: but peace
  shall be upon Israel.
-
-
-Psalm 126
-
-A Song of degrees.
-
-
 """
 
 [[Chapter]] #126
@@ -5725,13 +4957,6 @@ text="""\
 {126:6} He that goeth forth and weepeth, bearing precious seed, shall
  doubtless come again with rejoicing, bringing his sheaves with
  him.
-
-
-Psalm 127
-
-A Song of degrees for Solomon.
-
-
 """
 
 [[Chapter]] #127
@@ -5748,13 +4973,6 @@ text="""\
 {127:5} Happy is the man that hath his quiver full of them: they
  shall not be ashamed, but they shall speak with the enemies in
  the gate.
-
-
-Psalm 128
-
-A Song of degrees.
-
-
 """
 
 [[Chapter]] #128
@@ -5771,13 +4989,6 @@ text="""\
  good of Jerusalem all the days of thy life.
 {128:6} Yea, thou shalt see thy children's children, and peace upon
  Israel.
-
-
-Psalm 129
-
-A Song of degrees.
-
-
 """
 
 [[Chapter]] #129
@@ -5796,13 +5007,6 @@ text="""\
  sheaves his bosom.
 {129:8} Neither do they which go by say, The blessing of the LORD be
  upon you: we bless you in the name of the LORD.
-
-
-Psalm 130
-
-A Song of degrees.
-
-
 """
 
 [[Chapter]] #130
@@ -5821,13 +5025,6 @@ text="""\
 {130:7} Let Israel hope in the LORD: for with the LORD there is
  mercy, and with him is plenteous redemption.
 {130:8} And he shall redeem Israel from all his iniquities.
-
-
-Psalm 131
-
-A Song of degrees of David.
-
-
 """
 
 [[Chapter]] #131
@@ -5838,13 +5035,6 @@ text="""\
 {131:2} Surely I have behaved and quieted myself, as a child that is
  weaned of his mother: my soul is even as a weaned child.
 {131:3} Let Israel hope in the LORD from henceforth and for ever.
-
-
-Psalm 132
-
-A Song of degrees.
-
-
 """
 
 [[Chapter]] #132
@@ -5884,13 +5074,6 @@ text="""\
  lamp for mine anointed.
 {132:18} His enemies will I clothe with shame: but upon himself shall
  his crown flourish.
-
-
-Psalm 133
-
-A Song of degrees of David.
-
-
 """
 
 [[Chapter]] #133
@@ -5903,13 +5086,6 @@ text="""\
 {133:3} As the dew of Hermon, and as the dew that descended upon the
  mountains of Zion: for there the LORD commanded the blessing,
  even life for evermore.
-
-
-Psalm 134
-
-A Song of degrees.
-
-
 """
 
 [[Chapter]] #134
@@ -5918,9 +5094,7 @@ text="""\
  which by night stand in the house of the LORD.
 {134:2} Lift up your hands in the sanctuary, and bless the LORD.
 {134:3} The LORD that made heaven and earth bless thee out of Zion.
-
-[Book]
-title="Psalm 135"
+"""
 
 [[Chapter]] #135
 text="""\
@@ -5965,9 +5139,7 @@ text="""\
  the LORD.
 {135:21} Blessed be the LORD out of Zion, which dwelleth at Jerusalem.
  Praise ye the LORD.
-
-[Book]
-title="Psalm 136"
+"""
 
 [[Chapter]] #136
 text="""\
@@ -6019,9 +5191,7 @@ text="""\
  ever.
 {136:26} O give thanks unto the God of heaven: for his mercy endureth
  for ever.
-
-[Book]
-title="Psalm 137"
+"""
 
 [[Chapter]] #137
 text="""\
@@ -6042,13 +5212,6 @@ text="""\
  be, that rewardeth thee as thou hast served us.
 {137:9} Happy shall he be, that taketh and dasheth thy little ones
  against the stones.
-
-
-Psalm 138
-
-A Psalm of David.
-
-
 """
 
 [[Chapter]] #138
@@ -6072,13 +5235,6 @@ text="""\
 {138:8} The LORD will perfect that which concerneth me: thy mercy, O
  LORD, endureth for ever: forsake not the works of thine own
  hands.
-
-
-Psalm 139
-
-To the chief Musician, A Psalm of David.
-
-
 """
 
 [[Chapter]] #139
@@ -6130,13 +5286,6 @@ text="""\
  thoughts:
 {139:24} And see if there be any wicked way in me, and lead me in the
  way everlasting.
-
-
-Psalm 140
-
-To the chief Musician, A Psalm of David.
-
-
 """
 
 [[Chapter]] #140
@@ -6167,13 +5316,6 @@ text="""\
  and the right of the poor.
 {140:13} Surely the righteous shall give thanks unto thy name: the
  upright shall dwell in thy presence.
-
-
-Psalm 141
-
-A Psalm of David.
-
-
 """
 
 [[Chapter]] #141
@@ -6200,13 +5342,6 @@ text="""\
  gins of the workers of iniquity.
 {141:10} Let the wicked fall into their own nets, whilst that I withal
  escape.
-
-
-Psalm 142
-
-Maschil of David; A Prayer when he was in the cave.
-
-
 """
 
 [[Chapter]] #142
@@ -6227,13 +5362,6 @@ text="""\
 {142:7} Bring my soul out of prison, that I may praise thy name: the
  righteous shall compass me about; for thou shalt deal bountifully
  with me.
-
-
-Psalm 143
-
-A Psalm of David.
-
-
 """
 
 [[Chapter]] #143
@@ -6264,13 +5392,6 @@ text="""\
  righteousness' sake bring my soul out of trouble.
 {143:12} And of thy mercy cut off mine enemies, and destroy all them
  that afflict my soul: for I am thy servant.
-
-
-Psalm 144
-
-A Psalm of David.
-
-
 """
 
 [[Chapter]] #144
@@ -6312,11 +5433,7 @@ text="""\
  is that people, whose God is the LORD.
 
 
-Psalm 145
-
-David's Psalm of praise.
-
-
+'s Psalm of praise.
 """
 
 [[Chapter]] #145
@@ -6363,9 +5480,7 @@ text="""\
  will he destroy.
 {145:21} My mouth shall speak the praise of the LORD: and let all flesh
  bless his holy name for ever and ever.
-
-[Book]
-title="Psalm 146"
+"""
 
 [[Chapter]] #146
 text="""\
@@ -6388,9 +5503,7 @@ text="""\
  and widow: but the way of the wicked he turneth upside down.
 {146:10} The LORD shall reign for ever, even thy God, O Zion, unto
  all generations. Praise ye the LORD.
-
-[Book]
-title="Psalm 147"
+"""
 
 [[Chapter]] #147
 text="""\
@@ -6432,9 +5545,7 @@ text="""\
  unto Israel.
 {147:20} He hath not dealt so with any nation: and as for his
  judgments, they have not known them. Praise ye the LORD.
-
-[Book]
-title="Psalm 148"
+"""
 
 [[Chapter]] #148
 text="""\
@@ -6461,9 +5572,7 @@ text="""\
 {148:14} He also exalteth the horn of his people, the praise of all his
  saints; even of the children of Israel, a people near unto him.
  Praise ye the LORD.
-
-[Book]
-title="Psalm 149"
+"""
 
 [[Chapter]] #149
 text="""\
@@ -6485,9 +5594,7 @@ text="""\
  of iron;
 {149:9} To execute upon them the judgment written: this honour have all
  his saints. Praise ye the LORD.
-
-[Book]
-title="Psalm 150"
+"""
 
 [[Chapter]] #150
 text="""\
