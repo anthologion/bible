@@ -4,7 +4,7 @@ The Book of Psalms
  Book I
 
 [Book]
-title=Psalm 1
+title="Psalm 1"
 
 [[Chapter]] #1
 text="""\
@@ -25,7 +25,7 @@ text="""\
 
 
 [Book]
-title=Psalm 2
+title="Psalm 2"
 
 [[Chapter]] #2
 text="""\
@@ -305,7 +305,7 @@ text="""\
  to be but men. Selah.
 
 [Book]
-title=Psalm 10
+title="Psalm 10"
 
 [[Chapter]] #0
 text="""\
@@ -1232,7 +1232,7 @@ text="""\
  joy, all ye that are upright in heart.
 
 [Book]
-title=Psalm 33
+title="Psalm 33"
 
 [[Chapter]] #3
 text="""\
@@ -1753,7 +1753,7 @@ text="""\
  the health of my countenance, and my God.
 
 [Book]
-title=Psalm 43
+title="Psalm 43"
 
 [[Chapter]] #3
 text="""\
@@ -2926,7 +2926,7 @@ text="""\
  my help and my deliverer; O LORD, make no tarrying.
 
 [Book]
-title=Psalm 71
+title="Psalm 71"
 
 [[Chapter]] #1
 text="""\
@@ -3987,7 +3987,7 @@ text="""\
  our hands establish thou it.
 
 [Book]
-title=Psalm 91
+title="Psalm 91"
 
 [[Chapter]] #1
 text="""\
@@ -4064,7 +4064,7 @@ text="""\
  is no unrighteousness in him.
 
 [Book]
-title=Psalm 93
+title="Psalm 93"
 
 [[Chapter]] #3
 text="""\
@@ -4081,7 +4081,7 @@ text="""\
  LORD, for ever.
 
 [Book]
-title=Psalm 94
+title="Psalm 94"
 
 [[Chapter]] #4
 text="""\
@@ -4131,7 +4131,7 @@ text="""\
  cut them off.
 
 [Book]
-title=Psalm 95
+title="Psalm 95"
 
 [[Chapter]] #5
 text="""\
@@ -4158,7 +4158,7 @@ text="""\
  my rest.
 
 [Book]
-title=Psalm 96
+title="Psalm 96"
 
 [[Chapter]] #6
 text="""\
@@ -4192,7 +4192,7 @@ text="""\
  people with his truth.
 
 [Book]
-title=Psalm 97
+title="Psalm 97"
 
 [[Chapter]] #7
 text="""\
@@ -4253,7 +4253,7 @@ text="""\
  equity.
 
 [Book]
-title=Psalm 99
+title="Psalm 99"
 
 [[Chapter]] #9
 text="""\
@@ -4446,7 +4446,7 @@ text="""\
  bless the LORD, O my soul.
 
 [Book]
-title=Psalm 104
+title="Psalm 104"
 
 [[Chapter]] #4
 text="""\
@@ -4523,7 +4523,7 @@ text="""\
  LORD.
 
 [Book]
-title=Psalm 105
+title="Psalm 105"
 
 [[Chapter]] #5
 text="""\
@@ -4609,7 +4609,7 @@ text="""\
  Praise ye the LORD.
 
 [Book]
-title=Psalm 106
+title="Psalm 106"
 
 [[Chapter]] #6
 text="""\
@@ -4711,7 +4711,7 @@ text="""\
 
 Book V
 [Book]
-title=Psalm 107
+title="Psalm 107"
 
 [[Chapter]] #7
 text="""\
@@ -4933,7 +4933,7 @@ text="""\
  up the head.
 
 [Book]
-title=Psalm 111
+title="Psalm 111"
 
 [[Chapter]] #1
 text="""\
@@ -4960,7 +4960,7 @@ text="""\
  praise endureth for ever.
 
 [Book]
-title=Psalm 112
+title="Psalm 112"
 
 [[Chapter]] #2
 text="""\
@@ -4986,7 +4986,7 @@ text="""\
  his teeth, and melt away: the desire of the wicked shall perish.
 
 [Book]
-title=Psalm 113
+title="Psalm 113"
 
 [[Chapter]] #3
 text="""\
@@ -5009,7 +5009,7 @@ text="""\
  mother of children. Praise ye the LORD.
 
 [Book]
-title=Psalm 114
+title="Psalm 114"
 
 [[Chapter]] #4
 text="""\
@@ -5029,7 +5029,7 @@ text="""\
  fountain of waters.
 
 [Book]
-title=Psalm 115
+title="Psalm 115"
 
 [[Chapter]] #5
 text="""\
@@ -5067,7 +5067,7 @@ text="""\
  evermore. Praise the LORD.
 
 [Book]
-title=Psalm 116
+title="Psalm 116"
 
 [[Chapter]] #6
 text="""\
@@ -5107,7 +5107,7 @@ text="""\
  Jerusalem. Praise ye the LORD.
 
 [Book]
-title=Psalm 117
+title="Psalm 117"
 
 [[Chapter]] #7
 text="""\
@@ -5116,7 +5116,7 @@ text="""\
  the LORD endureth for ever. Praise ye the LORD.
 
 [Book]
-title=Psalm 118
+title="Psalm 118"
 
 [[Chapter]] #8
 text="""\
@@ -5920,7 +5920,7 @@ text="""\
 {134:3} The LORD that made heaven and earth bless thee out of Zion.
 
 [Book]
-title=Psalm 135
+title="Psalm 135"
 
 [[Chapter]] #5
 text="""\
@@ -5967,7 +5967,7 @@ text="""\
  Praise ye the LORD.
 
 [Book]
-title=Psalm 136
+title="Psalm 136"
 
 [[Chapter]] #6
 text="""\
@@ -6021,7 +6021,7 @@ text="""\
  for ever.
 
 [Book]
-title=Psalm 137
+title="Psalm 137"
 
 [[Chapter]] #7
 text="""\
@@ -6365,7 +6365,7 @@ text="""\
  bless his holy name for ever and ever.
 
 [Book]
-title=Psalm 146
+title="Psalm 146"
 
 [[Chapter]] #6
 text="""\
@@ -6390,7 +6390,7 @@ text="""\
  all generations. Praise ye the LORD.
 
 [Book]
-title=Psalm 147
+title="Psalm 147"
 
 [[Chapter]] #7
 text="""\
@@ -6434,7 +6434,7 @@ text="""\
  judgments, they have not known them. Praise ye the LORD.
 
 [Book]
-title=Psalm 148
+title="Psalm 148"
 
 [[Chapter]] #8
 text="""\
@@ -6463,7 +6463,7 @@ text="""\
  Praise ye the LORD.
 
 [Book]
-title=Psalm 149
+title="Psalm 149"
 
 [[Chapter]] #9
 text="""\
@@ -6487,7 +6487,7 @@ text="""\
  his saints. Praise ye the LORD.
 
 [Book]
-title=Psalm 150
+title="Psalm 150"
 
 [[Chapter]] #0
 text="""\

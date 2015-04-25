@@ -11,7 +11,7 @@ cat $f \
 | perl -pe 's/(\{(\d)+:1\}) /"""\n\n[[Chapter]] #$2\ntext="""\\\n$1 /' \
 | perl -pe 's/[ \t][ \t]+/ /' \
 | perl -0777pe 's/([\s,.])\[([:,.;\w\s]+)\]([\s,.])/$1$2$3/g' \
-| perl -0777pe 's/\s([\w ]+)\s+"""/[Book]\ntitle=$1/sg' \
+| perl -0777pe 's/\s([\w ]+)\s+"""/[Book]\ntitle="$1"/sg' \
 | perl -0777pe 's/\n """/"""/sg' \
 > ./toml/`basename ${f%.*}`.toml
 done
