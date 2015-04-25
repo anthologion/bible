@@ -1,7 +1,19 @@
 # kjv-bible
-The KJV Bible in TOML
+#The KJV Bible in TOML
 
-The format of a Bible toml file is as follows
+##Editing Notes
+This version does *not* attempt to stay faitful to any sort of original
+typesetting. In particular, words that were bracked as words inserted by the
+translators have been retained in-line with no special formatting.
+
+The Psalms are not separated into their individual books.
+
+The goal of this project is to provide a text store that is convient to to access
+programatically.
+
+
+##Format
+The format of a Bible toml file is as follows.
 
 ```
 [Book]
@@ -20,9 +32,13 @@ Elishah, and Tarshish, Kittim, and Dodanim.
 ```
 
 Several versification styles will be supported.
-Verse divider(placed at the *start* of a verse!): `\\`` 
+Verse divider(placed at the *start* of a verse!): `\\` 
 `{<chapter>:<verse>}`
 `{<verse>}`
 
 This KJV version will use `{<chapter>:<verse>}` exclusively. This will allow for easier searching if mistakes are found.
+
+#Acknowledgments
+
+Thank you to http://ebible.org/kjv/ for providing a textual KJV with Apocrypha!
 
