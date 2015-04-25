@@ -1,7 +1,5 @@
-
-The Book of Baruch
-
- """
+[Book]
+title="The Book of Baruch"
 
 [[Chapter]] #1
 text="""\
@@ -88,8 +86,7 @@ unto us:
  {1:22} But every man followed the imagination of his own wicked
 heart, to serve strange gods, and to do evil in the sight of the Lord
 our God.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -222,8 +219,7 @@ diminished.
  {2:35} And I will make an everlasting covenant with them to be their
 God, and they shall be my people: and I will no more drive my people of
 Israel out of the land that I have given them.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -345,8 +341,7 @@ unto Jacob his servant, and to Israel his beloved.
 
  {3:37} Afterward did he shew himself upon earth, and conversed with
 men.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -467,8 +462,7 @@ joy that cometh unto thee from God.
  {4:37} Lo, thy sons come, whom thou sentest away, they come gathered
 together from the east to the west by the word of the Holy One,
 rejoicing in the glory of God.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\

@@ -1,7 +1,5 @@
-
-The General Epistle of James
-
- """
+[Book]
+title="The General Epistle of James"
 
 [[Chapter]] #1
 text="""\
@@ -53,8 +51,7 @@ deceiveth his own heart, this man's religion is vain. {1:27} Pure
 religion and undefiled before God and the Father is this, To visit the
 fatherless and widows in their affliction, and to keep himself
 unspotted from the world.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -101,8 +98,7 @@ Likewise also was not Rahab the harlot justified by works, when she had
 received the messengers, and had sent them out another way? {2:26}
 For as the body without the spirit is dead, so faith without works is
 dead also.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -138,8 +134,7 @@ that is from above is first pure, then peaceable, gentle, and easy to
 be intreated, full of mercy and good fruits, without partiality, and
 without hypocrisy. {3:18} And the fruit of righteousness is sown in
 peace of them that make peace.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -174,8 +169,7 @@ then vanisheth away. {4:15} For that ye ought to say, If the Lord
 will, we shall live, and do this, or that. {4:16} But now ye rejoice in
 your boastings: all such rejoicing is evil. {4:17} Therefore to him
 that knoweth to do good, and doeth it not, to him it is sin.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\

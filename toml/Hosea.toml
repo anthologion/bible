@@ -1,7 +1,5 @@
-
-Hosea
-
- """
+[Book]
+title="Hosea"
 
 [[Chapter]] #1
 text="""\
@@ -36,8 +34,7 @@ people, there it shall be said unto them, Ye are the sons of the
 living God. {1:11} Then shall the children of Judah and the children of
 Israel be gathered together, and appoint themselves one head, and they
 shall come up out of the land: for great shall be the day of Jezreel.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -95,8 +92,7 @@ and the oil; and they shall hear Jezreel. {2:23} And I will sow her
 unto me in the earth; and I will have mercy upon her that had not
 obtained mercy; and I will say to them which were not my people, Thou
 art my people; and they shall say, Thou art my God.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -113,8 +109,7 @@ without an image, and without an ephod, and without teraphim: {3:5}
 Afterward shall the children of Israel return, and seek the LORD their
 God, and David their king; and shall fear the LORD and his goodness in
 the latter days.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -162,8 +157,7 @@ Ephraim is joined to idols: let him alone. {4:18} Their drink is
 sour: they have committed whoredom continually: her rulers with shame
 do love, Give ye. {4:19} The wind hath bound her up in her wings, and
 they shall be ashamed because of their sacrifices.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -199,8 +193,7 @@ go away; I will take away, and none shall rescue him.
  {5:15} I will go and return to my place, till they acknowledge
 their offence, and seek my face: in their affliction they will seek me
 early.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -226,8 +219,7 @@ consent: for they commit lewdness. {6:10} I have seen an horrible thing
 in the house of Israel: there is the whoredom of Ephraim, Israel is
 defiled. {6:11} Also, O Judah, he hath set an harvest for thee, when I
 returned the captivity of my people.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -266,8 +258,7 @@ mischief against me. {7:16} They return, but not to the most High:
 they are like a deceitful bow: their princes shall fall by the sword
 for the rage of their tongue: this shall be their derision in the
 land of Egypt.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -299,8 +290,7 @@ he remember their iniquity, and visit their sins: they shall return to
 Egypt. {8:14} For Israel hath forgotten his Maker, and buildeth
 temples; and Judah hath multiplied fenced cities: but I will send a
 fire upon his cities, and it shall devour the palaces thereof.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -343,10 +333,9 @@ Ephraim is smitten, their root is dried up, they shall bear no fruit:
 yea, though they bring forth, yet will I slay even the beloved
 fruit of their womb. {9:17} My God will cast them away, because they
 did not hearken unto him: and they shall be wanderers among the nations.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #10
 text="""\
 {10:1} Israel is an empty vine, he bringeth forth fruit unto
 himself: according to the multitude of his fruit he hath increased the
@@ -384,10 +373,9 @@ spoiled, as Shalman spoiled Beth- arbel in the day of battle: the
 mother was dashed in pieces upon her children. {10:15} So shall
 Bethel do unto you because of your great wickedness: in a morning shall
 the king of Israel utterly be cut off.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #11
 text="""\
 {11:1} When Israel was a child, then I loved him, and called my
 son out of Egypt. {11:2} As they called them, so they went from them:
@@ -415,10 +403,9 @@ Egypt, and as a dove out of the land of Assyria: and I will place them
 in their houses, saith the LORD. {11:12} Ephraim compasseth me about
 with lies, and the house of Israel with deceit: but Judah yet ruleth
 with God, and is faithful with the saints.
+"""
 
- """
-
-[[Chapter]] #2
+[[Chapter]] #12
 text="""\
 {12:1} Ephraim feedeth on wind, and followeth after the east wind:
 he daily increaseth lies and desolation; and they do make a covenant
@@ -447,10 +434,9 @@ wife he kept [sheep. ]{12:13} And by a prophet the LORD brought Israel
 out of Egypt, and by a prophet was he preserved. {12:14} Ephraim
 provoked him to anger most bitterly: therefore shall he leave his
 blood upon him, and his reproach shall his Lord return unto him.
+"""
 
- """
-
-[[Chapter]] #3
+[[Chapter]] #13
 text="""\
 {13:1} When Ephraim spake trembling, he exalted himself in Israel;
 but when he offended in Baal, he died. {13:2} And now they sin more and
@@ -489,10 +475,9 @@ shall spoil the treasure of all pleasant vessels. {13:16} Samaria shall
 become desolate; for she hath rebelled against her God: they shall fall
 by the sword: their infants shall be dashed in pieces, and their women
 with child shall be ripped up.
+"""
 
- """
-
-[[Chapter]] #4
+[[Chapter]] #14
 text="""\
 {14:1} O Israel, return unto the LORD thy God; for thou hast fallen
 by thine iniquity. {14:2} Take with you words, and turn to the LORD:

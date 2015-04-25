@@ -1,7 +1,6 @@
 
-The Fifth Book of Moses, called Deuteronomy
-
- """
+The Fifth Book of Moses,[Book]
+title="called Deuteronomy"
 
 [[Chapter]] #1
 text="""\
@@ -109,8 +108,7 @@ do, and destroyed you in Seir, even unto Hormah. {1:45} And ye
 returned and wept before the LORD; but the LORD would not hearken to
 your voice, nor give ear unto you. {1:46} So ye abode in Kadesh many
 days, according unto the days that ye abode there.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -200,8 +198,7 @@ LORD our God delivered all unto us: {2:37} Only unto the land of the
 children of Ammon thou camest not, nor unto any place of the river
 Jabbok, nor unto the cities in the mountains, nor unto whatsoever the
 LORD our God forbad us.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -272,8 +269,7 @@ shalt not go over this Jordan. {3:28} But charge Joshua, and encourage
 him, and strengthen him: for he shall go over before this people, and
 he shall cause them to inherit the land which thou shalt see. {3:29} So
 we abode in the valley over against Beth- peor.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -402,8 +398,7 @@ on this side Jordan toward the sunrising; {4:48} From Aroer, which is
 by the bank of the river Arnon, even unto mount Sion, which is
 Hermon, {4:49} And all the plain on this side Jordan eastward, even
 unto the sea of the plain, under the springs of Pisgah.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -482,8 +477,7 @@ right hand or to the left. {5:33} Ye shall walk in all the ways which
 the LORD your God hath commanded you, that ye may live, and that it
 may be well with you, and that ye may prolong your days in the
 land which ye shall possess.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -541,8 +535,7 @@ these statutes, to fear the LORD our God, for our good always, that he
 might preserve us alive, as it is at this day. {6:25} And it shall be
 our righteousness, if we observe to do all these commandments before
 the LORD our God, as he hath commanded us.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -615,8 +608,7 @@ lest thou be snared therein: for it is an abomination to the LORD thy
 God. {7:26} Neither shalt thou bring an abomination into thine house,
 lest thou be a cursed thing like it: but thou shalt utterly detest
 it, and thou shalt utterly abhor it; for it is a cursed thing.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -665,8 +657,7 @@ thy God, and walk after other gods, and serve them, and worship them, I
 testify against you this day that ye shall surely perish. {8:20} As the
 nations which the LORD destroyeth before your face, so shall ye perish;
 because ye would not be obedient unto the voice of the LORD your God.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -748,10 +739,9 @@ and because he hated them, he hath brought them out to slay them in the
 wilderness. {9:29} Yet they are thy people and thine inheritance,
 which thou broughtest out by thy mighty power and by thy stretched out
 arm.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #10
 text="""\
 {10:1} At that time the LORD said unto me, Hew thee two tables of
 stone like unto the first, and come up unto me into the mount, and make
@@ -805,10 +795,9 @@ is thy God, that hath done for thee these great and terrible things,
 which thine eyes have seen. {10:22} Thy fathers went down into Egypt
 with threescore and ten persons; and now the LORD thy God hath made
 thee as the stars of heaven for multitude.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #11
 text="""\
 {11:1} Therefore thou shalt love the LORD thy God, and keep his
 charge, and his statutes, and his judgments, and his commandments,
@@ -889,10 +878,9 @@ For ye shall pass over Jordan to go in to possess the land which the
 LORD your God giveth you, and ye shall possess it, and dwell therein.
 {11:32} And ye shall observe to do all the statutes and judgments which
 I set before you this day.
+"""
 
- """
-
-[[Chapter]] #2
+[[Chapter]] #12
 text="""\
 {12:1} These are the statutes and judgments, which ye shall
 observe to do in the land, which the LORD God of thy fathers giveth
@@ -982,10 +970,9 @@ LORD, which he hateth, have they done unto their gods; for even their
 sons and their daughters they have burnt in the fire to their gods.
 {12:32} What thing soever I command you, observe to do it: thou shalt
 not add thereto, nor diminish from it.
+"""
 
- """
-
-[[Chapter]] #3
+[[Chapter]] #13
 text="""\
 {13:1} If there arise among you a prophet, or a dreamer of dreams,
 and giveth thee a sign or a wonder, {13:2} And the sign or the wonder
@@ -1039,10 +1026,9 @@ thee, as he hath sworn unto thy fathers; {13:18} When thou shalt
 hearken to the voice of the LORD thy God, to keep all his commandments
 which I command thee this day, to do that which is right in the eyes
 of the LORD thy God.
+"""
 
- """
-
-[[Chapter]] #4
+[[Chapter]] #14
 text="""\
 {14:1} Ye are the children of the LORD your God: ye shall not cut
 yourselves, nor make any baldness between your eyes for the dead.
@@ -1107,10 +1093,9 @@ with thee,) and the stranger, and the fatherless, and the widow, which
 are within thy gates, shall come, and shall eat and be satisfied;
 that the LORD thy God may bless thee in all the work of thine hand
 which thou doest.
+"""
 
- """
-
-[[Chapter]] #5
+[[Chapter]] #15
 text="""\
 {15:1} At the end of every seven years thou shalt make a release.
 {15:2} And this is the manner of the release: Every creditor that
@@ -1172,10 +1157,9 @@ LORD thy God. {15:22} Thou shalt eat it within thy gates: the unclean
 and the clean person shall eat it alike, as the roebuck, and as the
 hart. {15:23} Only thou shalt not eat the blood thereof; thou shalt
 pour it upon the ground as water.
+"""
 
- """
-
-[[Chapter]] #6
+[[Chapter]] #16
 text="""\
 {16:1} Observe the month of Abib, and keep the passover unto the
 LORD thy God: for in the month of Abib the LORD thy God brought thee
@@ -1242,10 +1226,9 @@ giveth thee.
  {16:21} Thou shalt not plant thee a grove of any trees near unto the
 altar of the LORD thy God, which thou shalt make thee. {16:22} Neither
 shalt thou set thee up any image; which the LORD thy God hateth.
+"""
 
- """
-
-[[Chapter]] #7
+[[Chapter]] #17
 text="""\
 {17:1} Thou shalt not sacrifice unto the LORD thy God any bullock,
 or sheep, wherein is blemish, or any evilfavouredness: for that is
@@ -1308,10 +1291,9 @@ do them: {17:20} That his heart be not lifted up above his brethren,
 and that he turn not aside from the commandment, to the right hand,
 or to the left: to the end that he may prolong his days in his
 kingdom, he, and his children, in the midst of Israel.
+"""
 
- """
-
-[[Chapter]] #8
+[[Chapter]] #18
 text="""\
 {18:1} The priests the Levites, and all the tribe of Levi, shall
 have no part nor inheritance with Israel: they shall eat the offerings
@@ -1366,10 +1348,9 @@ which the LORD hath not spoken? {18:22} When a prophet speaketh in the
 name of the LORD, if the thing follow not, nor come to pass, that is
 the thing which the LORD hath not spoken, but the prophet hath spoken
 it presumptuously: thou shalt not be afraid of him.
+"""
 
- """
-
-[[Chapter]] #9
+[[Chapter]] #19
 text="""\
 {19:1} When the LORD thy God hath cut off the nations, whose land
 the LORD thy God giveth thee, and thou succeedest them, and dwellest in
@@ -1427,10 +1408,9 @@ And those which remain shall hear, and fear, and shall henceforth
 commit no more any such evil among you. {19:21} And thine eye shall not
 pity; but life shall go for life, eye for eye, tooth for tooth,
 hand for hand, foot for foot.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #20
 text="""\
 {20:1} When thou goest out to battle against thine enemies, and
 seest horses, and chariots, and a people more than thou, be not
@@ -1487,10 +1467,9 @@ to employ them in the siege: {20:20} Only the trees which thou
 knowest that they be not trees for meat, thou shalt destroy and cut
 them down; and thou shalt build bulwarks against the city that maketh
 war with thee, until it be subdued.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #21
 text="""\
 {21:1} If one be found slain in the land which the LORD thy God
 giveth thee to possess it, lying in the field, and it be not known
@@ -1555,10 +1534,9 @@ to be put to death, and thou hang him on a tree: {21:23} His body shall
 not remain all night upon the tree, but thou shalt in any wise bury him
 that day; (for he that is hanged is accursed of God;) that thy land
 be not defiled, which the LORD thy God giveth thee for an inheritance.
+"""
 
- """
-
-[[Chapter]] #2
+[[Chapter]] #22
 text="""\
 {22:1} Thou shalt not see the brother's ox or his sheep go astray,
 and hide thyself from them: thou shalt in any case bring them again
@@ -1650,10 +1628,9 @@ hath humbled her, he may not put her away all his days.
 
  {22:30} A man shall not take his father's wife, nor discover his
 father's skirt.
+"""
 
- """
-
-[[Chapter]] #3
+[[Chapter]] #23
 text="""\
 {23:1} He that is wounded in the stones, or hath his privy member
 cut off, shall not enter into the congregation of the LORD. {23:2} A
@@ -1723,10 +1700,9 @@ mayest eat grapes thy fill at thine own pleasure; but thou shalt not
 put any in thy vessel. {23:25} When thou comest into the standing
 corn of thy neighbour, then thou mayest pluck the ears with thine hand;
 but thou shalt not move a sickle unto thy neighbour's standing corn.
+"""
 
- """
-
-[[Chapter]] #4
+[[Chapter]] #24
 text="""\
 {24:1} When a man hath taken a wife, and married her, and it come to
 pass that she find no favour in his eyes, because he hath found some
@@ -1792,10 +1768,9 @@ shalt not glean it afterward: it shall be for the stranger, for the
 fatherless, and for the widow. {24:22} And thou shalt remember that
 thou wast a bondman in the land of Egypt: therefore I command thee to
 do this thing.
+"""
 
- """
-
-[[Chapter]] #5
+[[Chapter]] #25
 text="""\
 {25:1} If there be a controversy between men, and they come unto
 judgment, that the judges may judge them; then they shall justify the
@@ -1848,10 +1823,9 @@ it shall be, when the LORD thy God hath given thee rest from all thine
 enemies round about, in the land which the LORD thy God giveth thee
 for an inheritance to possess it, that thou shalt blot out the
 remembrance of Amalek from under heaven; thou shalt not forget it.
+"""
 
- """
-
-[[Chapter]] #6
+[[Chapter]] #26
 text="""\
 {26:1} And it shall be, when thou art come in unto the land which
 the LORD thy God giveth thee for an inheritance, and possessest it,
@@ -1909,10 +1883,9 @@ keep all his commandments; {26:19} And to make thee high above all
 nations which he hath made, in praise, and in name, and in honour; and
 that thou mayest be an holy people unto the LORD thy God, as he hath
 spoken.
+"""
 
- """
-
-[[Chapter]] #7
+[[Chapter]] #27
 text="""\
 {27:1} And Moses with the elders of Israel commanded the people,
 saying, Keep all the commandments which I command you this day. {27:2}
@@ -1968,10 +1941,9 @@ say, Amen. {27:25} Cursed be he that taketh reward to slay an
 innocent person. And all the people shall say, Amen. {27:26} Cursed
 be he that confirmeth not all the words of this law to do them. And
 all the people shall say, Amen.
+"""
 
- """
-
-[[Chapter]] #8
+[[Chapter]] #28
 text="""\
 {28:1} And it shall come to pass, if thou shalt hearken diligently
 unto the voice of the LORD thy God, to observe and to do all his
@@ -2141,10 +2113,9 @@ shalt see. {28:68} And the LORD shall bring thee into Egypt again with
 ships, by the way whereof I spake unto thee, Thou shalt see it no more
 again: and there ye shall be sold unto your enemies for bondmen and
 bondwomen, and no man shall buy you.
+"""
 
- """
-
-[[Chapter]] #9
+[[Chapter]] #29
 text="""\
 {29:1} These are the words of the covenant, which the LORD
 commanded Moses to make with the children of Israel in the land of
@@ -2216,10 +2187,9 @@ them into another land, as it is this day. {29:29} The secret things
 belong unto the LORD our God: but those things which are revealed
 belong unto us and to our children for ever, that we may do all the
 words of this law.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #30
 text="""\
 {30:1} And it shall come to pass, when all these things are come
 upon thee, the blessing and the curse, which I have set before thee,
@@ -2275,10 +2245,9 @@ and that thou mayest obey his voice, and that thou mayest cleave unto
 him: for he is thy life, and the length of thy days: that thou mayest
 dwell in the land which the LORD sware unto thy fathers, to Abraham, to
 Isaac, and to Jacob, to give them.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #31
 text="""\
 {31:1} And Moses went and spake these words unto all Israel. {31:2}
 And he said unto them, I am an hundred and twenty years old this day;
@@ -2369,10 +2338,9 @@ days; because ye will do evil in the sight of the LORD, to provoke him
 to anger through the work of your hands. {31:30} And Moses spake in the
 ears of all the congregation of Israel the words of this song, until
 they were ended.
+"""
 
- """
-
-[[Chapter]] #2
+[[Chapter]] #32
 text="""\
 {32:1} Give ear, O ye heavens, and I will speak; and hear, O earth,
 the words of my mouth. {32:2} My doctrine shall drop as the rain, my
@@ -2485,10 +2453,9 @@ wilderness of Zin; because ye sanctified me not in the midst of the
 children of Israel. {32:52} Yet thou shalt see the land before thee;
 but thou shalt not go thither unto the land which I give the children
 of Israel.
+"""
 
- """
-
-[[Chapter]] #3
+[[Chapter]] #33
 text="""\
 {33:1} And this is the blessing, wherewith Moses the man of God
 blessed the children of Israel before his death. {33:2} And he said,
@@ -2570,10 +2537,9 @@ heavens shall drop down dew. {33:29} Happy art thou, O Israel: who
 is like unto thee, O people saved by the LORD, the shield of thy
 help, and who is the sword of thy excellency! and thine enemies shall
 be found liars unto thee; and thou shalt tread upon their high places.
+"""
 
- """
-
-[[Chapter]] #4
+[[Chapter]] #34
 text="""\
 {34:1} And Moses went up from the plains of Moab unto the mountain
 of Nebo, to the top of Pisgah, that is over against Jericho. And the

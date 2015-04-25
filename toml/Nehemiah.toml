@@ -1,7 +1,5 @@
-
-The Book of Nehemiah
-
- """
+[Book]
+title="The Book of Nehemiah"
 
 [[Chapter]] #1
 text="""\
@@ -39,8 +37,7 @@ the prayer of thy servant, and to the prayer of thy servants, who
 desire to fear thy name: and prosper, I pray thee, thy servant this
 day, and grant him mercy in the sight of this man. For I was the king's
 cupbearer.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -103,8 +100,7 @@ this thing that ye do? will ye rebel against the king? {2:20} Then
 answered I them, and said unto them, The God of heaven, he will prosper
 us; therefore we his servants will arise and build: but ye have no
 portion, nor right, nor memorial, in Jerusalem.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -183,8 +179,7 @@ son unto the place of the Nethinims, and of the merchants, over against
 the gate Miphkad, and to the going up of the corner. {3:32} And between
 the going up of the corner unto the sheep gate repaired the goldsmiths
 and the merchants.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -249,8 +244,7 @@ a guard to us, and labour on the day. {4:23} So neither I, nor my
 brethren, nor my servants, nor the men of the guard which followed me,
 none of us put off our clothes, saving that every one put them off
 for washing.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -308,8 +302,7 @@ all sorts of wine: yet for all this required not I the bread of the
 governor, because the bondage was heavy upon this people. {5:19} Think
 upon me, my God, for good, according to all that I have done for this
 people.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -363,8 +356,7 @@ law of Shechaniah the son of Arah; and his son Johanan had taken the
 daughter of Meshullam the son of Berechiah. {6:19} Also they reported
 his good deeds before me, and uttered my words to him. And Tobiah
 sent letters to put me in fear.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -489,8 +481,7 @@ threescore and seven priests' garments. {7:73} So the priests, and the
 Levites, and the porters, and the singers, and some of the people,
 and the Nethinims, and all Israel, dwelt in their cities; and when the
 seventh month came, the children of Israel were in their cities.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -555,8 +546,7 @@ was very great gladness. {8:18} Also day by day, from the first day
 unto the last day, he read in the book of the law of God. And they kept
 the feast seven days; and on the eighth day was a solemn assembly,
 according unto the manner.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -673,10 +663,9 @@ over our bodies, and over our cattle, at their pleasure, and we are
 in great distress. {9:38} And because of all this we make a sure
 covenant, and write it; and our princes, Levites, and priests,
 seal unto it.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #10
 text="""\
 {10:1} Now those that sealed were, Nehemiah, the Tirshatha, the
 son of Hachaliah, and Zidkijah, {10:2} Seraiah, Azariah, Jeremiah,
@@ -737,10 +726,9 @@ children of Israel and the children of Levi shall bring the offering of
 the corn, of the new wine, and the oil, unto the chambers, where are
 the vessels of the sanctuary, and the priests that minister, and the
 porters, and the singers: and we will not forsake the house of our God.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #11
 text="""\
 {11:1} And the rulers of the people dwelt at Jerusalem: the rest of
 the people also cast lots, to bring one of ten to dwell in Jerusalem
@@ -813,10 +801,9 @@ their villages, {11:32} And at Anathoth, Nob, Ananiah, {11:33} Hazor,
 Ramah, Gittaim, {11:34} Hadid, Zeboim, Neballat, {11:35} Lod, and Ono,
 the valley of craftsmen. {11:36} And of the Levites were divisions
 in Judah, and in Benjamin.
+"""
 
- """
-
-[[Chapter]] #2
+[[Chapter]] #12
 text="""\
 {12:1} Now these are the priests and the Levites that went up with
 Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,
@@ -908,10 +895,9 @@ chief of the singers, and songs of praise and thanksgiving unto God.
 Nehemiah, gave the portions of the singers and the porters, every day
 his portion: and they sanctified holy things unto the Levites; and
 the Levites sanctified them unto the children of Aaron.
+"""
 
- """
-
-[[Chapter]] #3
+[[Chapter]] #13
 text="""\
 {13:1} On that day they read in the book of Moses in the audience of
 the people; and therein was found written, that the Ammonite and the

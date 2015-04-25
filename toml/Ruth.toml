@@ -1,7 +1,5 @@
-
-The Book of Ruth
-
- """
+[Book]
+title="The Book of Ruth"
 
 [[Chapter]] #1
 text="""\
@@ -58,8 +56,7 @@ testified against me, and the Almighty hath afflicted me? {1:22} So
 Naomi returned, and Ruth the Moabitess, her daughter in law, with her,
 which returned out of the country of Moab: and they came to Bethlehem
 in the beginning of barley harvest.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -125,8 +122,7 @@ unto Ruth her daughter in law, It is good, my daughter, that thou go
 out with his maidens, that they meet thee not in any other field.
 {2:23} So she kept fast by the maidens of Boaz to glean unto the end of
 barley harvest and of wheat harvest; and dwelt with her mother in law.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -177,8 +173,7 @@ for he said to me, Go not empty unto thy mother in law. {3:18} Then
 said she, Sit still, my daughter, until thou know how the matter will
 fall: for the man will not be in rest, until he have finished the thing
 this day.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\

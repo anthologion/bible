@@ -1,7 +1,5 @@
-
-The First Book of the KingsCommonly Called the Third Book of the Kings
-
- """
+[Book]
+title="The First Book of the KingsCommonly Called the Third Book of the Kings"
 
 [[Chapter]] #1
 text="""\
@@ -136,8 +134,7 @@ shall not an hair of him fall to the earth: but if wickedness shall be
 found in him, he shall die. {1:53} So king Solomon sent, and they
 brought him down from the altar. And he came and bowed himself to king
 Solomon: and Solomon said unto him, Go to thine house.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -268,8 +265,7 @@ king Solomon shall be blessed, and the throne of David shall be
 established before the LORD for ever. {2:46} So the king commanded
 Benaiah the son of Jehoiada; which went out, and fell upon him, that he
 died. And the kingdom was established in the hand of Solomon.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -342,8 +338,7 @@ king answered and said, Give her the living child, and in no wise slay
 it: she is the mother thereof. {3:28} And all Israel heard of the
 judgment which the king had judged; and they feared the king: for they
 saw that the wisdom of God was in him, to do judgment.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -413,8 +408,7 @@ that is in Lebanon even unto the hyssop that springeth out of the
 wall: he spake also of beasts, and of fowl, and of creeping things, and
 of fishes. {4:34} And there came of all people to hear the wisdom of
 Solomon, from all kings of the earth, which had heard of his wisdom.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -464,8 +458,7 @@ king commanded, and they brought great stones, costly stones, and
 hewed stones, to lay the foundation of the house. {5:18} And Solomon's
 builders and Hiram's builders did hew them, and the stonesquarers: so
 they prepared timber and stones to build the house.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -560,8 +553,7 @@ LORD laid, in the month Zif: {6:38} And in the eleventh year, in the
 month Bul, which is the eighth month, was the house finished
 throughout all the parts thereof, and according to all the fashion of
 it. So was he seven years in building it.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -698,8 +690,7 @@ of the temple. {7:51} So was ended all the work that king Solomon made
 for the house of the LORD. And Solomon brought in the things which
 David his father had dedicated; even the silver, and the gold, and
 the vessels, did he put among the treasures of the house of the LORD.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -888,8 +879,7 @@ days. {8:66} On the eighth day he sent the people away: and they
 blessed the king, and went unto their tents joyful and glad of heart
 for all the goodness that the LORD had done for David his servant, and
 for Israel his people.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -967,10 +957,9 @@ is beside Eloth, on the shore of the Red sea, in the land of Edom.
 knowledge of the sea, with the servants of Solomon. {9:28} And they
 came to Ophir, and fetched from thence gold, four hundred and twenty
 talents, and brought it to king Solomon.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #10
 text="""\
 {10:1} And when the queen of Sheba heard of the fame of Solomon
 concerning the name of the LORD, she came to prove him with hard
@@ -1048,10 +1037,9 @@ chariot came up and went out of Egypt for six hundred shekels of
 silver, and an horse for an hundred and fifty: and so for all the kings
 of the Hittites, and for the kings of Syria, did they bring them out
 by their means.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #11
 text="""\
 {11:1} But king Solomon loved many strange women, together with the
 daughter of Pharaoh, women of the Moabites, Ammonites, Edomites,
@@ -1160,10 +1148,9 @@ Solomon? {11:42} And the time that Solomon reigned in Jerusalem over
 all Israel was forty years. {11:43} And Solomon slept with his
 fathers, and was buried in the city of David his father: and Rehoboam
 his son reigned in his stead.
+"""
 
- """
-
-[[Chapter]] #2
+[[Chapter]] #12
 text="""\
 {12:1} And Rehoboam went to Shechem: for all Israel were come to
 Shechem to make him king. {12:2} And it came to pass, when Jeroboam the
@@ -1257,10 +1244,9 @@ which he had made in Bethel the fifteenth day of the eighth month,
 even in the month which he had devised of his own heart; and ordained
 a feast unto the children of Israel: and he offered upon the altar, and
 burnt incense.
+"""
 
- """
-
-[[Chapter]] #3
+[[Chapter]] #13
 text="""\
 {13:1} And, behold, there came a man of God out of Judah by the word
 of the LORD unto Bethel: and Jeroboam stood by the altar to burn
@@ -1352,10 +1338,9 @@ whosoever would, he consecrated him, and he became one of the priests
 of the high places. {13:34} And this thing became sin unto the house of
 Jeroboam, even to cut it off, and to destroy it from off the face
 of the earth.
+"""
 
- """
-
-[[Chapter]] #4
+[[Chapter]] #14
 text="""\
 {14:1} At that time Abijah the son of Jeroboam fell sick. {14:2} And
 Jeroboam said to his wife, Arise, I pray thee, and disguise thyself,
@@ -1441,10 +1426,9 @@ Judah? {14:30} And there was war between Rehoboam and Jeroboam all
 their days. {14:31} And Rehoboam slept with his fathers, and was
 buried with his fathers in the city of David. And his mother's name
 was Naamah an Ammonitess. And Abijam his son reigned in his stead.
+"""
 
- """
-
-[[Chapter]] #5
+[[Chapter]] #15
 text="""\
 {15:1} Now in the eighteenth year of king Jeroboam the son of Nebat
 reigned Abijam over Judah. {15:2} Three years reigned he in Jerusalem.
@@ -1529,10 +1513,9 @@ Baasha the son of Ahijah to reign over all Israel in Tirzah, twenty and
 four years. {15:34} And he did evil in the sight of the LORD, and
 walked in the way of Jeroboam, and in his sin wherewith he made Israel
 to sin.
+"""
 
- """
-
-[[Chapter]] #6
+[[Chapter]] #16
 text="""\
 {16:1} Then the word of the LORD came to Jehu the son of Hanani
 against Baasha, saying, {16:2} Forasmuch as I exalted thee out of the
@@ -1625,10 +1608,9 @@ him.
 the foundation thereof in Abiram his firstborn, and set up the gates
 thereof in his youngest son Segub, according to the word of the LORD,
 which he spake by Joshua the son of Nun.
+"""
 
- """
-
-[[Chapter]] #7
+[[Chapter]] #17
 text="""\
 {17:1} And Elijah the Tishbite, who was of the inhabitants of
 Gilead, said unto Ahab, As the LORD God of Israel liveth, before whom
@@ -1686,10 +1668,9 @@ mother: and Elijah said, See, thy son liveth.
  {17:24} And the woman said to Elijah, Now by this I know that thou
 art a man of God, and that the word of the LORD in thy mouth is
 truth.
+"""
 
- """
-
-[[Chapter]] #8
+[[Chapter]] #18
 text="""\
 {18:1} And it came to pass after many days, that the word of the
 LORD came to Elijah in the third year, saying, Go, shew thyself unto
@@ -1804,10 +1785,9 @@ pass in the mean while, that the heaven was black with clouds and wind,
 and there was a great rain. And Ahab rode, and went to Jezreel. {18:46}
 And the hand of the LORD was on Elijah; and he girded up his loins, and
 ran before Ahab to the entrance of Jezreel.
+"""
 
- """
-
-[[Chapter]] #9
+[[Chapter]] #19
 text="""\
 {19:1} And Ahab told Jezebel all that Elijah had done, and withal
 how he had slain all the prophets with the sword. {19:2} Then Jezebel
@@ -1870,10 +1850,9 @@ And he said unto him, Go back again: for what have I done to thee?
 slew them, and boiled their flesh with the instruments of the oxen, and
 gave unto the people, and they did eat. Then he arose, and went after
 Elijah, and ministered unto him.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #20
 text="""\
 {20:1} And Ben-hadad the king of Syria gathered all his host
 together: and there were thirty and two kings with him, and horses,
@@ -1997,10 +1976,9 @@ him, Thus saith the LORD, Because thou hast let go out of thy hand a
 man whom I appointed to utter destruction, therefore thy life shall go
 for his life, and thy people for his people. {20:43} And the king of
 Israel went to his house heavy and displeased, and came to Samaria.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #21
 text="""\
 {21:1} And it came to pass after these things, that Naboth the
 Jezreelite had a vineyard, which was in Jezreel, hard by the palace
@@ -2079,10 +2057,9 @@ the LORD came to Elijah the Tishbite, saying, {21:29} Seest thou how
 Ahab humbleth himself before me? because he humbleth himself before me,
 I will not bring the evil in his days: but in his son's days will I
 bring the evil upon his house.
+"""
 
- """
-
-[[Chapter]] #2
+[[Chapter]] #22
 text="""\
 {22:1} And they continued three years without war between Syria and
 Israel. {22:2} And it came to pass in the third year, that Jehoshaphat

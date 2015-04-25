@@ -1,7 +1,5 @@
-
-The Second Epistle of Paul the Apostle to the Corinthians
-
- """
+[Book]
+title="The Second Epistle of Paul the Apostle to the Corinthians"
 
 [[Chapter]] #1
 text="""\
@@ -55,8 +53,7 @@ Spirit in our hearts. {1:23} Moreover I call God for a record upon my
 soul, that to spare you I came not as yet unto Corinth. {1:24} Not for
 that we have dominion over your faith, but are helpers of your joy: for
 by faith ye stand.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -91,8 +88,7 @@ are the savour of death unto death; and to the other the savour of
 life unto life. And who is sufficient for these things? {2:17} For we
 are not as many, which corrupt the word of God: but as of sincerity,
 but as of God, in the sight of God speak we in Christ.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -130,8 +126,7 @@ taken away. {3:17} Now the Lord is that Spirit: and where the Spirit of
 the Lord is, there is liberty. {3:18} But we all, with open face
 beholding as in a glass the glory of the Lord, are changed into the
 same image from glory to glory, even as by the Spirit of the Lord.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -170,8 +165,7 @@ but for a moment, worketh for us a far more exceeding and eternal
 weight of glory; {4:18} While we look not at the things which are seen,
 but at the things which are not seen: for the things which are seen
 are temporal; but the things which are not seen are eternal.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -216,8 +210,7 @@ then we are ambassadors for Christ, as though God did beseech you by
 us: we pray you in Christ's stead, be ye reconciled to God. {5:21}
 For he hath made him to be sin for us, who knew no sin; that we might
 be made the righteousness of God in him.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -254,8 +247,7 @@ among them, and be ye separate, saith the Lord, and touch not the
 unclean thing; and I will receive you, {6:18} And will be a Father
 unto you, and ye shall be my sons and daughters, saith the Lord
 Almighty.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -298,8 +290,7 @@ Titus, is found a truth. {7:15} And his inward affection is more
 abundant toward you, whilst he remembereth the obedience of you all,
 how with fear and trembling ye received him. {7:16} I rejoice therefore
 that I have confidence in you in all things.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -350,8 +341,7 @@ or our brethren be enquired of, they are the messengers of the
 churches, and the glory of Christ. {8:24} Wherefore shew ye to them,
 and before the churches, the proof of your love, and of our boasting on
 your behalf.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -386,10 +376,9 @@ gospel of Christ, and for your liberal distribution unto them, and
 unto all [men; ]{9:14} And by their prayer for you, which long after
 you for the exceeding grace of God in you. {9:15} Thanks be unto God
 for his unspeakable gift.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #10
 text="""\
 {10:1} Now I Paul myself beseech you by the meekness and gentleness
 of Christ, who in presence am base among you, but being absent am
@@ -429,10 +418,9 @@ and not to boast in another man's line of things made ready to our
 hand. {10:17} But he that glorieth, let him glory in the Lord. {10:18}
 For not he that commendeth himself is approved, but whom the Lord
 commendeth.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #11
 text="""\
 {11:1} Would to God ye could bear with me a little in my folly:
 and indeed bear with me. {11:2} For I am jealous over you with godly
@@ -495,10 +483,9 @@ is blessed for evermore, knoweth that I lie not. {11:32} In Damascus
 the governor under Aretas the king kept the city of the Damascenes with
 a garrison, desirous to apprehend me: {11:33} And through a window in a
 basket was I let down by the wall, and escaped his hands.
+"""
 
- """
-
-[[Chapter]] #2
+[[Chapter]] #12
 text="""\
 {12:1} It is not expedient for me doubtless to glory. I will come to
 visions and revelations of the Lord. {12:2} I knew a man in Christ
@@ -548,10 +535,9 @@ whisperings, swellings, tumults: {12:21} And lest, when I come again,
 my God will humble me among you, and that I shall bewail many which
 have sinned already, and have not repented of the uncleanness and
 fornication and lasciviousness which they have committed.
+"""
 
- """
-
-[[Chapter]] #3
+[[Chapter]] #13
 text="""\
 {13:1} This is the third time I am coming to you. In the mouth
 of two or three witnesses shall every word be established. {13:2} I

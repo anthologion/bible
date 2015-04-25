@@ -1,7 +1,6 @@
 
-The Gospel According to St. John
-
- """
+The Gospel According to St.[Book]
+title="John"
 
 [[Chapter]] #1
 text="""\
@@ -95,8 +94,7 @@ said unto thee, I saw thee under the fig tree, believest thou? thou
 shalt see greater things than these. {1:51} And he saith unto him,
 Verily, verily, I say unto you, Hereafter ye shall see heaven open, and
 the angels of God ascending and descending upon the Son of man.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -148,8 +146,7 @@ day, many believed in his name, when they saw the miracles which he
 did. {2:24} But Jesus did not commit himself unto them, because he knew
 all [men, ]{2:25} And needed not that any should testify of man: for he
 knew what was in man.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -224,8 +221,7 @@ words of God: for God giveth not the Spirit by measure [unto him.
 hand. {3:36} He that believeth on the Son hath everlasting life: and he
 that believeth not the Son shall not see life; but the wrath of God
 abideth on him.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -324,8 +320,7 @@ fever left him. {4:53} So the father knew that it was at the same
 hour, in the which Jesus said unto him, Thy son liveth: and himself
 believed, and his whole house. {4:54} This is again the second
 miracle that Jesus did, when he was come out of Judaea into Galilee.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -415,8 +410,7 @@ to the Father: there is one that accuseth you, even Moses, in whom
 ye trust. {5:46} For had ye believed Moses, ye would have believed me:
 for he wrote of me. {5:47} But if ye believe not his writings, how
 shall ye believe my words?
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -543,8 +537,7 @@ sure that thou art that Christ, the Son of the living God. {6:70} Jesus
 answered them, Have not I chosen you twelve, and one of you is a devil?
 {6:71} He spake of Judas Iscariot the son of Simon: for he it was
 that should betray him, being one of the twelve.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -635,8 +628,7 @@ man, before it hear him, and know what he doeth? {7:52} They answered
 and said unto him, Art thou also of Galilee? Search, and look: for out
 of Galilee ariseth no prophet. {7:53} And every man went unto his own
 house.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -744,8 +736,7 @@ them, Verily, verily, I say unto you, Before Abraham was, I am. {8:59}
 Then took they up stones to cast at him: but Jesus hid himself, and
 went out of the temple, going through the midst of them, and so passed
 by.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -822,10 +813,9 @@ blind. {9:40} And some of the Pharisees which were with him heard
 these words, and said unto him, Are we blind also? {9:41} Jesus said
 unto them, If ye were blind, ye should have no sin: but now ye say, We
 see; therefore your sin remaineth.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #10
 text="""\
 {10:1} Verily, verily, I say unto you, He that entereth not by the
 door into the sheepfold, but climbeth up some other way, the same is a
@@ -894,10 +884,9 @@ into the place where John at first baptized; and there he abode.
 {10:41} And many resorted unto him, and said, John did no miracle: but
 all things that John spake of this man were true. {10:42} And many
 believed on him there.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #11
 text="""\
 {11:1} Now a certain man was sick, named Lazarus, of Bethany,
 the town of Mary and her sister Martha. {11:2} (It was that Mary
@@ -996,10 +985,9 @@ themselves, as they stood in the temple, What think ye, that he will
 not come to the feast? {11:57} Now both the chief priests and the
 Pharisees had given a commandment, that, if any man knew where he were,
 he should shew it, that they might take him.
+"""
 
- """
-
-[[Chapter]] #2
+[[Chapter]] #12
 text="""\
 {12:1} Then Jesus six days before the passover came to Bethany,
 where Lazarus was which had been dead, whom he raised from the dead.
@@ -1097,10 +1085,9 @@ have not spoken of myself; but the Father which sent me, he gave me a
 commandment, what I should say, and what I should speak. {12:50} And I
 know that his commandment is life everlasting: whatsoever I speak
 therefore, even as the Father said unto me, so I speak.
+"""
 
- """
-
-[[Chapter]] #3
+[[Chapter]] #13
 text="""\
 {13:1} Now before the feast of the passover, when Jesus knew that
 his hour was come that he should depart out of this world unto the
@@ -1173,10 +1160,9 @@ cannot I follow thee now? I will lay down my life for thy sake. {13:38}
 Jesus answered him, Wilt thou lay down thy life for my sake? Verily,
 verily, I say unto thee, The cock shall not crow, till thou hast denied
 me thrice.
+"""
 
- """
-
-[[Chapter]] #4
+[[Chapter]] #14
 text="""\
 {14:1} Let not your heart be troubled: ye believe in God, believe
 also in me. {14:2} In my Father's house are many mansions: if it were
@@ -1235,10 +1221,9 @@ will not talk much with you: for the prince of this world cometh, and
 hath nothing in me. {14:31} But that the world may know that I love the
 Father; and as the Father gave me commandment, even so I do. Arise, let
 us go hence.
+"""
 
- """
-
-[[Chapter]] #5
+[[Chapter]] #15
 text="""\
 {15:1} I am the true vine, and my Father is the husbandman. {15:2}
 Every branch in me that beareth not fruit he taketh away: and every
@@ -1287,10 +1272,9 @@ fulfilled that is written in their law, They hated me without a cause.
 the Father, even the Spirit of truth, which proceedeth from the
 Father, he shall testify of me: {15:27} And ye also shall bear witness,
 because ye have been with me from the beginning.
+"""
 
- """
-
-[[Chapter]] #6
+[[Chapter]] #16
 text="""\
 {16:1} These things have I spoken unto you, that ye should not be
 offended. {16:2} They shall put you out of the synagogues: yea, the
@@ -1354,10 +1338,9 @@ alone: and yet I am not alone, because the Father is with me. {16:33}
 These things I have spoken unto you, that in me ye might have peace. In
 the world ye shall have tribulation: but be of good cheer; I have
 overcome the world.
+"""
 
- """
-
-[[Chapter]] #7
+[[Chapter]] #17
 text="""\
 {17:1} These words spake Jesus, and lifted up his eyes to heaven,
 and said, Father, the hour is come; glorify thy Son, that thy Son also
@@ -1407,10 +1390,9 @@ hast given me: for thou lovedst me before the foundation of the world.
 known thee, and these have known that thou hast sent me. {17:26} And I
 have declared unto them thy name, and will declare it: that the love
 wherewith thou hast loved me may be in them, and I in them.
+"""
 
- """
-
-[[Chapter]] #8
+[[Chapter]] #18
 text="""\
 {18:1} When Jesus had spoken these words, he went forth with his
 disciples over the brook Cedron, where was a garden, into the which he
@@ -1494,10 +1476,9 @@ him no fault [at all. ]{18:39} But ye have a custom, that I should
 release unto you one at the passover: will ye therefore that I release
 unto you the King of the Jews? {18:40} Then cried they all again,
 saying, Not this man, but Barabbas. Now Barabbas was a robber.
+"""
 
- """
-
-[[Chapter]] #9
+[[Chapter]] #19
 text="""\
 {19:1} Then Pilate therefore took Jesus, and scourged [him. ]{19:2}
 And the soldiers platted a crown of thorns, and put it on his head,
@@ -1594,10 +1575,9 @@ place where he was crucified there was a garden; and in the garden a
 new sepulchre, wherein was never man yet laid. {19:42} There laid they
 Jesus therefore because of the Jews' preparation day; for the
 sepulchre was nigh at hand.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #20
 text="""\
 {20:1} The first day of the week cometh Mary Magdalene early, when
 it was yet dark, unto the sepulchre, and seeth the stone taken away
@@ -1668,10 +1648,9 @@ yet have believed.
 disciples, which are not written in this book: {20:31} But these are
 written, that ye might believe that Jesus is the Christ, the Son of
 God; and that believing ye might have life through his name.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #21
 text="""\
 {21:1} After these things Jesus shewed himself again to the
 disciples at the sea of Tiberias; and on this wise shewed he [himself.

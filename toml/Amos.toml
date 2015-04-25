@@ -1,7 +1,5 @@
-
-Amos
-
- """
+[Book]
+title="Amos"
 
 [[Chapter]] #1
 text="""\
@@ -49,8 +47,7 @@ of Rabbah, and it shall devour the palaces thereof, with shouting in
 the day of battle, with a tempest in the day of the whirlwind: {1:15}
 And their king shall go into captivity, he and his princes together,
 saith the LORD.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -94,8 +91,7 @@ shall he stand that handleth the bow; and he that is swift of foot
 shall not deliver himself: neither shall he that rideth the horse
 deliver himself. {2:16} And he that is courageous among the mighty
 shall flee away naked in that day, saith the LORD.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -132,8 +128,7 @@ horns of the altar shall be cut off, and fall to the ground. {3:15} And
 I will smite the winter house with the summer house; and the houses of
 ivory shall perish, and the great houses shall have an end, saith the
 LORD.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -175,8 +170,7 @@ that formeth the mountains, and createth the wind, and declareth unto
 man what is his thought, that maketh the morning darkness, and
 treadeth upon the high places of the earth, The LORD, The God of hosts,
 is his name.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -236,8 +230,7 @@ borne the tabernacle of your Moloch and Chiun your images, the star of
 your god, which ye made to yourselves. {5:27} Therefore will I cause
 you to go into captivity beyond Damascus, saith the LORD, whose name
 is The God of hosts.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -276,8 +269,7 @@ nought, which say, Have we not taken to us horns by our own strength?
 {6:14} But, behold, I will raise up against you a nation, O house of
 Israel, saith the LORD the God of hosts; and they shall afflict you
 from the entering in of Hemath unto the river of the wilderness.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -326,8 +318,7 @@ harlot in the city, and thy sons and thy daughters shall fall by the
 sword, and thy land shall be divided by line; and thou shalt die in a
 polluted land: and Israel shall surely go into captivity forth of his
 land.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -366,8 +357,7 @@ day shall the fair virgins and young men faint for thirst. {8:14} They
 that swear by the sin of Samaria, and say, Thy god, O Dan, liveth; and,
 The manner of Beer-sheba liveth; even they shall fall, and never rise
 up again.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\

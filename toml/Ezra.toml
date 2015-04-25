@@ -1,7 +1,5 @@
-
-Ezra
-
- """
+[Book]
+title="Ezra"
 
 [[Chapter]] #1
 text="""\
@@ -39,8 +37,7 @@ thousand. {1:11} All the vessels of gold and of silver were five
 thousand and four hundred. All these did Sheshbazzar bring up with
 them of the captivity that were brought up from Babylon unto
 Jerusalem.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -151,8 +148,7 @@ gold, and five thousand pound of silver, and one hundred priests
 garments. {2:70} So the priests, and the Levites, and some of the
 people, and the singers, and the porters, and the Nethinims, dwelt in
 their cities, and all Israel in their cities.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -202,8 +198,7 @@ shouted aloud for joy: {3:13} So that the people could not discern the
 noise of the shout of joy from the noise of the weeping of the people:
 for the people shouted with a loud shout, and the noise was heard afar
 off.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -276,8 +271,7 @@ up in haste to Jerusalem unto the Jews, and made them to cease by force
 and power. {4:24} Then ceased the work of the house of God which is
 at Jerusalem. So it ceased unto the second year of the reign of Darius
 king of Persia.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -331,8 +325,7 @@ there be search made in the king's treasure house, which is there at
 Babylon, whether it be so, that a decree was made of Cyrus the king
 to build this house of God at Jerusalem, and let the king send his
 pleasure to us concerning this matter.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -402,8 +395,7 @@ unleavened bread seven days with joy: for the LORD had made them
 joyful, and turned the heart of the king of Assyria unto them, to
 strengthen their hands in the work of the house of God, the God of
 Israel.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -479,8 +471,7 @@ me before the king, and his counsellors, and before all the king's
 mighty princes. And I was strengthened as the hand of the LORD my God
 was upon me, and I gathered together out of Israel chief men to go up
 with me.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -573,8 +564,7 @@ for a sin offering: all this was a burnt offering unto the LORD.
  {8:36} And they delivered the king's commissions unto the king's
 lieutenants, and to the governors on this side the river: and they
 furthered the people, and the house of God.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -629,10 +619,9 @@ consumed us, so that there should be no remnant nor escaping?
 {9:15} O LORD God of Israel, thou art righteous: for we remain yet
 escaped, as it is this day: behold, we are before thee in our
 trespasses: for we cannot stand before thee because of this.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #10
 text="""\
 {10:1} Now when Ezra had prayed, and when he had confessed, weeping
 and casting himself down before the house of God, there assembled unto

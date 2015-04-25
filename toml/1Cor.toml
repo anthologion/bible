@@ -1,7 +1,5 @@
-
-The First Epistle of Paul the Apostle to the Corinthians
-
- """
+[Book]
+title="The First Epistle of Paul the Apostle to the Corinthians"
 
 [[Chapter]] #1
 text="""\
@@ -62,8 +60,7 @@ are: {1:29} That no flesh should glory in his presence. {1:30} But of
 him are ye in Christ Jesus, who of God is made unto us wisdom, and
 righteousness, and sanctification, and redemption: {1:31} That,
 according as it is written, He that glorieth, let him glory in the Lord.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -97,8 +94,7 @@ because they are spiritually discerned. {2:15} But he that is spiritual
 judgeth all things, yet he himself is judged of no man. {2:16} For who
 hath known the mind of the Lord, that he may instruct him? But we have
 the mind of Christ.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -142,8 +138,7 @@ Therefore let no man glory in men. For all things are yours; {3:22}
 Whether Paul, or Apollos, or Cephas, or the world, or life, or death,
 or things present, or things to come; all are yours; {3:23} And ye are
 Christ's; and Christ is God's.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -187,8 +182,7 @@ if the Lord will, and will know, not the speech of them which are
 puffed up, but the power. {4:20} For the kingdom of God is not in
 word, but in power. {4:21} What will ye? shall I come unto you with a
 rod, or in love, and in the spirit of meekness?
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -219,8 +213,7 @@ eat. {5:12} For what have I to do to judge them also that are without?
 do not ye judge them that are within? {5:13} But them that are without
 God judgeth. Therefore put away from among yourselves that wicked
 person.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -263,8 +256,7 @@ body; but he that committeth fornication sinneth against his own body.
 which is in you, which ye have of God, and ye are not your own?
 {6:20} For ye are bought with a price: therefore glorify God in your
 body, and in your spirit, which are God's.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -348,8 +340,7 @@ as long as her husband liveth; but if her husband be dead, she is at
 liberty to be married to whom she will; only in the Lord. {7:40} But
 she is happier if she so abide, after my judgment: and I think also
 that I have the Spirit of God.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -378,8 +369,7 @@ But when ye sin so against the brethren, and wound their weak
 conscience, ye sin against Christ. {8:13} Wherefore, if meat make my
 brother to offend, I will eat no flesh while the world standeth, lest I
 make my brother to offend.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -434,10 +424,9 @@ an incorruptible. {9:26} I therefore so run, not as uncertainly; so
 fight I, not as one that beateth the air: {9:27} But I keep under my
 body, and bring it into subjection: lest that by any means, when I
 have preached to others, I myself should be a castaway.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #10
 text="""\
 {10:1} Moreover, brethren, I would not that ye should be ignorant,
 how that all our fathers were under the cloud, and all passed through
@@ -494,10 +483,9 @@ whatsoever ye do, do all to the glory of God. {10:32} Give none
 offence, neither to the Jews, nor to the Gentiles, nor to the church of
 God: {10:33} Even as I please all men in all things, not seeking
 mine own profit, but the profit of many, that they may be saved.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #11
 text="""\
 {11:1} Be ye followers of me, even as I also am of Christ.
 
@@ -559,10 +547,9 @@ Wherefore, my brethren, when ye come together to eat, tarry one for
 another. {11:34} And if any man hunger, let him eat at home; that ye
 come not together unto condemnation. And the rest will I set in order
 when I come.
+"""
 
- """
-
-[[Chapter]] #2
+[[Chapter]] #12
 text="""\
 {12:1} Now concerning spiritual gifts, brethren, I would not have
 you ignorant. {12:2} Ye know that ye were Gentiles, carried away unto
@@ -614,10 +601,9 @@ all apostles? are all prophets? are all teachers? are all workers
 of miracles? {12:30} Have all the gifts of healing? do all speak with
 tongues? do all interpret? {12:31} But covet earnestly the best gifts:
 and yet shew I unto you a more excellent way.
+"""
 
- """
-
-[[Chapter]] #3
+[[Chapter]] #13
 text="""\
 {13:1} Though I speak with the tongues of men and of angels, and
 have not charity, I am become [as ]sounding brass, or a tinkling
@@ -642,10 +628,9 @@ childish things. {13:12} For now we see through a glass, darkly; but
 then face to face: now I know in part; but then shall I know even as
 also I am known. {13:13} And now abideth faith, hope, charity, these
 three; but the greatest of these is charity.
+"""
 
- """
-
-[[Chapter]] #4
+[[Chapter]] #14
 text="""\
 {14:1} Follow after charity, and desire spiritual gifts, but
 rather that ye may prophesy. {14:2} For he that speaketh in an
@@ -721,10 +706,9 @@ unto you are the commandments of the Lord. {14:38} But if any man be
 ignorant, let him be ignorant. {14:39} Wherefore, brethren, covet to
 prophesy, and forbid not to speak with tongues. {14:40} Let all things
 be done decently and in order.
+"""
 
- """
-
-[[Chapter]] #5
+[[Chapter]] #15
 text="""\
 {15:1} Moreover, brethren, I declare unto you the gospel which I
 preached unto you, which also ye have received, and wherein ye stand;
@@ -823,10 +807,9 @@ But thanks be to God, which giveth us the victory through our Lord
 Jesus Christ. {15:58} Therefore, my beloved brethren, be ye stedfast,
 unmovable, always abounding in the work of the Lord, forasmuch as ye
 know that your labour is not in vain in the Lord.
+"""
 
- """
-
-[[Chapter]] #6
+[[Chapter]] #16
 text="""\
 {16:1} Now concerning the collection for the saints, as I have given
 order to the churches of Galatia, even so do ye. {16:2} Upon the first

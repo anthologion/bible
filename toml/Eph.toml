@@ -1,7 +1,5 @@
-
-The Epistle of Paul the Apostle to the Ephesians
-
- """
+[Book]
+title="The Epistle of Paul the Apostle to the Ephesians"
 
 [[Chapter]] #1
 text="""\
@@ -51,8 +49,7 @@ also in that which is to come: {1:22} And hath put all things under
 his feet, and gave him to be the head over all things to the
 church, {1:23} Which is his body, the fulness of him that filleth all
 in all.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -95,8 +92,7 @@ foundation of the apostles and prophets, Jesus Christ himself being the
 chief corner [stone; ]{2:21} In whom all the building fitly framed
 together groweth unto an holy temple in the Lord: {2:22} In whom ye
 also are builded together for an habitation of God through the Spirit.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -135,8 +131,7 @@ knowledge, that ye might be filled with all the fulness of God.
 all that we ask or think, according to the power that worketh in us,
 {3:21} Unto him be glory in the church by Christ Jesus throughout all
 ages, world without end. Amen.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -194,8 +189,7 @@ day of redemption. {4:31} Let all bitterness, and wrath, and anger, and
 clamour, and evil speaking, be put away from you, with all malice:
 {4:32} And be ye kind one to another, tenderhearted, forgiving one
 another, even as God for Christ's sake hath forgiven you.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -247,8 +241,7 @@ unto his wife, and they two shall be one flesh. {5:32} This is a great
 mystery: but I speak concerning Christ and the church. {5:33}
 Nevertheless let every one of you in particular so love his wife even
 as himself; and the wife see that she reverence her husband.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\

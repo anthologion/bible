@@ -1,7 +1,5 @@
-
-The First Book of the Maccabees
-
- """
+[Book]
+title="The First Book of the Maccabees"
 
 [[Chapter]] #1
 text="""\
@@ -220,8 +218,7 @@ with meats, and that they might not profane the holy covenant: so then
 they died.
 
  {1:64} And there was very great wrath upon Israel.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -452,8 +449,7 @@ commandments of the law.
  {2:70} And he died in the hundred forty and sixth year, and his sons
 buried him in the sepulchres of his fathers at Modin, and all Israel
 made great lamentation for him.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -666,8 +662,7 @@ our sanctuary:
 calamities of our people and our sanctuary.
 
  {3:60} Nevertheless, as the will of God is in heaven, so let him do.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -884,8 +879,7 @@ tread it down as they had done before.
  {4:61} And they set there a garrison to keep it, and fortified
 Bethsura to preserve it; that the people might have a defence against
 Idumea.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -1139,8 +1133,7 @@ were slain in battle, for that they went out to fight unadvisedly.
  {5:68} So Judas turned to Azotus in the land of the Philistines, and
 when he had pulled down their altars, and burned their carved images
 with fire, and spoiled their cities, he returned into the land of Judea.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -1376,8 +1369,7 @@ commandment to pull down the wall round about.
  {6:63} Afterward departed he in all haste, and returned unto
 Antiochia, where he found Philip to be master of the city: so he fought
 against him, and took the city by force.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -1554,8 +1546,7 @@ that day a day of great gladness.
 thirteenth of Adar.
 
  {7:50} Thus the land of Juda was in rest a little while.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -1681,8 +1672,7 @@ upon our friends and confederates the Jews?
 
  {8:32} If therefore they complain any more against thee, we will do
 them justice, and fight with thee by sea and by land.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -1942,10 +1932,9 @@ way into his own land, neither came he any more into their borders.
  {9:73} Thus the sword ceased from Israel: but Jonathan dwelt at
 Machmas, and began to govern the people; and he destroyed the ungodly
 men out of Israel.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #10
 text="""\
 {10:1} In the hundred and sixtieth year Alexander, the son of
 Antiochus surnamed Epiphanes, went up and took Ptolemais: for the
@@ -2265,10 +2254,9 @@ Jonathan yet more.
  {10:89} And sent him a buckle of gold, as the use is to be given to
 such as are of the king's blood: he gave him also Accaron with the
 borders thereof in possession.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #11
 text="""\
 {11:1} And the king of Egypt gathered together a great host, like
 the sand that lieth upon the sea shore, and many ships, and went about
@@ -2543,10 +2531,9 @@ tents, and there they camped.
 
  {11:74} So there were slain of the heathen that day about three
 thousand men: but Jonathan returned to Jerusalem.
+"""
 
- """
-
-[[Chapter]] #2
+[[Chapter]] #12
 text="""\
 {12:1} Now when Jonathan saw that time served him, he chose certain
 men, and sent them to Rome, for to confirm and renew the friendship
@@ -2735,10 +2722,9 @@ were sore afraid; wherefore all Israel made great lamentation.
 destroy them: for said they, They have no captain, nor any to help
 them: now therefore let us make war upon them, and take away their
 memorial from among men.
+"""
 
- """
-
-[[Chapter]] #3
+[[Chapter]] #13
 text="""\
 {13:1} Now when Simon heard that Tryphon had gathered together a
 great host to invade the land of Judea, and destroy it,
@@ -2928,10 +2914,9 @@ made stronger than it was, and there he dwelt himself with his company.
 
  {13:53} And when Simon saw that John his son was a valiant man, he
 made him captain of all the hosts; and he dwelt in Gazera.
+"""
 
- """
-
-[[Chapter]] #4
+[[Chapter]] #14
 text="""\
 {14:1} Now in the hundred threescore and twelfth year king Demetrius
 gathered his forces together, and went into Media to get him help to
@@ -3118,10 +3103,9 @@ sanctuary in a conspicuous place;
 
  {14:49} Also that the copies thereof should be laid up in the
 treasury, to the end that Simon and his sons might have them.
+"""
 
- """
-
-[[Chapter]] #5
+[[Chapter]] #15
 text="""\
 {15:1} Moreover Antiochus son of Demetrius the king sent letters
 from the isles of the sea unto Simon the priest and prince of the Jews,
@@ -3268,10 +3252,9 @@ and to invade Judea, and to take the people prisoners, and slay them.
  {15:41} And when he had built up Cedrou, he set horsemen there, and
 an host of footmen, to the end that issuing out they might make
 outroads upon the ways of Judea, as the king had commanded him.
+"""
 
- """
-
-[[Chapter]] #6
+[[Chapter]] #16
 text="""\
 {16:1} Then came up John from Gazera, and told Simon his father what
 Cendebeus had done.

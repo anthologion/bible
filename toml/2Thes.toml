@@ -1,7 +1,5 @@
-
-The Second Epistle of Paul the Apostle to the Thessalonians
-
- """
+[Book]
+title="The Second Epistle of Paul the Apostle to the Thessalonians"
 
 [[Chapter]] #1
 text="""\
@@ -30,8 +28,7 @@ count you worthy of this calling, and fulfil all the good pleasure of
 his goodness, and the work of faith with power: {1:12} That the name
 of our Lord Jesus Christ may be glorified in you, and ye in him,
 according to the grace of our God and the Lord Jesus Christ.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -68,8 +65,7 @@ taught, whether by word, or our epistle. {2:16} Now our Lord Jesus
 Christ himself, and God, even our Father, which hath loved us, and hath
 given us everlasting consolation and good hope through grace, {2:17}
 Comfort your hearts, and stablish you in every good word and work.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\

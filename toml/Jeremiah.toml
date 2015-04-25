@@ -1,7 +1,5 @@
-
-The Book of the Prophet Jeremiah
-
- """
+[Book]
+title="The Book of the Prophet Jeremiah"
 
 [[Chapter]] #1
 text="""\
@@ -50,8 +48,7 @@ whole land, against the kings of Judah, against the princes thereof,
 against the priests thereof, and against the people of the land. {1:19}
 And they shall fight against thee; but they shall not prevail against
 thee; for I am with thee, saith the LORD, to deliver thee.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -144,8 +141,7 @@ Behold, I will plead with thee, because thou sayest, I have not sinned.
 shalt be ashamed of Egypt, as thou wast ashamed of Assyria. {2:37} Yea,
 thou shalt go forth from him, and thine hands upon thine head: for the
 LORD hath rejected thy confidences, and thou shalt not prosper in them.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -219,8 +215,7 @@ youth; their flocks and their herds, their sons and their daughters.
 have sinned against the LORD our God, we and our fathers, from our
 youth even unto this day, and have not obeyed the voice of the LORD our
 God.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -297,8 +292,7 @@ thyself fair; thy lovers will despise thee, they will seek thy life.
 anguish as of her that bringeth forth her first child, the voice of the
 daughter of Zion, that bewaileth herself, that spreadeth her hands,
 saying, Woe is me now! for my soul is wearied because of murderers.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -381,8 +375,7 @@ shall not my soul be avenged on such a nation as this?
 {5:31} The prophets prophesy falsely, and the priests bear rule by
 their means; and my people love to have it so: and what will ye do in
 the end thereof?
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -460,8 +453,7 @@ all corrupters. {6:29} The bellows are burned, the lead is consumed of
 the fire; the founder melteth in vain: for the wicked are not plucked
 away. {6:30} Reprobate silver shall men call them, because the LORD
 hath rejected them.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -547,8 +539,7 @@ shall fray them away. {7:34} Then will I cause to cease from the
 cities of Judah, and from the streets of Jerusalem, the voice of mirth,
 and the voice of gladness, the voice of the bridegroom, and the voice
 of the bride: for the land shall be desolate.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -614,8 +605,7 @@ the hurt of the daughter of my people am I hurt; I am black;
 astonishment hath taken hold on me. {8:22} Is there no balm in
 Gilead; is there no physician there? why then is not the health of
 the daughter of my people recovered?
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -689,10 +679,9 @@ Judah, and Edom, and the children of Ammon, and Moab, and all that
 are in the utmost corners, that dwell in the wilderness: for all
 these nations are uncircumcised, and all the house of Israel are
 uncircumcised in the heart.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #10
 text="""\
 {10:1} Hear ye the word which the LORD speaketh unto you, O house of
 Israel: {10:2} Thus saith the LORD, Learn not the way of the heathen,
@@ -753,10 +742,9 @@ to nothing. {10:25} Pour out thy fury upon the heathen that know thee
 not, and upon the families that call not on thy name: for they have
 eaten up Jacob, and devoured him, and consumed him, and have made his
 habitation desolate.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #11
 text="""\
 {11:1} The word that came to Jeremiah from the LORD, saying, {11:2}
 Hear ye the words of this covenant, and speak unto the men of Judah,
@@ -820,10 +808,9 @@ hosts, Behold, I will punish them: the young men shall die by the
 sword; their sons and their daughters shall die by famine: {11:23} And
 there shall be no remnant of them: for I will bring evil upon the men
 of Anathoth, even the year of their visitation.
+"""
 
- """
-
-[[Chapter]] #2
+[[Chapter]] #12
 text="""\
 {12:1} Righteous art thou, O LORD, when I plead with thee: yet let
 me talk with thee of thy judgments: Wherefore doth the way of the
@@ -872,10 +859,9 @@ the ways of my people, to swear by my name, The LORD liveth; as they
 taught my people to swear by Baal; then shall they be built in the
 midst of my people. {12:17} But if they will not obey, I will utterly
 pluck up and destroy that nation, saith the LORD.
+"""
 
- """
-
-[[Chapter]] #3
+[[Chapter]] #13
 text="""\
 {13:1} Thus saith the LORD unto me, Go and get thee a linen girdle,
 and put it upon thy loins, and put it not in water. {13:2} So I got a
@@ -941,10 +927,9 @@ appear. {13:27} I have seen thine adulteries, and thy neighings, the
 lewdness of thy whoredom, and thine abominations on the hills in the
 fields. Woe unto thee, O Jerusalem! wilt thou not be made clean? when
 shall it once [be?]
+"""
 
- """
-
-[[Chapter]] #4
+[[Chapter]] #14
 text="""\
 {14:1} The word of the LORD that came to Jeremiah concerning the
 dearth. {14:2} Judah mourneth, and the gates thereof languish; they are
@@ -1009,10 +994,9 @@ not thy covenant with us. {14:22} Are there any among the vanities of
 the Gentiles that can cause rain? or can the heavens give showers?
 art not thou he, O LORD our God? therefore we will wait upon thee:
 for thou hast made all these things.
+"""
 
- """
-
-[[Chapter]] #5
+[[Chapter]] #15
 text="""\
 {15:1} Then said the LORD unto me, Though Moses and Samuel stood
 before me, yet my mind could not be toward this people: cast
@@ -1073,10 +1057,9 @@ against thee, but they shall not prevail against thee: for I am with
 thee to save thee and to deliver thee, saith the LORD. {15:21} And I
 will deliver thee out of the hand of the wicked, and I will redeem thee
 out of the hand of the terrible.
+"""
 
- """
-
-[[Chapter]] #6
+[[Chapter]] #16
 text="""\
 {16:1} The word of the LORD came also unto me, saying, {16:2} Thou
 shalt not take thee a wife, neither shalt thou have sons or daughters
@@ -1138,10 +1121,9 @@ vanity, and things wherein there is no profit. {16:20} Shall a man
 make gods unto himself, and they are no gods? {16:21} Therefore,
 behold, I will this once cause them to know, I will cause them to know
 mine hand and my might; and they shall know that my name is The LORD.
+"""
 
- """
-
-[[Chapter]] #7
+[[Chapter]] #17
 text="""\
 {17:1} The sin of Judah is written with a pen of iron, and with
 the point of a diamond: it is graven upon the table of their heart,
@@ -1216,10 +1198,9 @@ if ye will not hearken unto me to hallow the sabbath day, and not to
 bear a burden, even entering in at the gates of Jerusalem on the
 sabbath day; then will I kindle a fire in the gates thereof, and it
 shall devour the palaces of Jerusalem, and it shall not be quenched.
+"""
 
- """
-
-[[Chapter]] #8
+[[Chapter]] #18
 text="""\
 {18:1} The word which came to Jeremiah from the LORD, saying, {18:2}
 Arise, and go down to the potter's house, and there I will cause thee
@@ -1276,10 +1257,9 @@ feet. {18:23} Yet, LORD, thou knowest all their counsel against me to
 slay me: forgive not their iniquity, neither blot out their sin from
 thy sight, but let them be overthrown before thee; deal thus with
 them in the time of thine anger.
+"""
 
- """
-
-[[Chapter]] #9
+[[Chapter]] #19
 text="""\
 {19:1} Thus saith the LORD, Go and get a potter's earthen bottle,
 and take of the ancients of the people, and of the ancients of the
@@ -1324,10 +1304,9 @@ all the people, {19:15} Thus saith the LORD of hosts, the God of
 Israel; Behold, I will bring upon this city and upon all her towns all
 the evil that I have pronounced against it, because they have hardened
 their necks, that they might not hear my words.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #20
 text="""\
 {20:1} Now Pashur the son of Immer the priest, who was also chief
 governor in the house of the LORD, heard that Jeremiah prophesied these
@@ -1382,10 +1361,9 @@ from the womb; or that my mother might have been my grave, and her womb
 to be always great [with me. ]{20:18} Wherefore came I forth out of
 the womb to see labour and sorrow, that my days should be consumed with
 shame?
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #21
 text="""\
 {21:1} The word which came unto Jeremiah from the LORD, when king
 Zedekiah sent unto him Pashur the son of Melchiah, and Zephaniah the
@@ -1429,10 +1407,9 @@ or who shall enter into our habitations? {21:14} But I will punish you
 according to the fruit of your doings, saith the LORD: and I will
 kindle a fire in the forest thereof, and it shall devour all things
 round about it.
+"""
 
- """
-
-[[Chapter]] #2
+[[Chapter]] #22
 text="""\
 {22:1} Thus saith the LORD; Go down to the house of the king of
 Judah, and speak there this word, {22:2} And say, Hear the word of the
@@ -1507,10 +1484,9 @@ O earth, earth, earth, hear the word of the LORD. {22:30} Thus saith
 the LORD, Write ye this man childless, a man that shall not prosper
 in his days: for no man of his seed shall prosper, sitting upon the
 throne of David, and ruling any more in Judah.
+"""
 
- """
-
-[[Chapter]] #3
+[[Chapter]] #23
 text="""\
 {23:1} Woe be unto the pastors that destroy and scatter the sheep of
 my pasture! saith the LORD. {23:2} Therefore thus saith the LORD God of
@@ -1612,10 +1588,9 @@ utterly forget you, and I will forsake you, and the city that I gave
 you and your fathers, and cast you out of my presence: {23:40} And I
 will bring an everlasting reproach upon you, and a perpetual shame,
 which shall not be forgotten.
+"""
 
- """
-
-[[Chapter]] #4
+[[Chapter]] #24
 text="""\
 {24:1} The LORD shewed me, and, behold, two baskets of figs were
 set before the temple of the LORD, after that Nebuchadrezzar king of
@@ -1648,10 +1623,9 @@ their hurt, to be a reproach and a proverb, a taunt and a curse, in
 all places whither I shall drive them. {24:10} And I will send the
 sword, the famine, and the pestilence, among them, till they be
 consumed from off the land that I gave unto them and to their fathers.
+"""
 
- """
-
-[[Chapter]] #5
+[[Chapter]] #25
 text="""\
 {25:1} The word that came to Jeremiah concerning all the people of
 Judah in the fourth year of Jehoiakim the son of Josiah king of Judah,
@@ -1750,10 +1724,9 @@ peaceable habitations are cut down because of the fierce anger of the
 LORD. {25:38} He hath forsaken his covert, as the lion: for their land
 is desolate because of the fierceness of the oppressor, and because of
 his fierce anger.
+"""
 
- """
-
-[[Chapter]] #6
+[[Chapter]] #26
 text="""\
 {26:1} In the beginning of the reign of Jehoiakim the son of Josiah
 king of Judah came this word from the LORD, saying, {26:2} Thus saith
@@ -1823,10 +1796,9 @@ unto Jehoiakim the king; who slew him with the sword, and cast his dead
 body into the graves of the common people. {26:24} Nevertheless the
 hand of Ahikam the son of Shaphan was with Jeremiah, that they should
 not give him into the hand of the people to put him to death.
+"""
 
- """
-
-[[Chapter]] #7
+[[Chapter]] #27
 text="""\
 {27:1} In the beginning of the reign of Jehoiakim the son of Josiah
 king of Judah came this word unto Jeremiah from the LORD, saying,
@@ -1890,10 +1862,9 @@ in the house of the LORD, and in the house of the king of Judah and
 of Jerusalem; {27:22} They shall be carried to Babylon, and there shall
 they be until the day that I visit them, saith the LORD; then will I
 bring them up, and restore them to this place.
+"""
 
- """
-
-[[Chapter]] #8
+[[Chapter]] #28
 text="""\
 {28:1} And it came to pass the same year, in the beginning of the
 reign of Zedekiah king of Judah, in the fourth year, and in the fifth
@@ -1944,10 +1915,9 @@ people to trust in a lie. {28:16} Therefore thus saith the LORD;
 Behold, I will cast thee from off the face of the earth: this year thou
 shalt die, because thou hast taught rebellion against the LORD. {28:17}
 So Hananiah the prophet died the same year in the seventh month.
+"""
 
- """
-
-[[Chapter]] #9
+[[Chapter]] #29
 text="""\
 {29:1} Now these are the words of the letter that Jeremiah the
 prophet sent from Jerusalem unto the residue of the elders which were
@@ -2041,10 +2011,9 @@ Shemaiah the Nehelamite, and his seed: he shall not have a man to dwell
 among this people; neither shall he behold the good that I will do for
 my people, saith the LORD; because he hath taught rebellion against the
 LORD.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #30
 text="""\
 {30:1} The word that came to Jeremiah from the LORD, saying, {30:2}
 Thus speaketh the LORD God of Israel, saying, Write thee all the words
@@ -2108,10 +2077,9 @@ continuing whirlwind: it shall fall with pain upon the head of the
 wicked. {30:24} The fierce anger of the LORD shall not return, until he
 have done it, and until he have performed the intents of his heart:
 in the latter days ye shall consider it.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #31
 text="""\
 {31:1} At the same time, saith the LORD, will I be the God of all
 the families of Israel, and they shall be my people. {31:2} Thus saith
@@ -2229,10 +2197,9 @@ the whole valley of the dead bodies, and of the ashes, and all the
 fields unto the brook of Kidron, unto the corner of the horse gate
 toward the east, shall be holy unto the LORD; it shall not be plucked
 up, nor thrown down any more for ever.
+"""
 
- """
-
-[[Chapter]] #2
+[[Chapter]] #32
 text="""\
 {32:1} The word that came to Jeremiah from the LORD in the tenth
 year of Zedekiah king of Judah, which was the eighteenth year of
@@ -2354,10 +2321,9 @@ Benjamin, and in the places about Jerusalem, and in the cities of
 Judah, and in the cities of the mountains, and in the cities of the
 valley, and in the cities of the south: for I will cause their
 captivity to return, saith the LORD.
+"""
 
- """
-
-[[Chapter]] #3
+[[Chapter]] #33
 text="""\
 {33:1} Moreover the word of the LORD came unto Jeremiah the second
 time, while he was yet shut up in the court of the prison, saying,
@@ -2431,10 +2397,9 @@ ordinances of heaven and earth; {33:26} Then will I cast away the seed
 of Jacob, and David my servant, so that I will not take any of his
 seed to be rulers over the seed of Abraham, Isaac, and Jacob: for I
 will cause their captivity to return, and have mercy on them.
+"""
 
- """
-
-[[Chapter]] #4
+[[Chapter]] #34
 text="""\
 {34:1} The word which came unto Jeremiah from the LORD, when
 Nebuchadnezzar king of Babylon, and all his army, and all the kingdoms
@@ -2506,10 +2471,9 @@ which are gone up from you. {34:22} Behold, I will command, saith the
 LORD, and cause them to return to this city; and they shall fight
 against it, and take it, and burn it with fire: and I will make the
 cities of Judah a desolation without an inhabitant.
+"""
 
- """
-
-[[Chapter]] #5
+[[Chapter]] #35
 text="""\
 {35:1} The word which came unto Jeremiah from the LORD in the days
 of Jehoiakim the son of Josiah king of Judah, saying, {35:2} Go unto
@@ -2566,10 +2530,9 @@ commandment of Jonadab your father, and kept all his precepts, and done
 according unto all that he hath commanded you: {35:19} Therefore thus
 saith the LORD of hosts, the God of Israel; Jonadab the son of Rechab
 shall not want a man to stand before me for ever.
+"""
 
- """
-
-[[Chapter]] #6
+[[Chapter]] #36
 text="""\
 {36:1} And it came to pass in the fourth year of Jehoiakim the son
 of Josiah king of Judah, that this word came unto Jeremiah from the
@@ -2662,10 +2625,9 @@ evil that I have pronounced against them; but they hearkened not.
 scribe, the son of Neriah; who wrote therein from the mouth of Jeremiah
 all the words of the book which Jehoiakim king of Judah had burned in
 the fire: and there were added besides unto them many like words.
+"""
 
- """
-
-[[Chapter]] #7
+[[Chapter]] #37
 text="""\
 {37:1} And king Zedekiah the son of Josiah reigned instead of Coniah
 the son of Jehoiakim, whom Nebuchadrezzar king of Babylon made king in
@@ -2722,10 +2684,9 @@ not to return to the house of Jonathan the scribe, lest I die there.
 Jeremiah into the court of the prison, and that they should give him
 daily a piece of bread out of the bakers street, until all the bread in
 the city were spent. Thus Jeremiah remained in the court of the prison.
+"""
 
- """
-
-[[Chapter]] #8
+[[Chapter]] #38
 text="""\
 {38:1} Then Shephatiah the son of Mattan, and Gedaliah the son of
 Pashur, and Jucal the son of Shelemiah, and Pashur the son of Malchiah,
@@ -2810,10 +2771,9 @@ that the king had commanded. So they left off speaking with him; for
 the matter was not perceived. {38:28} So Jeremiah abode in the court of
 the prison until the day that Jerusalem was taken: and he was there
 when Jerusalem was taken.
+"""
 
- """
-
-[[Chapter]] #9
+[[Chapter]] #39
 text="""\
 {39:1} In the ninth year of Zedekiah king of Judah, in the tenth
 month, came Nebuchadrezzar king of Babylon and all his army against
@@ -2865,10 +2825,9 @@ thou shalt not be given into the hand of the men of whom thou art
 afraid. {39:18} For I will surely deliver thee, and thou shalt not fall
 by the sword, but thy life shall be for a prey unto thee: because thou
 hast put thy trust in me, saith the LORD.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #40
 text="""\
 {40:1} The word that came to Jeremiah from the LORD, after that
 Nebuzar-adan the captain of the guard had let him go from Ramah, when
@@ -2927,10 +2886,9 @@ Jews which are gathered unto thee should be scattered, and the remnant
 in Judah perish? {40:16} But Gedaliah the son of Ahikam said unto
 Johanan the son of Kareah, Thou shalt not do this thing: for thou
 speakest falsely of Ishmael.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #41
 text="""\
 {41:1} Now it came to pass in the seventh month, that Ishmael the
 son of Nethaniah the son of Elishama, of the seed royal, and the
@@ -2987,10 +2945,9 @@ which is by Bethlehem, to go to enter into Egypt, {41:18} Because of
 the Chaldeans: for they were afraid of them, because Ishmael the son of
 Nethaniah had slain Gedaliah the son of Ahikam, whom the king of
 Babylon made governor in the land.
+"""
 
- """
-
-[[Chapter]] #2
+[[Chapter]] #42
 text="""\
 {42:1} Then all the captains of the forces, and Johanan the son of
 Kareah, and Jezaniah the son of Hoshaiah, and all the people from the
@@ -3054,10 +3011,9 @@ have not obeyed the voice of the LORD your God, nor any thing for the
 which he hath sent me unto you. {42:22} Now therefore know certainly
 that ye shall die by the sword, by the famine, and by the pestilence,
 in the place whither ye desire to go and to sojourn.
+"""
 
- """
-
-[[Chapter]] #3
+[[Chapter]] #43
 text="""\
 {43:1} And it came to pass, that when Jeremiah had made an end of
 speaking unto all the people all the words of the LORD their God, for
@@ -3097,10 +3053,9 @@ shepherd putteth on his garment; and he shall go forth from thence in
 peace. {43:13} He shall break also the images of Beth-shemesh, that
 is in the land of Egypt; and the houses of the gods of the Egyptians
 shall he burn with fire.
+"""
 
- """
-
-[[Chapter]] #4
+[[Chapter]] #44
 text="""\
 {44:1} The word that came to Jeremiah concerning all the Jews which
 dwell in the land of Egypt, which dwell at Migdol, and at Tahpanhes,
@@ -3204,10 +3159,9 @@ I will give Pharaoh-hophra king of Egypt into the hand of his enemies,
 and into the hand of them that seek his life; as I gave Zedekiah king
 of Judah into the hand of Nebuchadrezzar king of Babylon, his enemy,
 and that sought his life.
+"""
 
- """
-
-[[Chapter]] #5
+[[Chapter]] #45
 text="""\
 {45:1} The word that Jeremiah the prophet spake unto Baruch the son
 of Neriah, when he had written these words in a book at the mouth of
@@ -3222,10 +3176,9 @@ planted I will pluck up, even this whole land. {45:5} And seekest thou
 great things for thyself? seek them not: for, behold, I will bring
 evil upon all flesh, saith the LORD: but thy life will I give unto thee
 for a prey in all places whither thou goest.
+"""
 
- """
-
-[[Chapter]] #6
+[[Chapter]] #46
 text="""\
 {46:1} The word of the LORD which came to Jeremiah the prophet
 against the Gentiles; {46:2} Against Egypt, against the army of
@@ -3297,10 +3250,9 @@ not, O Jacob my servant, saith the LORD: for I am with thee; for I
 will make a full end of all the nations whither I have driven thee: but
 I will not make a full end of thee, but correct thee in measure; yet
 will I not leave thee wholly unpunished.
+"""
 
- """
-
-[[Chapter]] #7
+[[Chapter]] #47
 text="""\
 {47:1} The word of the LORD that came to Jeremiah the prophet
 against the Philistines, before that Pharaoh smote Gaza. {47:2} Thus
@@ -3320,10 +3272,9 @@ the LORD, how long will it be ere thou be quiet? put up thyself into
 thy scabbard, rest, and be still. {47:7} How can it be quiet, seeing
 the LORD hath given it a charge against Ashkelon, and against the sea
 shore? there hath he appointed it.
+"""
 
- """
-
-[[Chapter]] #8
+[[Chapter]] #48
 text="""\
 {48:1} Against Moab thus saith the LORD of hosts, the God of Israel;
 Woe unto Nebo! for it is spoiled: Kiriathaim is confounded and taken:
@@ -3427,10 +3378,9 @@ O Moab! the people of Chemosh perisheth: for thy sons are taken
 captives, and thy daughters captives. {48:47} Yet will I bring again
 the captivity of Moab in the latter days, saith the LORD. Thus far is
 the judgment of Moab.
+"""
 
- """
-
-[[Chapter]] #9
+[[Chapter]] #49
 text="""\
 {49:1} Concerning the Ammonites, thus saith the LORD; Hath Israel no
 sons? hath he no heir? why then doth their king inherit Gad, and his
@@ -3537,10 +3487,9 @@ the king and the princes, saith the LORD.
 
  {49:39} But it shall come to pass in the latter days, that I will
 bring again the captivity of Elam, saith the LORD.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #50
 text="""\
 {50:1} The word that the LORD spake against Babylon and against
 the land of the Chaldeans by Jeremiah the prophet. {50:2} Declare ye
@@ -3670,10 +3619,9 @@ purposed against the land of the Chaldeans: Surely the least of the
 flock shall draw them out: surely he shall make their habitation
 desolate with them. {50:46} At the noise of the taking of Babylon the
 earth is moved, and the cry is heard among the nations.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #51
 text="""\
 {51:1} Thus saith the LORD; Behold, I will raise up against Babylon,
 and against them that dwell in the midst of them that rise up against
@@ -3828,10 +3776,9 @@ a stone to it, and cast it into the midst of Euphrates: {51:64} And
 thou shalt say, Thus shall Babylon sink, and shall not rise from the
 evil that I will bring upon her: and they shall be weary. Thus far
 are the words of Jeremiah.
+"""
 
- """
-
-[[Chapter]] #2
+[[Chapter]] #52
 text="""\
 {52:1} Zedekiah was one and twenty years old when he began to reign,
 and he reigned eleven years in Jerusalem. And his mother's name was

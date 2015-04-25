@@ -1,7 +1,5 @@
-
-The Book of Daniel
-
- """
+[Book]
+title="The Book of Daniel"
 
 [[Chapter]] #1
 text="""\
@@ -59,8 +57,7 @@ matters of wisdom and understanding, that the king enquired of them,
 he found them ten times better than all the magicians and astrologers
 that were in all his realm. {1:21} And Daniel continued even unto
 the first year of king Cyrus.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -196,8 +193,7 @@ chief of the governors over all the wise men of Babylon. {2:49} Then
 Daniel requested of the king, and he set Shadrach, Meshach, and
 Abed-nego, over the affairs of the province of Babylon: but Daniel
 sat in the gate of the king.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -291,8 +287,7 @@ the God of Shadrach, Meshach, and Abed-nego, shall be cut in pieces,
 and their houses shall be made a dunghill: because there is no other
 God that can deliver after this sort. {3:30} Then the king promoted
 Shadrach, Meshach, and Abed-nego, in the province of Babylon.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -405,8 +400,7 @@ unto me; and I was established in my kingdom, and excellent majesty was
 added unto me. {4:37} Now I Nebuchadnezzar praise and extol and honour
 the King of heaven, all whose works are truth, and his ways judgment:
 and those that walk in pride he is able to abase.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -501,8 +495,7 @@ concerning him, that he should be the third ruler in the kingdom.
  {5:30} In that night was Belshazzar the king of the Chaldeans slain.
 {5:31} And Darius the Median took the kingdom, being about threescore
 and two years old.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -590,8 +583,7 @@ delivereth and rescueth, and he worketh signs and wonders in heaven and
 in earth, who hath delivered Daniel from the power of the lions. {6:28}
 So this Daniel prospered in the reign of Darius, and in the reign of
 Cyrus the Persian.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -672,8 +664,7 @@ saints of the most High, whose kingdom is an everlasting kingdom, and
 all dominions shall serve and obey him. {7:28} Hitherto is the end of
 the matter. As for me Daniel, my cogitations much troubled me, and my
 countenance changed in me: but I kept the matter in my heart.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -747,8 +738,7 @@ thou up the vision; for it shall be for many days. {8:27} And I
 Daniel fainted, and was sick certain days; afterward I rose up, and
 did the king's business; and I was astonished at the vision, but none
 understood it.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -836,10 +826,9 @@ covenant with many for one week: and in the midst of the week he shall
 cause the sacrifice and the oblation to cease, and for the
 overspreading of abominations he shall make it desolate, even until
 the consummation, and that determined shall be poured upon the desolate.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #10
 text="""\
 {10:1} In the third year of Cyrus king of Persia a thing was
 revealed unto Daniel, whose name was called Belteshazzar; and the thing
@@ -894,10 +883,9 @@ and when I am gone forth, lo, the prince of Grecia shall come. {10:21}
 But I will shew thee that which is noted in the scripture of truth: and
 there is none that holdeth with me in these things, but Michael your
 prince.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #11
 text="""\
 {11:1} Also I in the first year of Darius the Mede, even I, stood
 to confirm and to strengthen him. {11:2} And now will I shew thee the
@@ -1025,10 +1013,9 @@ trouble him: therefore he shall go forth with great fury to destroy,
 and utterly to make away many. {11:45} And he shall plant the
 tabernacles of his palace between the seas in the glorious holy
 mountain; yet he shall come to his end, and none shall help him.
+"""
 
- """
-
-[[Chapter]] #2
+[[Chapter]] #12
 text="""\
 {12:1} And at that time shall Michael stand up, the great prince
 which standeth for the children of thy people: and there shall be a

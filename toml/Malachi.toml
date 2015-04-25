@@ -1,7 +1,5 @@
-
-Malachi
-
- """
+[Book]
+title="Malachi"
 
 [[Chapter]] #1
 text="""\
@@ -45,8 +43,7 @@ offering: should I accept this of your hand? saith the LORD. {1:14} But
 cursed be the deceiver, which hath in his flock a male, and voweth,
 and sacrificeth unto the LORD a corrupt thing: for I am a great King,
 saith the LORD of hosts, and my name is dreadful among the heathen.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -98,8 +95,7 @@ deal not treacherously.
 have we wearied [him?] When ye say, Every one that doeth evil is good
 in the sight of the LORD, and he delighteth in them; or, Where is the
 God of judgment?
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -153,8 +149,7 @@ that day when I make up my jewels; and I will spare them, as a man
 spareth his own son that serveth him. {3:18} Then shall ye return, and
 discern between the righteous and the wicked, between him that serveth
 God and him that serveth him not.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\

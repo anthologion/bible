@@ -1,7 +1,5 @@
-
-The Second Book of Samuel Otherwise Called the Second Book of the Kings
-
- """
+[Book]
+title="The Second Book of Samuel Otherwise Called the Second Book of the Kings"
 
 [[Chapter]] #1
 text="""\
@@ -65,8 +63,7 @@ wast slain in thine high places. {1:26} I am distressed for thee, my
 brother Jonathan: very pleasant hast thou been unto me: thy love to me
 was wonderful, passing the love of women. {1:27} How are the mighty
 fallen, and the weapons of war perished!
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -153,8 +150,7 @@ that three hundred and threescore men died.
  {2:32} And they took up Asahel, and buried him in the sepulchre of
 his father, which was in Bethlehem. And Joab and his men went all
 night, and they came to Hebron at break of day.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -261,8 +257,7 @@ servants, Know ye not that there is a prince and a great man fallen
 this day in Israel? {3:39} And I am this day weak, though anointed
 king; and these men the sons of Zeruiah be too hard for me: the LORD
 shall reward the doer of evil according to his wickedness.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -302,8 +297,7 @@ from the earth? {4:12} And David commanded his young men, and they slew
 them, and cut off their hands and their feet, and hanged them up over
 the pool in Hebron. But they took the head of Ish-bosheth, and buried
 it in the sepulchre of Abner in Hebron.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -369,8 +363,7 @@ trees, that then thou shalt bestir thyself: for then shall the LORD go
 out before thee, to smite the host of the Philistines. {5:25} And David
 did so, as the LORD had commanded him; and smote the Philistines from
 Geba until thou come to Gazer.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -435,8 +428,7 @@ will I play before the LORD. {6:22} And I will yet be more vile than
 thus, and will be base in mine own sight: and of the maidservants which
 thou hast spoken of, of them shall I be had in honour. {6:23} Therefore
 Michal the daughter of Saul had no child unto the day of her death.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -511,8 +503,7 @@ thy servant: {7:29} Therefore now let it please thee to bless the house
 of thy servant, that it may continue for ever before thee: for thou, O
 Lord GOD, hast spoken it: and with thy blessing let the house of thy
 servant be blessed for ever.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -560,8 +551,7 @@ of Ahitub, and Ahimelech the son of Abiathar, were the priests; and
 Seraiah was the scribe; {8:18} And Benaiah the son of Jehoiada was
 over both the Cherethites and the Pelethites; and David's sons were
 chief rulers.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -602,10 +592,9 @@ a young son, whose name was Micha. And all that dwelt in the house of
 Ziba were servants unto Mephibosheth. {9:13} So Mephibosheth dwelt in
 Jerusalem: for he did eat continually at the king's table; and was lame
 on both his feet.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #10
 text="""\
 {10:1} And it came to pass after this, that the king of the children
 of Ammon died, and Hanun his son reigned in his stead. {10:2} Then said
@@ -660,10 +649,9 @@ Shobach the captain of their host, who died there. {10:19} And when all
 the kings that were servants to Hadarezer saw that they were smitten
 before Israel, they made peace with Israel, and served them. So the
 Syrians feared to help the children of Ammon any more.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #11
 text="""\
 {11:1} And it came to pass, after the year was expired, at the time
 when kings go forth to battle, that David sent Joab, and his servants
@@ -737,10 +725,9 @@ dead, she mourned for her husband. {11:27} And when the mourning was
 past, David sent and fetched her to his house, and she became his wife,
 and bare him a son. But the thing that David had done displeased the
 LORD.
+"""
 
- """
-
-[[Chapter]] #2
+[[Chapter]] #12
 text="""\
 {12:1} And the LORD sent Nathan unto David. And he came unto him,
 and said unto him, There were two men in one city; the one rich, and
@@ -826,10 +813,9 @@ therein, and put them under saws, and under harrows of iron, and
 under axes of iron, and made them pass through the brickkiln: and thus
 did he unto all the cities of the children of Ammon. So David and all
 the people returned unto Jerusalem.
+"""
 
- """
-
-[[Chapter]] #3
+[[Chapter]] #13
 text="""\
 {13:1} And it came to pass after this, that Absalom the son of David
 had a fair sister, whose name was Tamar; and Amnon the son of David
@@ -934,10 +920,9 @@ king of Geshur. And David mourned for his son every day. {13:38} So
 Absalom fled, and went to Geshur, and was there three years. {13:39}
 And the soul of king David longed to go forth unto Absalom: for he
 was comforted concerning Amnon, seeing he was dead.
+"""
 
- """
-
-[[Chapter]] #4
+[[Chapter]] #14
 text="""\
 {14:1} Now Joab the son of Zeruiah perceived that the king's heart
 was toward Absalom. {14:2} And Joab sent to Tekoah, and fetched
@@ -1031,10 +1016,9 @@ me, let him kill me. {14:33} So Joab came to the king, and told him:
 and when he had called for Absalom, he came to the king, and bowed
 himself on his face to the ground before the king: and the king kissed
 Absalom.
+"""
 
- """
-
-[[Chapter]] #5
+[[Chapter]] #15
 text="""\
 {15:1} And it came to pass after this, that Absalom prepared him
 chariots and horses, and fifty men to run before him. {15:2} And
@@ -1137,10 +1121,9 @@ they have there with them their two sons, Ahimaaz Zadok's son, and
 Jonathan Abiathar's son; and by them ye shall send unto me every
 thing that ye can hear. {15:37} So Hushai David's friend came into the
 city, and Absalom came into Jerusalem.
+"""
 
- """
-
-[[Chapter]] #6
+[[Chapter]] #16
 text="""\
 {16:1} And when David was a little past the top of the hill,
 behold, Ziba the servant of Mephibosheth met him, with a couple of
@@ -1206,10 +1189,9 @@ father's concubines in the sight of all Israel. {16:23} And the counsel
 of Ahithophel, which he counselled in those days, was as if a man had
 enquired at the oracle of God: so was all the counsel of Ahithophel
 both with David and with Absalom.
+"""
 
- """
-
-[[Chapter]] #7
+[[Chapter]] #17
 text="""\
 {17:1} Moreover Ahithophel said unto Absalom, Let me now choose out
 twelve thousand men, and I will arise and pursue after David this
@@ -1293,10 +1275,9 @@ parched [pulse, ]{17:29} And honey, and butter, and sheep, and cheese
 of kine, for David, and for the people that were with him, to eat:
 for they said, The people is hungry, and weary, and thirsty, in the
 wilderness.
+"""
 
- """
-
-[[Chapter]] #8
+[[Chapter]] #18
 text="""\
 {18:1} And David numbered the people that were with him, and set
 captains of thousands and captains of hundreds over them. {18:2} And
@@ -1391,10 +1372,9 @@ young man is.
 the gate, and wept: and as he went, thus he said, O my son Absalom, my
 son, my son Absalom! would God I had died for thee, O Absalom, my son,
 my son!
+"""
 
- """
-
-[[Chapter]] #9
+[[Chapter]] #19
 text="""\
 {19:1} And it was told Joab, Behold, the king weepeth and mourneth
 for Absalom. {19:2} And the victory that day was turned into mourning
@@ -1518,10 +1498,9 @@ also more right in David than ye: why then did ye despise us, that
 our advice should not be first had in bringing back our king? And the
 words of the men of Judah were fiercer than the words of the men of
 Israel.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #20
 text="""\
 {20:1} And there happened to be there a man of Belial, whose name
 was Sheba, the son of Bichri, a Benjamite: and he blew a trumpet, and
@@ -1597,10 +1576,9 @@ son of Jehoiada was over the Cherethites and over the Pelethites:
 Ahilud was recorder: {20:25} And Sheva was scribe: and Zadok and
 Abiathar were the priests: {20:26} And Ira also the Jairite was a
 chief ruler about David.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #21
 text="""\
 {21:1} Then there was a famine in the days of David three years,
 year after year; and David enquired of the LORD. And the LORD answered,
@@ -1669,10 +1647,9 @@ number; and he also was born to the giant. {21:21} And when he defied
 Israel, Jonathan the son of Shimeah the brother of David slew him.
 {21:22} These four were born to the giant in Gath, and fell by the hand
 of David, and by the hand of his servants.
+"""
 
- """
-
-[[Chapter]] #2
+[[Chapter]] #22
 text="""\
 {22:1} And David spake unto the LORD the words of this song in the
 day that the LORD had delivered him out of the hand of all his
@@ -1751,10 +1728,9 @@ from the violent man. {22:50} Therefore I will give thanks unto thee, O
 LORD, among the heathen, and I will sing praises unto thy name. {22:51}
 He is the tower of salvation for his king: and sheweth mercy to his
 anointed, unto David, and to his seed for evermore.
+"""
 
- """
-
-[[Chapter]] #3
+[[Chapter]] #23
 text="""\
 {23:1} Now these be the last words of David. David the son of
 Jesse said, and the man who was raised up on high, the anointed of
@@ -1832,10 +1808,9 @@ Zobah, Bani the Gadite, {23:37} Zelek the Ammonite, Nahari the
 Beerothite, armourbearer to Joab the son of Zeruiah, {23:38} Ira an
 Ithrite, Gareb an Ithrite, {23:39} Uriah the Hittite: thirty and seven
 in all.
+"""
 
- """
-
-[[Chapter]] #4
+[[Chapter]] #24
 text="""\
 {24:1} And again the anger of the LORD was kindled against Israel,
 and he moved David against them to say, Go, number Israel and Judah.

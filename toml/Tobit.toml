@@ -1,7 +1,5 @@
-
-The Book of Tobit
-
- """
+[Book]
+title="The Book of Tobit"
 
 [[Chapter]] #1
 text="""\
@@ -88,8 +86,7 @@ Anael's son.
 Achiacharus was cupbearer, and keeper of the signet, and steward, and
 overseer of the accounts: and Sarchedonus appointed him next unto him:
 and he was my brother's son.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -144,8 +141,7 @@ the wages. Howbeit I did not believe her, but bade her render it to the
 owners: and I was abashed at her. But she replied upon me, Where are
 thine alms and thy righteous deeds? behold, thou and all thy works are
 known.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -217,8 +213,7 @@ Raguel for a wife to Tobias the son of Tobit; and to bind Asmodeus the
 evil spirit; because she belonged to Tobias by right of inheritance.
 The selfsame time came Tobit home, and entered into his house, and Sara
 the daughter of Raguel came down from her upper chamber.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -304,8 +299,7 @@ to Gabael the son of Gabrias at Rages in Media.
  {4:21} And fear not, my son, that we are made poor: for thou hast
 much wealth, if thou fear God, and depart from all sin, and do that
 which is pleasing in his sight.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -384,8 +378,7 @@ return in safety, and thine eyes shall see him.
 shall be prosperous, and he shall return safe.
 
  {5:22} Then she made an end of weeping.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -459,8 +452,7 @@ you: fear not, for she is appointed unto thee from the beginning; and
 thou shalt preserve her, and she shall go with thee. Moreover I suppose
 that she shall bear thee children. Now when Tobias had heard these
 things, he loved her, and his heart was effectually joined to her.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -527,8 +519,7 @@ said unto her,
 
  {7:18} Be of good comfort, my daughter; the Lord of heaven and earth
 give thee joy for this thy sorrow: be of good comfort, my daughter.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -598,8 +589,7 @@ days of the marriage were expired;
  {8:21} And then he should take the half of his goods, and go in
 safety to his father; and should have the rest when I and my wife be
 dead.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -620,10 +610,9 @@ to him.
 
  {9:6} And early in the morning they went forth both together, and
 came to the wedding: and Tobias blessed his wife.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #10
 text="""\
 {10:1} Now Tobit his father counted every day: and when the days of
 the journey were expired, and they came not,
@@ -668,10 +657,9 @@ heaven restore thee, my dear brother, and grant that I may see thy
 children of my daughter Sara before I die, that I may rejoice before
 the Lord: behold, I commit my daughter unto thee of special trust;
 where are do not entreat her evil.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #11
 text="""\
 {11:1} After these things Tobias went his way, praising God that he
 had given him a prosperous journey, and blessed Raguel and Edna his
@@ -732,10 +720,9 @@ joy among all his brethren which were at Nineve.
  {11:18} And Achiacharus, and Nasbas his brother's son, came:
 
  {11:19} And Tobias' wedding was kept seven days with great joy.
+"""
 
- """
-
-[[Chapter]] #2
+[[Chapter]] #12
 text="""\
 {12:1} Then Tobit called his son Tobias, and said unto him, My son,
 see that the man have his wages, which went with thee, and thou must
@@ -810,10 +797,9 @@ me; but write all things which are done in a book.
 
  {12:22} Then they confessed the great and wonderful works of God,
 and how the angel of the Lord had appeared unto them.
+"""
 
- """
-
-[[Chapter]] #3
+[[Chapter]] #13
 text="""\
 {13:1} Then Tobit wrote a prayer of rejoicing, and said, Blessed be
 God that liveth for ever, and blessed be his kingdom.
@@ -880,10 +866,9 @@ carbuncle and stones of Ophir.
 
  {13:18} And all her streets shall say, Alleluia; and they shall
 praise him, saying, Blessed be God, which hath extolled it for ever.
+"""
 
- """
-
-[[Chapter]] #4
+[[Chapter]] #14
 text="""\
 {14:1} So Tobit made an end of praising God.
 

@@ -1,7 +1,5 @@
-
-The Book of Judges
-
- """
+[Book]
+title="The Book of Judges"
 
 [[Chapter]] #1
 text="""\
@@ -98,8 +96,7 @@ Amorites would dwell in mount Heres in Aijalon, and in Shaalbim: yet
 the hand of the house of Joseph prevailed, so that they became
 tributaries. {1:36} And the coast of the Amorites was from the going
 up to Akrabbim, from the rock, and upward.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -167,8 +164,7 @@ Israel, whether they will keep the way of the LORD to walk therein, as
 their fathers did keep it, or not. {2:23} Therefore the LORD left
 those nations, without driving them out hastily; neither delivered he
 them into the hand of Joshua.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -246,8 +242,7 @@ the hand of Israel. And the land had rest fourscore years.
  {3:31} And after him was Shamgar the son of Anath, which slew of the
 Philistines six hundred men with an ox goad: and he also delivered
 Israel.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -315,8 +310,7 @@ was in his temples. {4:23} So God subdued on that day Jabin the king
 of Canaan before the children of Israel. {4:24} And the hand of the
 children of Israel prospered, and prevailed against Jabin the king of
 Canaan, until they had destroyed Jabin king of Canaan.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -383,8 +377,7 @@ needlework, of divers colours of needlework on both sides, meet for
 the necks of them that take the spoil? {5:31} So let all thine
 enemies perish, O LORD: but let them that love him be as the sun
 when he goeth forth in his might. And the land had rest forty years.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -498,8 +491,7 @@ this once: let me prove, I pray thee, but this once with the fleece;
 let it now be dry only upon the fleece, and upon all the ground let
 there be dew. {6:40} And God did so that night: for it was dry upon the
 fleece only, and there was dew on all the ground.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -584,8 +576,7 @@ themselves together, and took the waters unto Beth-barah and Jordan.
 they slew Oreb upon the rock Oreb, and Zeeb they slew at the winepress
 of Zeeb, and pursued Midian, and brought the heads of Oreb and Zeeb to
 Gideon on the other side Jordan.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -687,8 +678,7 @@ Israel remembered not the LORD their God, who had delivered them out of
 the hands of all their enemies on every side: {8:35} Neither shewed
 they kindness to the house of Jerubbaal, namely, Gideon, according to
 all the goodness which he had shewed unto Israel.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -835,10 +825,9 @@ dead, they departed every man unto his place.
 unto his father, in slaying his seventy brethren: {9:57} And all the
 evil of the men of Shechem did God render upon their heads: and upon
 them came the curse of Jotham the son of Jerubbaal.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #10
 text="""\
 {10:1} And after Abimelech there arose to defend Israel Tola the son
 of Puah, the son of Dodo, a man of Issachar; and he dwelt in Shamir in
@@ -885,10 +874,9 @@ themselves together, and encamped in Mizpeh. {10:18} And the people
 and princes of Gilead said one to another, What man is he that will
 begin to fight against the children of Ammon? he shall be head over all
 the inhabitants of Gilead.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #11
 text="""\
 {11:1} Now Jephthah the Gileadite was a mighty man of valour, and he
 was the son of an harlot: and Gilead begat Jephthah. {11:2} And
@@ -997,10 +985,9 @@ father, who did with her according to his vow which he had vowed: and
 she knew no man. And it was a custom in Israel, {11:40} That the
 daughters of Israel went yearly to lament the daughter of Jephthah the
 Gileadite four days in a year.
+"""
 
- """
-
-[[Chapter]] #2
+[[Chapter]] #12
 text="""\
 {12:1} And the men of Ephraim gathered themselves together, and went
 northward, and said unto Jephthah, Wherefore passedst thou over to
@@ -1039,10 +1026,9 @@ Israel. {12:14} And he had forty sons and thirty nephews, that rode on
 threescore and ten ass colts: and he judged Israel eight years. {12:15}
 And Abdon the son of Hillel the Pirathonite died, and was buried in
 Pirathon in the land of Ephraim, in the mount of the Amalekites.
+"""
 
- """
-
-[[Chapter]] #3
+[[Chapter]] #13
 text="""\
 {13:1} And the children of Israel did evil again in the sight of the
 LORD; and the LORD delivered them into the hand of the Philistines
@@ -1111,10 +1097,9 @@ things as these.
 the child grew, and the LORD blessed him. {13:25} And the Spirit of the
 LORD began to move him at times in the camp of Dan between Zorah and
 Eshtaol.
+"""
 
- """
-
-[[Chapter]] #4
+[[Chapter]] #14
 text="""\
 {14:1} And Samson went down to Timnath, and saw a woman in Timnath
 of the daughters of the Philistines. {14:2} And he came up, and told
@@ -1178,10 +1163,9 @@ gave change of garments unto them which expounded the riddle. And his
 anger was kindled, and he went up to his father's house. {14:20} But
 Samson's wife was given to his companion, whom he had used as his
 friend.
+"""
 
- """
-
-[[Chapter]] #5
+[[Chapter]] #15
 text="""\
 {15:1} But it came to pass within a while after, in the time of
 wheat harvest, that Samson visited his wife with a kid; and he said, I
@@ -1243,10 +1227,9 @@ jaw, and there came water thereout; and when he had drunk, his spirit
 came again, and he revived: wherefore he called the name thereof
 En-hakkore, which is in Lehi unto this day. {15:20} And he judged
 Israel in the days of the Philistines twenty years.
+"""
 
- """
-
-[[Chapter]] #6
+[[Chapter]] #16
 text="""\
 {16:1} Then went Samson to Gaza, and saw there an harlot, and went
 in unto her. {16:2} And it was told the Gazites, saying, Samson is
@@ -1340,10 +1323,9 @@ in his life. {16:31} Then his brethren and all the house of his father
 came down, and took him, and brought him up, and buried him between
 Zorah and Eshtaol in the buryingplace of Manoah his father. And he
 judged Israel twenty years.
+"""
 
- """
-
-[[Chapter]] #7
+[[Chapter]] #17
 text="""\
 {17:1} And there was a man of mount Ephraim, whose name was Micah.
 {17:2} And he said unto his mother, The eleven hundred shekels of
@@ -1377,10 +1359,9 @@ sons. {17:12} And Micah consecrated the Levite; and the young man
 became his priest, and was in the house of Micah. {17:13} Then said
 Micah, Now know I that the LORD will do me good, seeing I have a Levite
 to my priest.
+"""
 
- """
-
-[[Chapter]] #8
+[[Chapter]] #18
 text="""\
 {18:1} In those days there was no king in Israel: and in those
 days the tribe of the Danites sought them an inheritance to dwell in;
@@ -1470,10 +1451,9 @@ Jonathan, the son of Gershom, the son of Manasseh, he and his sons were
 priests to the tribe of Dan until the day of the captivity of the land.
 {18:31} And they set them up Micah's graven image, which he made, all
 the time that the house of God was in Shiloh.
+"""
 
- """
-
-[[Chapter]] #9
+[[Chapter]] #19
 text="""\
 {19:1} And it came to pass in those days, when there was no king
 in Israel, that there was a certain Levite sojourning on the side of
@@ -1566,10 +1546,9 @@ And it was so, that all that saw it said, There was no such deed done
 nor seen from the day that the children of Israel came up out of the
 land of Egypt unto this day: consider of it, take advice, and speak
 your minds.
+"""
 
- """
-
-[[Chapter]] #0
+[[Chapter]] #20
 text="""\
 {20:1} Then all the children of Israel went out, and the
 congregation was gathered together as one man, from Dan even to
@@ -1695,10 +1674,9 @@ the rock Rimmon four months. {20:48} And the men of Israel turned again
 upon the children of Benjamin, and smote them with the edge of the
 sword, as well the men of every city, as the beast, and all that came
 to hand: also they set on fire all the cities that they came to.
+"""
 
- """
-
-[[Chapter]] #1
+[[Chapter]] #21
 text="""\
 {21:1} Now the men of Israel had sworn in Mizpeh, saying, There
 shall not any of us give his daughter unto Benjamin to wife. {21:2} And
