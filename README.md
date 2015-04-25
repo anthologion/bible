@@ -40,5 +40,7 @@ This KJV version will use `{<chapter>:<verse>}` exclusively. This will allow for
 
 #Acknowledgments
 
+Thank you to @toml-lang for a sane format for simple machine parsing, and still being easy on the eye.
+
 Thank you to http://ebible.org/kjv/ for providing a textual KJV with Apocrypha!
 
