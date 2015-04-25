@@ -1,7 +1,6 @@
 
-The First Book of Moses, called Genesis
-
- """
+The First Book of Moses,[Book]
+title=called Genesis
 
 [[Chapter]] #1
 text="""\
@@ -77,8 +76,7 @@ air, and to every thing that creepeth upon the earth, wherein there
 is life, I have given every green herb for meat: and it was so.
 {1:31} And God saw every thing that he had made, and, behold, it was
 very good. And the evening and the morning were the sixth day.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -133,8 +131,7 @@ flesh: she shall be called Woman, because she was taken out of Man.
 {2:24} Therefore shall a man leave his father and his mother, and shall
 cleave unto his wife: and they shall be one flesh. {2:25} And they were
 both naked, the man and his wife, and were not ashamed.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -191,8 +188,7 @@ him forth from the garden of Eden, to till the ground from whence he
 was taken. {3:24} So he drove out the man; and he placed at the east of
 the garden of Eden Cherubim, and a flaming sword which turned every
 way, to keep the way of the tree of life.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -252,8 +248,7 @@ his name Seth: For God, said she, hath appointed me another seed
 instead of Abel, whom Cain slew. {4:26} And to Seth, to him also there
 was born a son; and he called his name Enos: then began men to call
 upon the name of the LORD.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -310,8 +305,7 @@ begat Noah five hundred ninety and five years, and begat sons and
 daughters: {5:31} And all the days of Lamech were seven hundred seventy
 and seven years: and he died. {5:32} And Noah was five hundred years
 old: and Noah begat Shem, Ham, and Japheth.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -364,8 +358,7 @@ them alive. {6:21} And take thou unto thee of all food that is eaten,
 and thou shalt gather it to thee; and it shall be for food for thee,
 and for them. {6:22} Thus did Noah; according to all that God commanded
 him, so did he.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -418,8 +411,7 @@ man, and cattle, and the creeping things, and the fowl of the heaven;
 and they were destroyed from the earth: and Noah only remained alive,
 and they that were with him in the ark. {7:24} And the waters
 prevailed upon the earth an hundred and fifty days.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -475,8 +467,7 @@ sake; for the imagination of man's heart is evil from his youth;
 neither will I again smite any more every thing living, as I have done.
 {8:22} While the earth remaineth, seedtime and harvest, and cold and
 heat, and summer and winter, and day and night shall not cease.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -537,8 +528,7 @@ tents of Shem; and Canaan shall be his servant.
  {9:28} And Noah lived after the flood three hundred and fifty years.
 {9:29} And all the days of Noah were nine hundred and fifty years: and
 he died.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -590,8 +580,7 @@ are the sons of Shem, after their families, after their tongues, in
 their lands, after their nations. {10:32} These are the families of
 the sons of Noah, after their generations, in their nations: and by
 these were the nations divided in the earth after the flood.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -649,8 +638,7 @@ his son Abram's wife; and they went forth with them from Ur of the
 Chaldees, to go into the land of Canaan; and they came unto Haran, and
 dwelt there. {11:32} And the days of Terah were two hundred and five
 years: and Terah died in Haran.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -701,8 +689,7 @@ so I might have taken her to me to wife: now therefore behold thy wife,
 take her, and go thy way. {12:20} And Pharaoh commanded his men
 concerning him: and they sent him away, and his wife, and all that he
 had.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -745,8 +732,7 @@ also be numbered. {13:17} Arise, walk through the land in the length of
 it and in the breadth of it; for I will give it unto thee. {13:18} Then
 Abram removed his tent, and came and dwelt in the plain of Mamre,
 which is in Hebron, and built there an altar unto the LORD.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -803,8 +789,7 @@ shoelatchet, and that I will not take any thing that is thine, lest
 thou shouldest say, I have made Abram rich: {14:24} Save only that
 which the young men have eaten, and the portion of the men which went
 with me, Aner, Eshcol, and Mamre; let them take their portion.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -845,8 +830,7 @@ the river of Egypt unto the great river, the river Euphrates: {15:19}
 The Kenites, and the Kenizzites, and the Kadmonites, {15:20} And the
 Hittites, and the Perizzites, and the Rephaims, {15:21} And the
 Amorites, and the Canaanites, and the Girgashites, and the Jebusites.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -888,8 +872,7 @@ called Beer-lahai-roi; behold, it is between Kadesh and Bered.
  {16:15} And Hagar bare Abram a son: and Abram called his son's name,
 which Hagar bare, Ishmael. {16:16} And Abram was fourscore and six
 years old, when Hagar bare Ishmael to Abram.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -952,8 +935,7 @@ when he was circumcised in the flesh of his foreskin. {17:26} In the
 selfsame day was Abraham circumcised, and Ishmael his son. {17:27} And
 all the men of his house, born in the house, and bought with money of
 the stranger, were circumcised with him.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -1029,8 +1011,7 @@ this once: Peradventure ten shall be found there. And he said, I will
 not destroy it for ten's sake. {18:33} And the LORD went his way, as
 soon as he had left communing with Abraham: and Abraham returned unto
 his place.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -1132,8 +1113,7 @@ And the firstborn bare a son, and called his name Moab: the same is
 the father of the Moabites unto this day. {19:38} And the younger, she
 also bare a son, and called his name Benammi: the same is the father
 of the children of Ammon unto this day.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -1179,8 +1159,7 @@ all other: thus she was reproved.
 his wife, and his maidservants; and they bare [children. ]{20:18} For
 the LORD had fast closed up all the wombs of the house of Abimelech,
 because of Sarah Abraham's wife.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -1253,8 +1232,7 @@ Philistines.
  {21:33} And Abraham planted a grove in Beer-sheba, and called
 there on the name of the LORD, the everlasting God. {21:34} And Abraham
 sojourned in the Philistines' land many days.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -1312,8 +1290,7 @@ and Jidlaph, and Bethuel. {22:23} And Bethuel begat Rebekah: these
 eight Milcah did bear to Nahor, Abraham's brother. {22:24} And his
 concubine, whose name was Reumah, she bare also Tebah, and Gaham, and
 Thahash, and Maachah.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -1363,8 +1340,7 @@ in the cave of the field of Machpelah before Mamre: the same is
 Hebron in the land of Canaan. {23:20} And the field, and the cave that
 is therein, were made sure unto Abraham for a possession of a
 buryingplace by the sons of Heth.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -1518,8 +1494,7 @@ told Isaac all things that he had done. {24:67} And Isaac brought her
 into his mother Sarah's tent, and took Rebekah, and she became his
 wife; and he loved her: and Isaac was comforted after his mother's
 death.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -1591,8 +1566,7 @@ me this day; and he sware unto him: and he sold his birthright unto
 Jacob. {25:34} Then Jacob gave Esau bread and pottage of lentiles; and
 he did eat and drink, and rose up, and went his way: thus Esau despised
 his birthright.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -1673,8 +1647,7 @@ Beer-sheba unto this day.
  {26:34} And Esau was forty years old when he took to wife Judith the
 daughter of Beeri the Hittite, and Bashemath the daughter of Elon the
 Hittite: {26:35} Which were a grief of mind unto Isaac and to Rebekah.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -1781,8 +1754,7 @@ should I be deprived also of you both in one day? {27:46} And Rebekah
 said to Isaac, I am weary of my life because of the daughters of Heth:
 if Jacob take a wife of the daughters of Heth, such as these which
 are of the daughters of the land, what good shall my life do me?
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -1839,8 +1811,7 @@ that I come again to my father's house in peace; then shall the LORD be
 my God: {28:22} And this stone, which I have set for a pillar, shall
 be God's house: and of all that thou shalt give me I will surely give
 the tenth unto thee.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -1916,8 +1887,7 @@ joined unto me, because I have born him three sons: therefore was his
 name called Levi. {29:35} And she conceived again, and bare a son: and
 she said, Now will I praise the LORD: therefore she called his name
 Judah; and left bearing.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -2009,8 +1979,7 @@ they might conceive among the rods. {30:42} But when the cattle were
 feeble, he put them not in: so the feebler were Laban's, and the
 stronger Jacob's. {30:43} And the man increased exceedingly, and had
 much cattle, and maidservants, and menservants, and camels, and asses.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -2134,8 +2103,7 @@ his brethren to eat bread: and they did eat bread, and tarried all
 night in the mount. {31:55} And early in the morning Laban rose up, and
 kissed his sons and his daughters, and blessed them: and Laban
 departed, and returned unto his place.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -2207,8 +2175,7 @@ passed over Penuel the sun rose upon him, and he halted upon his thigh.
 {32:32} Therefore the children of Israel eat not of the sinew which
 shrank, which is upon the hollow of the thigh, unto this day: because
 he touched the hollow of Jacob's thigh in the sinew that shrank.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -2255,8 +2222,7 @@ before the city. {33:19} And he bought a parcel of a field, where he
 had spread his tent, at the hand of the children of Hamor, Shechem's
 father, for an hundred pieces of money. {33:20} And he erected there an
 altar, and called it El-elohe-Israel.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -2328,8 +2294,7 @@ among the Canaanites and the Perizzites: and I being few in number,
 they shall gather themselves together against me, and slay me; and I
 shall be destroyed, I and my house. {34:31} And they said, Should he
 deal with our sister as with an harlot?
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -2395,8 +2360,7 @@ city of Arbah, which is Hebron, where Abraham and Isaac sojourned.
 {35:29} And Isaac gave up the ghost, and died, and was gathered unto
 his people, being old and full of days: and his sons Esau and Jacob
 buried him.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -2483,8 +2447,7 @@ Alvah, duke Jetheth, {36:41} Duke Aholibamah, duke Elah, duke Pinon,
 {36:42} Duke Kenaz, duke Teman, duke Mibzar, {36:43} Duke Magdiel, duke
 Iram: these be the dukes of Edom, according to their habitations in
 the land of their possession: he is Esau the father of the Edomites.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -2572,8 +2535,7 @@ him; but he refused to be comforted; and he said, For I will go down
 into the grave unto my son mourning. Thus his father wept for him.
 {37:36} And the Midianites sold him into Egypt unto Potiphar, an
 officer of Pharaoh's, and captain of the guard.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -2646,8 +2608,7 @@ his brother came out: and she said, How hast thou broken forth? this
 breach be upon thee: therefore his name was called Pharez. {38:30}
 And afterward came out his brother, that had the scarlet thread upon
 his hand: and his name was called Zarah.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -2704,8 +2665,7 @@ were in the prison; and whatsoever they did there, he was the doer
 [of it. ]{39:23} The keeper of the prison looked not to any thing that
 was under his hand; because the LORD was with him, and that which he
 did, the LORD made it to prosper.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -2759,8 +2719,7 @@ the head of the chief butler and of the chief baker among his servants.
 he gave the cup into Pharaoh's hand: {40:22} But he hanged the chief
 baker: as Joseph had interpreted to them. {40:23} Yet did not the chief
 butler remember Joseph, but forgat him.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -2886,8 +2845,7 @@ Joseph opened all the storehouses, and sold unto the Egyptians; and the
 famine waxed sore in the land of Egypt. {41:57} And all countries came
 into Egypt to Joseph for to buy corn; because that the famine was so
 sore in all lands.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -2977,8 +2935,7 @@ thee: deliver him into my hand, and I will bring him to thee again.
 is dead, and he is left alone: if mischief befall him by the way in the
 which ye go, then shall ye bring down my gray hairs with sorrow to the
 grave.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -3059,8 +3016,7 @@ birthright, and the youngest according to his youth: and the men
 marvelled one at another. {43:34} And he took and sent messes unto
 them from before him: but Benjamin's mess was five times so much as any
 of theirs. And they drank, and were merry with him.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -3135,8 +3091,7 @@ let thy servant abide instead of the lad a bondman to my lord; and let
 the lad go up with his brethren. {44:34} For how shall I go up to my
 father, and the lad be not with me? lest peradventure I see the evil
 that shall come on my father.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -3201,8 +3156,7 @@ him all the words of Joseph, which he had said unto them: and when he
 saw the wagons which Joseph had sent to carry him, the spirit of Jacob
 their father revived: {45:28} And Israel said, It is enough; Joseph
 my son is yet alive: I will go and see him before I die.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -3289,8 +3243,7 @@ shall say, Thy servants' trade hath been about cattle from our youth
 even until now, both we, and also our fathers: that ye may dwell in
 the land of Goshen; for every shepherd is an abomination unto the
 Egyptians.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -3375,8 +3328,7 @@ with my fathers, and thou shalt carry me out of Egypt, and bury me in
 their buryingplace. And he said, I will do as thou hast said. {47:31}
 And he said, Swear unto me. And he sware unto him. And Israel bowed
 himself upon the bed's head.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -3434,8 +3386,7 @@ unto Joseph, Behold, I die: but God shall be with you, and bring you
 again unto the land of your fathers. {48:22} Moreover I have given to
 thee one portion above thy brethren, which I took out of the hand of
 the Amorite with my sword and with my bow.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -3521,8 +3472,7 @@ the field and of the cave that is therein was from the children of
 Heth. {49:33} And when Jacob had made an end of commanding his sons, he
 gathered up his feet into the bed, and yielded up the ghost, and was
 gathered unto his people.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\

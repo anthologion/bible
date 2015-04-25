@@ -1,7 +1,5 @@
-
-The Second Epistle General of Peter
-
- """
+[Book]
+title=The Second Epistle General of Peter
 
 [[Chapter]] #1
 text="""\
@@ -48,8 +46,7 @@ arise in your hearts: {1:20} Knowing this first, that no prophecy of
 the scripture is of any private interpretation. {1:21} For the prophecy
 came not in old time by the will of man: but holy men of God spake as
 they were moved by the Holy Ghost.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -105,8 +102,7 @@ from the holy commandment delivered unto them. {2:22} But it is
 happened unto them according to the true proverb, The dog is turned
 to his own vomit again; and the sow that was washed to her wallowing in
 the mire.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\

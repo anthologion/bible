@@ -1,7 +1,5 @@
-
-The Book of Wisdom or The Wisdom of Solomon
-
- """
+[Book]
+title=The Book of Wisdom or The Wisdom of Solomon
 
 [[Chapter]] #1
 text="""\
@@ -58,8 +56,7 @@ of destruction in them, nor the kingdom of death upon the earth:
 for when they thought to have it their friend, they consumed to nought,
 and made a covenant with it, because they are worthy to take part with
 it.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -143,8 +140,7 @@ image of his own eternity.
 
  {2:24} Nevertheless through envy of the devil came death into the
 world: and they that do hold of his side do find it.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -208,8 +204,7 @@ regarded: and their last age shall be without honour.
 in the day of trial.
 
  {3:19} For horrible is the end of the unrighteous generation.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -282,8 +277,7 @@ memorial shall perish.
  {4:20} And when they cast up the accounts of their sins, they shall
 come with fear: and their own iniquities shall convince them to their
 face.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -370,8 +364,7 @@ shall cruelly drown them.
  {5:23} Yea, a mighty wind shall stand up against them, and like a
 storm shall blow them away: thus iniquity shall lay waste the whole
 earth, and ill dealing shall overthrow the thrones of the mighty.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -450,8 +443,7 @@ and a wise king is the upholding of the people.
 
  {6:25} Receive therefore instruction through my words, and it shall
 do you good.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -552,8 +544,7 @@ order of stars: being compared with the light, she is found before it.
 
  {7:30} For after this cometh night: but vice shall not prevail
 against wisdom.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -627,8 +618,7 @@ I went about seeking how to take her to me.
 obtain her, except God gave her me; and that was a point of wisdom also
 to know whose gift she was; I prayed unto the Lord, and besought him,
 and with my whole heart I said,
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -691,8 +681,7 @@ send thy Holy Spirit from above?
  {9:18} For so the ways of them which lived on the earth were
 reformed, and men were taught the things that are pleasing unto thee,
 and were saved through wisdom.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -770,8 +759,7 @@ fought for them.
 
  {10:21} For wisdom opened the mouth of the dumb, and made the
 tongues of them that cannot speak eloquent.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -862,8 +850,7 @@ will? or been preserved, if not called by thee?
 
  {11:26} But thou sparest all: for they are thine, O Lord, thou lover
 of souls.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -966,8 +953,7 @@ punished, that is, for them whom they thought to be gods; now being
 punished in them, when they saw it, they acknowledged him to be the
 true God, whom before they denied to know: and therefore came extreme
 damnation upon them.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -1038,8 +1024,7 @@ which cannot set a foot forward:
 
  {13:19} And for gaining and getting, and for good success of his
 hands, asketh ability to do of him, that is most unable to do any thing.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -1152,8 +1137,7 @@ unjustly swore in deceit, despising holiness.
  {14:31} For it is not the power of them by whom they swear: but it
 is the just vengeance of sinners, that punisheth always the offence of
 the ungodly.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -1227,8 +1211,7 @@ hateful: for being compared together, some are worse than others.
  {15:19} Neither are they beautiful, so much as to be desired in
 respect of beasts: but they went without the praise of God and his
 blessing.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -1339,8 +1322,7 @@ thee thanks, and at the dayspring pray unto thee.
 
  {16:29} For the hope of the unthankful shall melt away as the
 winter's hoar frost, and shall run away as unprofitable water.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -1419,8 +1401,7 @@ hindered in their labour:
  {17:21} Over them only was spread an heavy night, an image of that
 darkness which should afterward receive them: but yet were they unto
 themselves more grievous than the darkness.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -1518,8 +1499,7 @@ upon the daidem of his head.
 
  {18:25} Unto these the destroyer gave place, and was afraid of them:
 for it was enough that they only tasted of the wrath.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\

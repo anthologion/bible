@@ -1,7 +1,5 @@
-
-The Song of Solomon
-
- """
+[Book]
+title=The Song of Solomon
 
 [[Chapter]] #1
 text="""\
@@ -35,8 +33,7 @@ is unto me as a cluster of camphire in the vineyards of En-gedi.
 hast doves' eyes. {1:16} Behold, thou art fair, my beloved, yea,
 pleasant: also our bed is green. {1:17} The beams of our house are
 cedar, and our rafters of fir.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -72,8 +69,7 @@ our vines have tender grapes.
 lilies. {2:17} Until the day break, and the shadows flee away, turn, my
 beloved, and be thou like a roe or a young hart upon the mountains of
 Bether.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -101,8 +97,7 @@ the midst thereof being paved with love, for the daughters of
 Jerusalem. {3:11} Go forth, O ye daughters of Zion, and behold king
 Solomon with the crown wherewith his mother crowned him in the day of
 his espousals, and in the day of the gladness of his heart.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -139,8 +134,7 @@ fountain of gardens, a well of living waters, and streams from Lebanon.
  {4:16} Awake, O north wind; and come, thou south; blow upon my
 garden, that the spices thereof may flow out. Let my beloved come
 into his garden, and eat his pleasant fruits.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -179,8 +173,7 @@ pillars of marble, set upon sockets of fine gold: his countenance is
 as Lebanon, excellent as the cedars. {5:16} His mouth is most sweet:
 yea, he is altogether lovely. This is my beloved, and this is my
 friend, O daughters of Jerusalem.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -211,8 +204,7 @@ pomegranates budded. {6:12} Or ever I was aware, my soul made me like
 the chariots of Amminadib. {6:13} Return, return, O Shulamite; return,
 return, that we may look upon thee. What will ye see in the Shulamite?
 As it were the company of two armies.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -241,8 +233,7 @@ the vine flourish, whether the tender grape appear, and the
 pomegranates bud forth: there will I give thee my loves. {7:13} The
 mandrakes give a smell, and at our gates are all manner of pleasant
 fruits, new and old, which I have laid up for thee, O my beloved.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\

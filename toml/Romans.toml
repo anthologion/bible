@@ -1,7 +1,5 @@
-
-The Epistle of Paul the Apostle to the Romans
-
- """
+[Book]
+title=The Epistle of Paul the Apostle to the Romans
 
 [[Chapter]] #1
 text="""\
@@ -71,8 +69,7 @@ parents, {1:31} Without understanding, covenantbreakers, without
 natural affection, implacable, unmerciful: {1:32} Who knowing the
 judgment of God, that they which commit such things are worthy of
 death, not only do the same, but have pleasure in them that do them.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -130,8 +127,7 @@ circumcision, which is outward in the flesh: {2:29} But he is a Jew,
 which is one inwardly; and circumcision is that of the heart, in the
 spirit, and not in the letter; whose praise is not of men, but of
 God.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -187,8 +183,7 @@ is he not also of the Gentiles? Yes, of the Gentiles also: {3:30}
 Seeing it is one God, which shall justify the circumcision by faith,
 and uncircumcision through faith. {3:31} Do we then make void the law
 through faith? God forbid: yea, we establish the law.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -238,8 +233,7 @@ his sake alone, that it was imputed to him; {4:24} But for us also, to
 whom it shall be imputed, if we believe on him that raised up Jesus our
 Lord from the dead; {4:25} Who was delivered for our offences, and was
 raised again for our justification.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -284,8 +278,7 @@ righteous. {5:20} Moreover the law entered, that the offence might
 abound. But where sin abounded, grace did much more abound: {5:21} That
 as sin hath reigned unto death, even so might grace reign through
 righteousness unto eternal life by Jesus Christ our Lord.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -329,8 +322,7 @@ end of those things is death. {6:22} But now being made free from
 sin, and become servants to God, ye have your fruit unto holiness, and
 the end everlasting life. {6:23} For the wages of sin is death; but
 the gift of God is eternal life through Jesus Christ our Lord.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -381,8 +373,7 @@ my members. {7:24} O wretched man that I am! who shall deliver me from
 the body of this death? {7:25} I thank God through Jesus Christ our
 Lord. So then with the mind I myself serve the law of God; but with the
 flesh the law of sin.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -462,8 +453,7 @@ angels, nor principalities, nor powers, nor things present, nor things
 to come, {8:39} Nor height, nor depth, nor any other creature, shall be
 able to separate us from the love of God, which is in Christ Jesus our
 Lord.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -529,8 +519,7 @@ faith, but as it were by the works of the law. For they stumbled at
 that stumblingstone; {9:33} As it is written, Behold, I lay in Sion a
 stumblingstone and rock of offence: and whosoever believeth on him
 shall not be ashamed.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -572,8 +561,7 @@ will anger you. {10:20} But Esaias is very bold, and saith, I was found
 of them that sought me not; I was made manifest unto them that asked
 not after me. {10:21} But to Israel he saith, All day long I have
 stretched forth my hands unto a disobedient and gainsaying people.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -649,8 +637,7 @@ out! {11:34} For who hath known the mind of the Lord? or who hath been
 his counsellor? {11:35} Or who hath first given to him, and it shall be
 recompensed unto him again? {11:36} For of him, and through him, and to
 him, are all things: to whom be glory for ever. Amen.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -691,8 +678,7 @@ written, Vengeance is mine; I will repay, saith the Lord. {12:20}
 Therefore if thine enemy hunger, feed him; if he thirst, give him
 drink: for in so doing thou shalt heap coals of fire on his head.
 {12:21} Be not overcome of evil, but overcome evil with good.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -726,8 +712,7 @@ honestly, as in the day; not in rioting and drunkenness, not in
 chambering and wantonness, not in strife and envying. {13:14} But put
 ye on the Lord Jesus Christ, and make not provision for the flesh, to
 fulfil the lusts thereof.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -774,8 +759,7 @@ faith? have it to thyself before God. Happy is he that condemneth
 not himself in that thing which he alloweth. {14:23} And he that
 doubteth is damned if he eat, because he eateth not of faith: for
 whatsoever is not of faith is sin.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -843,8 +827,7 @@ them that do not believe in Judaea; and that my service which I have
 for Jerusalem may be accepted of the saints; {15:32} That I may come
 unto you with joy by the will of God, and may with you be refreshed.
 {15:33} Now the God of peace be with you all. Amen.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\

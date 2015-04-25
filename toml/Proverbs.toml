@@ -1,7 +1,5 @@
-
-The Proverbs
-
- """
+[Book]
+title=The Proverbs
 
 [[Chapter]] #1
 text="""\
@@ -55,8 +53,7 @@ own way, and be filled with their own devices. {1:32} For the turning
 away of the simple shall slay them, and the prosperity of fools shall
 destroy them. {1:33} But whoso hearkeneth unto me shall dwell safely,
 and shall be quiet from fear of evil.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -89,8 +86,7 @@ unto her return again, neither take they hold of the paths of life.
 paths of the righteous. {2:21} For the upright shall dwell in the land,
 and the perfect shall remain in it. {2:22} But the wicked shall be cut
 off from the earth, and the transgressors shall be rooted out of it.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -154,8 +150,7 @@ is with the righteous.
 blesseth the habitation of the just. {3:34} Surely he scorneth the
 scorners: but he giveth grace unto the lowly. {3:35} The wise shall
 inherit glory: but shame shall be the promotion of fools.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -198,8 +193,7 @@ lips put far from thee. {4:25} Let thine eyes look right on, and let
 thine eyelids look straight before thee. {4:26} Ponder the path of thy
 feet, and let all thy ways be established. {4:27} Turn not to the right
 hand nor to the left: remove thy foot from evil.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -237,8 +231,7 @@ and he pondereth all his goings.
  {5:22} His own iniquities shall take the wicked himself, and he
 shall be holden with the cords of his sins. {5:23} He shall die without
 instruction; and in the greatness of his folly he shall go astray.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -294,8 +287,7 @@ and his reproach shall not be wiped away. {6:34} For jealousy is the
 rage of a man: therefore he will not spare in the day of vengeance.
 {6:35} He will not regard any ransom; neither will he rest content,
 though thou givest many gifts.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -335,8 +327,7 @@ the words of my mouth. {7:25} Let not thine heart decline to her ways,
 go not astray in her paths. {7:26} For she hath cast down many wounded:
 yea, many strong men have been slain by her. {7:27} Her house is
 the way to hell, going down to the chambers of death.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -387,8 +378,7 @@ Blessed is the man that heareth me, watching daily at my gates,
 waiting at the posts of my doors. {8:35} For whoso findeth me findeth
 life, and shall obtain favour of the LORD. {8:36} But he that sinneth
 against me wrongeth his own soul: all they that hate me love death.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -419,8 +409,7 @@ for him that wanteth understanding, she saith to him, {9:17} Stolen
 waters are sweet, and bread eaten in secret is pleasant. {9:18} But
 he knoweth not that the dead are there; and that her guests are
 in the depths of hell.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -470,8 +459,7 @@ wicked shall not inhabit the earth. {10:31} The mouth of the just
 bringeth forth wisdom: but the froward tongue shall be cut out. {10:32}
 The lips of the righteous know what is acceptable: but the mouth of the
 wicked speaketh frowardness.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -523,8 +511,7 @@ the wise of heart. {11:30} The fruit of the righteous is a tree of
 life; and he that winneth souls is wise. {11:31} Behold, the
 righteous shall be recompensed in the earth: much more the wicked and
 the sinner.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -570,8 +557,7 @@ excellent than his neighbour: but the way of the wicked seduceth them.
 but the substance of a diligent man is precious. {12:28} In the way
 of righteousness is life; and in the pathway thereof there is no
 death.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -611,8 +597,7 @@ the tillage of the poor: but there is that is destroyed for want of
 judgment. {13:24} He that spareth his rod hateth his son: but he that
 loveth him chasteneth him betimes. {13:25} The righteous eateth to the
 satisfying of his soul: but the belly of the wicked shall want.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -665,8 +650,7 @@ of him that hath understanding: but that which is in the midst of
 fools is made known. {14:34} Righteousness exalteth a nation: but sin
 is a reproach to any people. {14:35} The king's favour is toward a
 wise servant: but his wrath is against him that causeth shame.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -717,8 +701,7 @@ fat. {15:31} The ear that heareth the reproof of life abideth among the
 wise. {15:32} He that refuseth instruction despiseth his own soul: but
 he that heareth reproof getteth understanding. {15:33} The fear of the
 LORD is the instruction of wisdom; and before honour is humility.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -768,8 +751,7 @@ crown of glory, if it be found in the way of righteousness. {16:32}
 He that is slow to anger is better than the mighty; and he that
 ruleth his spirit than he that taketh a city. {16:33} The lot is cast
 into the lap; but the whole disposing thereof is of the LORD.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -815,8 +797,7 @@ hath knowledge spareth his words: and a man of understanding is of an
 excellent spirit. {17:28} Even a fool, when he holdeth his peace, is
 counted wise: and he that shutteth his lips is esteemed a man of
 understanding.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -854,8 +835,7 @@ thing, and obtaineth favour of the LORD. {18:23} The poor useth
 intreaties; but the rich answereth roughly. {18:24} A man that hath
 friends must shew himself friendly: and there is a friend that
 sticketh closer than a brother.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -903,8 +883,7 @@ son, to hear the instruction that causeth to err from the words of
 knowledge. {19:28} An ungodly witness scorneth judgment: and the mouth
 of the wicked devoureth iniquity. {19:29} Judgments are prepared for
 scorners, and stripes for the back of fools.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -950,8 +929,7 @@ preserve the king: and his throne is upholden by mercy. {20:29} The
 glory of young men is their strength: and the beauty of old men is
 the grey head. {20:30} The blueness of a wound cleanseth away evil: so
 do stripes the inward parts of the belly.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -999,8 +977,7 @@ but as for the upright, he directeth his way. {21:30} There is no
 wisdom nor understanding nor counsel against the LORD. {21:31} The
 horse is prepared against the day of battle: but safety is of the
 LORD.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -1045,8 +1022,7 @@ to pay, why should he take away thy bed from under thee? {22:28} Remove
 not the ancient landmark, which thy fathers have set. {22:29} Seest
 thou a man diligent in his business? he shall stand before kings; he
 shall not stand before mean men.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -1098,8 +1074,7 @@ of the sea, or as he that lieth upon the top of a mast. {23:35} They
 have stricken me, shalt thou say, and I was not sick; they have
 beaten me, and I felt it not: when shall I awake? I will seek it
 yet again.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -1153,8 +1128,7 @@ looked upon it, and received instruction. {24:33} Yet a little
 sleep, a little slumber, a little folding of the hands to sleep:
 {24:34} So shall thy poverty come as one that travelleth; and thy want
 as an armed man.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -1201,8 +1175,7 @@ fountain, and a corrupt spring. {25:27} [It is ]not good to eat much
 honey: so [for men ]to search their own glory [is not ]glory. {25:28}
 He that hath no rule over his own spirit is like a city that is
 broken down, and without walls.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -1244,8 +1217,7 @@ his wickedness shall be shewed before the whole congregation. {26:27}
 Whoso diggeth a pit shall fall therein: and he that rolleth a stone, it
 will return upon him. {26:28} A lying tongue hateth those that are
 afflicted by it; and a flattering mouth worketh ruin.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -1289,8 +1261,7 @@ tender grass sheweth itself, and herbs of the mountains are gathered.
 of the field. {27:27} And thou shalt have goats' milk enough for thy
 food, for the food of thy household, and for the maintenance for thy
 maidens.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -1340,8 +1311,7 @@ wisely, he shall be delivered. {28:27} He that giveth unto the poor
 shall not lack: but he that hideth his eyes shall have many a curse.
 {28:28} When the wicked rise, men hide themselves: but when they
 perish, the righteous increase.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -1383,8 +1353,7 @@ his trust in the LORD shall be safe. {29:26} Many seek the ruler's
 favour; but every man's judgment cometh from the LORD. {29:27} An
 unjust man is an abomination to the just: and he that is upright in
 the way is abomination to the wicked.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -1441,8 +1410,7 @@ thyself, or if thou hast thought evil, lay thine hand upon thy mouth.
 {30:33} Surely the churning of milk bringeth forth butter, and the
 wringing of the nose bringeth forth blood: so the forcing of wrath
 bringeth forth strife.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\

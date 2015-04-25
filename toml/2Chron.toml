@@ -1,7 +1,5 @@
-
-The Second Book of the Chronicles
-
- """
+[Book]
+title=The Second Book of the Chronicles
 
 [[Chapter]] #1
 text="""\
@@ -52,8 +50,7 @@ up, and brought forth out of Egypt a chariot for six hundred shekels
 of silver, and an horse for an hundred and fifty: and so brought they
 out horses for all the kings of the Hittites, and for the kings of
 Syria, by their means.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -114,8 +111,7 @@ three thousand and six hundred. {2:18} And he set threescore and ten
 thousand of them to be bearers of burdens, and fourscore thousand to
 be hewers in the mountain, and three thousand and six hundred
 overseers to set the people a work.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -162,8 +158,7 @@ pillars; and made an hundred pomegranates, and put them on the
 chains. {3:17} And he reared up the pillars before the temple, one on
 the right hand, and the other on the left; and called the name of that
 on the right hand Jachin, and the name of that on the left Boaz.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -222,8 +217,7 @@ that perfect gold; {4:22} And the snuffers, and the basons, and the
 spoons, and the censers, of pure gold: and the entry of the house,
 the inner doors thereof for the most holy place, and the doors of the
 house of the temple, were of gold.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -270,8 +264,7 @@ good; for his mercy endureth for ever: that then the house was
 filled with a cloud, even the house of the LORD; {5:14} So that the
 priests could not stand to minister by reason of the cloud: for the
 glory of the LORD had filled the house of God.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -396,8 +389,7 @@ God, into thy resting place, thou, and the ark of thy strength: let thy
 priests, O LORD God, be clothed with salvation, and let thy saints
 rejoice in goodness. {6:42} O LORD God, turn not away the face of thine
 anointed: remember the mercies of David thy servant.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -466,8 +458,7 @@ Because they forsook the LORD God of their fathers, which brought them
 forth out of the land of Egypt, and laid hold on other gods, and
 worshipped them, and served them: therefore hath he brought all this
 evil upon them.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -522,8 +513,7 @@ side in the land of Edom. {8:18} And Huram sent him by the hands of his
 servants ships, and servants that had knowledge of the sea; and they
 went with the servants of Solomon to Ophir, and took thence four
 hundred and fifty talents of gold, and brought them to king Solomon.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -610,8 +600,7 @@ Jeroboam the son of Nebat? {9:30} And Solomon reigned in Jerusalem over
 all Israel forty years. {9:31} And Solomon slept with his fathers, and
 he was buried in the city of David his father: and Rehoboam his son
 reigned in his stead.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -664,8 +653,7 @@ and the children of Israel stoned him with stones, that he died. But
 king Rehoboam made speed to get him up to his chariot, to flee to
 Jerusalem. {10:19} And Israel rebelled against the house of David unto
 this day.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -716,8 +704,7 @@ his brethren: for he thought to make him king. {11:23} And he dealt
 wisely, and dispersed of all his children throughout all the countries
 of Judah and Benjamin, unto every fenced city: and he gave them victual
 in abundance. And he desired many wives.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -765,8 +752,7 @@ book of Shemaiah the prophet, and of Iddo the seer concerning
 genealogies? And there were wars between Rehoboam and Jeroboam
 continually. {12:16} And Rehoboam slept with his fathers, and was
 buried in the city of David: and Abijah his son reigned in his stead.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -828,8 +814,7 @@ died.
 begat twenty and two sons, and sixteen daughters. {13:22} And the rest
 of the acts of Abijah, and his ways, and his sayings, are written in
 the story of the prophet Iddo.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -872,8 +857,7 @@ Gerar; for the fear of the LORD came upon them: and they spoiled all
 the cities; for there was exceeding much spoil in them. {14:15} They
 smote also the tents of cattle, and carried away sheep and camels in
 abundance, and returned to Jerusalem.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -921,8 +905,7 @@ of Israel: nevertheless the heart of Asa was perfect all his days.
 father had dedicated, and that he himself had dedicated, silver, and
 gold, and vessels. {15:19} And there was no more war unto the five
 and thirtieth year of the reign of Asa.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -968,8 +951,7 @@ sepulchres, which he had made for himself in the city of David, and
 laid him in the bed which was filled with sweet odours and divers kinds
 of spices prepared by the apothecaries' art: and they made a very
 great burning for him.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -1018,8 +1000,7 @@ shield two hundred thousand. {17:18} And next him was Jehozabad, and
 with him an hundred and fourscore thousand ready prepared for the war.
 {17:19} These waited on the king, beside those whom the king put in
 the fenced cities throughout all Judah.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -1108,8 +1089,7 @@ thou mayest carry me out of the host; for I am wounded. {18:34} And the
 battle increased that day: howbeit the king of Israel stayed himself
 up in his chariot against the Syrians until the even: and about the
 time of the sun going down he died.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -1144,8 +1124,7 @@ chief priest is over you in all matters of the LORD; and Zebadiah the
 son of Ishmael, the ruler of the house of Judah, for all the king's
 matters: also the Levites shall be officers before you. Deal
 courageously, and the LORD shall be with the good.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -1255,8 +1234,7 @@ the ships in Ezion-gaber. {20:37} Then Eliezer the son of Dodavah of
 Mareshah prophesied against Jehoshaphat, saying, Because thou hast
 joined thyself with Ahaziah, the LORD hath broken thy works. And the
 ships were broken, that they were not able to go to Tarshish.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -1318,8 +1296,7 @@ for him, like the burning of his fathers. {21:20} Thirty and two years
 old was he when he began to reign, and he reigned in Jerusalem eight
 years, and departed without being desired. Howbeit they buried him in
 the city of David, but not in the sepulchres of the kings.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -1361,8 +1338,7 @@ daughter of king Jehoram, the wife of Jehoiada the priest, (for she was
 the sister of Ahaziah,) hid him from Athaliah, so that she slew him
 not. {22:12} And he was with them hid in the house of God six years:
 and Athaliah reigned over the land.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -1431,8 +1407,7 @@ down the king from the house of the LORD: and they came through the
 high gate into the king's house, and set the king upon the throne of
 the kingdom. {23:21} And all the people of the land rejoiced: and the
 city was quiet, after that they had slain Athaliah with the sword.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -1516,8 +1491,7 @@ son of Shimrith a Moabitess.
 laid upon him, and the repairing of the house of God, behold, they
 are written in the story of the book of the kings. And Amaziah his
 son reigned in his stead.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -1611,8 +1585,7 @@ the LORD they made a conspiracy against him in Jerusalem; and he fled
 to Lachish: but they sent to Lachish after him, and slew him there.
 {25:28} And they brought him upon horses, and buried him with his
 fathers in the city of Judah.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -1679,8 +1652,7 @@ Isaiah the prophet, the son of Amoz, write. {26:23} So Uzziah slept
 with his fathers, and they buried him with his fathers in the field of
 the burial which belonged to the kings; for they said, He is a
 leper: and Jotham his son reigned in his stead.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -1708,8 +1680,7 @@ and reigned sixteen years in Jerusalem.
 
  {27:9} And Jotham slept with his fathers, and they buried him in the
 city of David: and Ahaz his son reigned in his stead.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -1792,8 +1763,7 @@ Israel. {28:27} And Ahaz slept with his fathers, and they buried him in
 the city, even in Jerusalem: but they brought him not into the
 sepulchres of the kings of Israel: and Hezekiah his son reigned in his
 stead.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -1898,8 +1868,7 @@ offerings for every burnt offering. So the service of the house of
 the LORD was set in order. {29:36} And Hezekiah rejoiced, and all the
 people, that God had prepared the people: for the thing was done
 suddenly.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -1980,8 +1949,7 @@ of David king of Israel there was not the like in Jerusalem.
  {30:27} Then the priests the Levites arose and blessed the people:
 and their voice was heard, and their prayer came up to his holy
 dwelling place, even unto heaven.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -2054,8 +2022,7 @@ that which was good and right and truth before the LORD his God.
 {31:21} And in every work that he began in the service of the house of
 God, and in the law, and in the commandments, to seek his God, he did
 it with all his heart, and prospered.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -2157,8 +2124,7 @@ And Hezekiah slept with his fathers, and they buried him in the
 chiefest of the sepulchres of the sons of David: and all Judah and the
 inhabitants of Jerusalem did him honour at his death. And Manasseh his
 son reigned in his stead.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -2233,8 +2199,7 @@ in his own house.
  {33:25} But the people of the land slew all them that had conspired
 against king Amon; and the people of the land made Josiah his son king
 in his stead.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -2344,8 +2309,7 @@ of all the countries that pertained to the children of Israel, and
 made all that were present in Israel to serve, even to serve the LORD
 their God. And all his days they departed not from following the
 LORD, the God of their fathers.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -2429,8 +2393,7 @@ written in the lamentations. {35:26} Now the rest of the acts of
 Josiah, and his goodness, according to that which was written in the
 law of the LORD, {35:27} And his deeds, first and last, behold, they
 are written in the book of the kings of Israel and Judah.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\

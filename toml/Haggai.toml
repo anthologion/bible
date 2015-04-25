@@ -1,7 +1,5 @@
-
-Haggai
-
- """
+[Book]
+title=Haggai
 
 [[Chapter]] #1
 text="""\
@@ -43,8 +41,7 @@ Josedech, the high priest, and the spirit of all the remnant of the
 people; and they came and did work in the house of the LORD of hosts,
 their God, {1:15} In the four and twentieth day of the sixth month, in
 the second year of Darius the king.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\

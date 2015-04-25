@@ -3,10 +3,8 @@ The Book of Psalms
 
  Book I
 
-
-Psalm 1
-
-"""
+[Book]
+title=Psalm 1
 
 [[Chapter]] #1
 text="""\
@@ -26,10 +24,8 @@ text="""\
  ungodly shall perish.
 
 
-
-Psalm 2
-
-"""
+[Book]
+title=Psalm 2
 
 [[Chapter]] #2
 text="""\
@@ -65,8 +61,7 @@ Psalm 3
 A Psalm of David, when he fled from Absalom his son.
 
 
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -93,8 +88,7 @@ Psalm 4
 To the chief Musician on Neginoth, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -122,8 +116,7 @@ Psalm 5
 To the chief Musician upon Nehiloth, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -161,8 +154,7 @@ Psalm 6
 To the chief Musician on Neginoth upon Sheminith, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -192,8 +184,7 @@ Shiggaion of David, which he sang unto the LORD, concerning the words
 of Cush the Benjamite.
 
 
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -239,8 +230,7 @@ Psalm 8
 To the chief Musician upon Gittith, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -268,8 +258,7 @@ Psalm 9
 To the chief Musician upon Muthlabben, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -315,10 +304,8 @@ text="""\
 {9:20} Put them in fear, O LORD: that the nations may know themselves
  to be but men. Selah.
 
-
-Psalm 10
-
-"""
+[Book]
+title=Psalm 10
 
 [[Chapter]] #0
 text="""\
@@ -367,8 +354,7 @@ Psalm 11
 To the chief Musician, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -393,8 +379,7 @@ Psalm 12
 To the chief Musician upon Sheminith, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -421,8 +406,7 @@ Psalm 13
 To the chief Musician, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -445,8 +429,7 @@ Psalm 14
 To the chief Musician, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -473,8 +456,7 @@ Psalm 15
 A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -497,8 +479,7 @@ Psalm 16
 Michtam of David.
 
 
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -532,8 +513,7 @@ Psalm 17
 A Prayer of David.
 
 
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -580,8 +560,7 @@ delivered him from the hand of all his enemies, and from the hand of
 Saul: And he said,
 
 
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -694,8 +673,7 @@ Psalm 19
 To the chief Musician, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -737,8 +715,7 @@ Psalm 20
 To the chief Musician, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -766,8 +743,7 @@ Psalm 21
 To the chief Musician, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -806,8 +782,7 @@ Psalm 22
 To the chief Musician upon Aijeleth Shahar, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -881,8 +856,7 @@ Psalm 23
 A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -905,8 +879,7 @@ Psalm 24
 A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -937,8 +910,7 @@ Psalm 25
 A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -989,8 +961,7 @@ Psalm 26
 A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -1023,8 +994,7 @@ Psalm 27
 A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -1070,8 +1040,7 @@ Psalm 28
 A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -1104,8 +1073,7 @@ Psalm 29
 A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -1138,8 +1106,7 @@ Psalm 30
 A Psalm and Song at the dedication of the house of David.
 
 
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -1170,8 +1137,7 @@ Psalm 31
 To the chief Musician, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -1235,8 +1201,7 @@ Psalm 32
 A Psalm of David, Maschil.
 
 
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -1266,10 +1231,8 @@ text="""\
 {32:11} Be glad in the LORD, and rejoice, ye righteous: and shout for
  joy, all ye that are upright in heart.
 
-
-Psalm 33
-
-"""
+[Book]
+title=Psalm 33
 
 [[Chapter]] #3
 text="""\
@@ -1320,8 +1283,7 @@ A Psalm of David, when he changed his behaviour before Abimelech; who
 drove him away, and he departed.
 
 
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -1372,8 +1334,7 @@ Psalm 35
 A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -1446,8 +1407,7 @@ Psalm 36
 To the chief Musician, A Psalm of David, the servant of the LORD.
 
 
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -1483,8 +1443,7 @@ Psalm 37
 A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -1577,8 +1536,7 @@ Psalm 38
 A Psalm of David, to bring to remembrance.
 
 
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -1629,8 +1587,7 @@ Psalm 39
 To the chief Musician, even to Jeduthun, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -1670,8 +1627,7 @@ Psalm 40
 To the chief Musician, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -1723,8 +1679,7 @@ Psalm 41
 To the chief Musician, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -1764,8 +1719,7 @@ Psalm 42
 To the chief Musician, Maschil, for the sons of Korah.
 
 
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -1798,10 +1752,8 @@ text="""\
  within me? hope thou in God: for I shall yet praise him, who is
  the health of my countenance, and my God.
 
-
-Psalm 43
-
-"""
+[Book]
+title=Psalm 43
 
 [[Chapter]] #3
 text="""\
@@ -1823,8 +1775,7 @@ Psalm 44
 To the chief Musician for the sons of Korah, Maschil.
 
 
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -1888,8 +1839,7 @@ To the chief Musician upon Shoshannim, for the sons of Korah, Maschil,
 A Song of loves.
 
 
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -1938,8 +1888,7 @@ Psalm 46
 To the chief Musician for the sons of Korah, A Song upon Alamoth.
 
 
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -1973,8 +1922,7 @@ Psalm 47
 To the chief Musician, A Psalm for the sons of Korah.
 
 
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -2004,8 +1952,7 @@ Psalm 48
 A Song and Psalm for the sons of Korah.
 
 
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -2042,8 +1989,7 @@ Psalm 49
 To the chief Musician, A Psalm for the sons of Korah.
 
 
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -2095,8 +2041,7 @@ Psalm 50
 A Psalm of Asaph.
 
 
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -2154,8 +2099,7 @@ To the chief Musician, A Psalm of David, when Nathan the prophet came
 unto him, after he had gone in to Bathsheba.
 
 
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -2207,8 +2151,7 @@ Edomite came and told Saul, and said unto him, David is come to the
 house of Ahimelech.
 
 
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -2237,8 +2180,7 @@ Psalm 53
 To the chief Musician upon Mahalath, Maschil, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -2265,8 +2207,7 @@ To the chief Musician on Neginoth, Maschil, A Psalm of David, when
 the Ziphims came and said to Saul, Doth not David hide himself with us?
 
 
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -2289,8 +2230,7 @@ Psalm 55
 To the chief Musician on Neginoth, Maschil, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -2351,8 +2291,7 @@ To the chief Musician upon Jonathelemrechokim, Michtam of David, when
 the Philistines took him in Gath.
 
 
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -2389,8 +2328,7 @@ To the chief Musician, Altaschith, Michtam of David, when he fled from
 Saul in the cave.
 
 
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -2427,8 +2365,7 @@ Psalm 58
 To the chief Musician, Altaschith, Michtam of David.
 
 
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -2464,8 +2401,7 @@ To the chief Musician, Altaschith, Michtam of David; when Saul sent,
 and they watched the house to kill him.
 
 
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -2516,8 +2452,7 @@ when he strove with Aram-naharaim and with Aram-zobah, when Joab
 returned, and smote of Edom in the valley of salt twelve thousand.
 
 
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -2551,8 +2486,7 @@ Psalm 61
 To the chief Musician upon Neginah, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -2578,8 +2512,7 @@ Psalm 62
 To the chief Musician, to Jeduthun, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -2617,8 +2550,7 @@ Psalm 63
 A Psalm of David, when he was in the wilderness of Judah.
 
 
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -2651,8 +2583,7 @@ Psalm 64
 To the chief Musician, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -2684,8 +2615,7 @@ Psalm 65
 To the chief Musician, A Psalm and Song of David.
 
 
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -2727,8 +2657,7 @@ Psalm 66
 To the chief Musician, A Song or Psalm.
 
 
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -2778,8 +2707,7 @@ Psalm 67
 To the chief Musician on Neginoth, A Psalm or Song.
 
 
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -2803,8 +2731,7 @@ Psalm 68
 To the chief Musician, A Psalm or Song of David.
 
 
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -2895,8 +2822,7 @@ Psalm 69
 To chief Musician upon Shoshannim, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -2982,8 +2908,7 @@ Psalm 70
 To the chief Musician, A Psalm of David, to bring to remembrance.
 
 
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -3000,10 +2925,8 @@ text="""\
 {70:5} But I am poor and needy: make haste unto me, O God: thou art
  my help and my deliverer; O LORD, make no tarrying.
 
-
-Psalm 71
-
-"""
+[Book]
+title=Psalm 71
 
 [[Chapter]] #1
 text="""\
@@ -3066,8 +2989,7 @@ Psalm 72
 A Psalm for Solomon.
 
 
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -3121,8 +3043,7 @@ Psalm 73
 A Psalm of Asaph.
 
 
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -3187,8 +3108,7 @@ Psalm 74
 Maschil of Asaph.
 
 
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -3246,8 +3166,7 @@ Psalm 75
 To the chief Musician, Altaschith, A Psalm or Song of Asaph.
 
 
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -3278,8 +3197,7 @@ Psalm 76
 To the chief Musician on Neginoth, A Psalm or Song of Asaph.
 
 
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -3312,8 +3230,7 @@ Psalm 77
 To the chief Musician, to Jeduthun, A Psalm of Asaph.
 
 
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -3362,8 +3279,7 @@ Psalm 78
 Maschil of Asaph.
 
 
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -3521,8 +3437,7 @@ Psalm 79
 A Psalm of Asaph.
 
 
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -3561,8 +3476,7 @@ Psalm 80
 To the chief Musician upon Shoshannim-Eduth, A Psalm of Asaph.
 
 
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -3611,8 +3525,7 @@ Psalm 81
 To the chief Musician upon Gittith, a Psalm of Asaph.
 
 
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -3657,8 +3570,7 @@ Psalm 82
 A Psalm of Asaph.
 
 
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -3684,8 +3596,7 @@ Psalm 83
 A Song or Psalm of Asaph.
 
 
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -3731,8 +3642,7 @@ Psalm 84
 To the chief Musician upon Gittith, A Psalm for the sons of Korah.
 
 
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -3768,8 +3678,7 @@ Psalm 85
 To the chief Musician, A Psalm for the sons of Korah.
 
 
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -3806,8 +3715,7 @@ Psalm 86
 A Prayer of David.
 
 
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -3853,8 +3761,7 @@ Psalm 87
 A Psalm or Song for the sons of Korah.
 
 
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -3879,8 +3786,7 @@ A Song or Psalm for the sons of Korah, to the chief Musician upon
 Mahalath Leannoth, Maschil of Heman the Ezrahite.
 
 
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -3925,8 +3831,7 @@ Psalm 89
 Maschil of Ethan the Ezrahite.
 
 
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -4039,8 +3944,7 @@ Psalm 90
 A Prayer of Moses the man of God.
 
 
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -4082,10 +3986,8 @@ text="""\
  establish thou the work of our hands upon us; yea, the work of
  our hands establish thou it.
 
-
-Psalm 91
-
-"""
+[Book]
+title=Psalm 91
 
 [[Chapter]] #1
 text="""\
@@ -4127,8 +4029,7 @@ Psalm 92
 A Psalm or Song for the sabbath day.
 
 
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -4162,10 +4063,8 @@ text="""\
 {92:15} To shew that the LORD is upright: he is my rock, and there
  is no unrighteousness in him.
 
-
-Psalm 93
-
-"""
+[Book]
+title=Psalm 93
 
 [[Chapter]] #3
 text="""\
@@ -4181,10 +4080,8 @@ text="""\
 {93:5} Thy testimonies are very sure: holiness becometh thine house, O
  LORD, for ever.
 
-
-Psalm 94
-
-"""
+[Book]
+title=Psalm 94
 
 [[Chapter]] #4
 text="""\
@@ -4233,10 +4130,8 @@ text="""\
  them off in their own wickedness; yea, the LORD our God shall
  cut them off.
 
-
-Psalm 95
-
-"""
+[Book]
+title=Psalm 95
 
 [[Chapter]] #5
 text="""\
@@ -4262,10 +4157,8 @@ text="""\
 {95:11} Unto whom I sware in my wrath that they should not enter into
  my rest.
 
-
-Psalm 96
-
-"""
+[Book]
+title=Psalm 96
 
 [[Chapter]] #6
 text="""\
@@ -4298,10 +4191,8 @@ text="""\
  earth: he shall judge the world with righteousness, and the
  people with his truth.
 
-
-Psalm 97
-
-"""
+[Book]
+title=Psalm 97
 
 [[Chapter]] #7
 text="""\
@@ -4335,8 +4226,7 @@ Psalm 98
 A Psalm.
 
 
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -4362,10 +4252,8 @@ text="""\
  righteousness shall he judge the world, and the people with
  equity.
 
-
-Psalm 99
-
-"""
+[Book]
+title=Psalm 99
 
 [[Chapter]] #9
 text="""\
@@ -4394,8 +4282,7 @@ Psalm 100
 A Psalm of praise.
 
 
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -4416,8 +4303,7 @@ Psalm 101
 A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -4446,8 +4332,7 @@ A Prayer of the afflicted, when he is overwhelmed, and poureth out his
 complaint before the LORD.
 
 
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -4512,8 +4397,7 @@ Psalm 103
 A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -4561,10 +4445,8 @@ text="""\
 {103:22} Bless the LORD, all his works in all places of his dominion:
  bless the LORD, O my soul.
 
-
-Psalm 104
-
-"""
+[Book]
+title=Psalm 104
 
 [[Chapter]] #4
 text="""\
@@ -4640,10 +4522,8 @@ text="""\
  wicked be no more. Bless thou the LORD, O my soul. Praise ye the
  LORD.
 
-
-Psalm 105
-
-"""
+[Book]
+title=Psalm 105
 
 [[Chapter]] #5
 text="""\
@@ -4728,10 +4608,8 @@ text="""\
 {105:45} That they might observe his statutes, and keep his laws.
  Praise ye the LORD.
 
-
-Psalm 106
-
-"""
+[Book]
+title=Psalm 106
 
 [[Chapter]] #6
 text="""\
@@ -4832,10 +4710,8 @@ text="""\
  everlasting: and let all the people say, Amen. Praise ye the LORD.
 
 Book V
-
-Psalm 107
-
-"""
+[Book]
+title=Psalm 107
 
 [[Chapter]] #7
 text="""\
@@ -4930,8 +4806,7 @@ Psalm 108
 A Song or Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -4966,8 +4841,7 @@ Psalm 109
 To the chief Musician, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -5037,8 +4911,7 @@ Psalm 110
 A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -5059,10 +4932,8 @@ text="""\
 {110:7} He shall drink of the brook in the way: therefore shall he lift
  up the head.
 
-
-Psalm 111
-
-"""
+[Book]
+title=Psalm 111
 
 [[Chapter]] #1
 text="""\
@@ -5088,10 +4959,8 @@ text="""\
  understanding have all they that do his commandments: his
  praise endureth for ever.
 
-
-Psalm 112
-
-"""
+[Book]
+title=Psalm 112
 
 [[Chapter]] #2
 text="""\
@@ -5116,10 +4985,8 @@ text="""\
 {112:10} The wicked shall see it, and be grieved; he shall gnash with
  his teeth, and melt away: the desire of the wicked shall perish.
 
-
-Psalm 113
-
-"""
+[Book]
+title=Psalm 113
 
 [[Chapter]] #3
 text="""\
@@ -5141,10 +5008,8 @@ text="""\
 {113:9} He maketh the barren woman to keep house, and to be a joyful
  mother of children. Praise ye the LORD.
 
-
-Psalm 114
-
-"""
+[Book]
+title=Psalm 114
 
 [[Chapter]] #4
 text="""\
@@ -5163,10 +5028,8 @@ text="""\
 {114:8} Which turned the rock into a standing water, the flint into a
  fountain of waters.
 
-
-Psalm 115
-
-"""
+[Book]
+title=Psalm 115
 
 [[Chapter]] #5
 text="""\
@@ -5203,10 +5066,8 @@ text="""\
 {115:18} But we will bless the LORD from this time forth and for
  evermore. Praise the LORD.
 
-
-Psalm 116
-
-"""
+[Book]
+title=Psalm 116
 
 [[Chapter]] #6
 text="""\
@@ -5245,10 +5106,8 @@ text="""\
 {116:19} In the courts of the LORD'S house, in the midst of thee, O
  Jerusalem. Praise ye the LORD.
 
-
-Psalm 117
-
-"""
+[Book]
+title=Psalm 117
 
 [[Chapter]] #7
 text="""\
@@ -5256,10 +5115,8 @@ text="""\
 {117:2} For his merciful kindness is great toward us: and the truth of
  the LORD endureth for ever. Praise ye the LORD.
 
-
-Psalm 118
-
-"""
+[Book]
+title=Psalm 118
 
 [[Chapter]] #8
 text="""\
@@ -5323,8 +5180,7 @@ Psalm 119
 ALEPH.
 
 
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -5715,8 +5571,7 @@ Psalm 120
 A Song of degrees.
 
 
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -5737,8 +5592,7 @@ Psalm 121
 A Song of degrees.
 
 
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -5762,8 +5616,7 @@ Psalm 122
 A Song of degrees of David.
 
 
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -5788,8 +5641,7 @@ Psalm 123
 A Song of degrees.
 
 
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -5810,8 +5662,7 @@ Psalm 124
 A Song of degrees of David.
 
 
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -5837,8 +5688,7 @@ Psalm 125
 A Song of degrees.
 
 
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -5860,8 +5710,7 @@ Psalm 126
 A Song of degrees.
 
 
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -5883,8 +5732,7 @@ Psalm 127
 A Song of degrees for Solomon.
 
 
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -5907,8 +5755,7 @@ Psalm 128
 A Song of degrees.
 
 
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -5931,8 +5778,7 @@ Psalm 129
 A Song of degrees.
 
 
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -5957,8 +5803,7 @@ Psalm 130
 A Song of degrees.
 
 
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -5983,8 +5828,7 @@ Psalm 131
 A Song of degrees of David.
 
 
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -6001,8 +5845,7 @@ Psalm 132
 A Song of degrees.
 
 
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -6048,8 +5891,7 @@ Psalm 133
 A Song of degrees of David.
 
 
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -6068,8 +5910,7 @@ Psalm 134
 A Song of degrees.
 
 
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -6078,10 +5919,8 @@ text="""\
 {134:2} Lift up your hands in the sanctuary, and bless the LORD.
 {134:3} The LORD that made heaven and earth bless thee out of Zion.
 
-
-Psalm 135
-
-"""
+[Book]
+title=Psalm 135
 
 [[Chapter]] #5
 text="""\
@@ -6127,10 +5966,8 @@ text="""\
 {135:21} Blessed be the LORD out of Zion, which dwelleth at Jerusalem.
  Praise ye the LORD.
 
-
-Psalm 136
-
-"""
+[Book]
+title=Psalm 136
 
 [[Chapter]] #6
 text="""\
@@ -6183,10 +6020,8 @@ text="""\
 {136:26} O give thanks unto the God of heaven: for his mercy endureth
  for ever.
 
-
-Psalm 137
-
-"""
+[Book]
+title=Psalm 137
 
 [[Chapter]] #7
 text="""\
@@ -6214,8 +6049,7 @@ Psalm 138
 A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -6245,8 +6079,7 @@ Psalm 139
 To the chief Musician, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -6304,8 +6137,7 @@ Psalm 140
 To the chief Musician, A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -6342,8 +6174,7 @@ Psalm 141
 A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -6376,8 +6207,7 @@ Psalm 142
 Maschil of David; A Prayer when he was in the cave.
 
 
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -6404,8 +6234,7 @@ Psalm 143
 A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -6442,8 +6271,7 @@ Psalm 144
 A Psalm of David.
 
 
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -6489,8 +6317,7 @@ Psalm 145
 David's Psalm of praise.
 
 
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -6537,10 +6364,8 @@ text="""\
 {145:21} My mouth shall speak the praise of the LORD: and let all flesh
  bless his holy name for ever and ever.
 
-
-Psalm 146
-
-"""
+[Book]
+title=Psalm 146
 
 [[Chapter]] #6
 text="""\
@@ -6564,10 +6389,8 @@ text="""\
 {146:10} The LORD shall reign for ever, even thy God, O Zion, unto
  all generations. Praise ye the LORD.
 
-
-Psalm 147
-
-"""
+[Book]
+title=Psalm 147
 
 [[Chapter]] #7
 text="""\
@@ -6610,10 +6433,8 @@ text="""\
 {147:20} He hath not dealt so with any nation: and as for his
  judgments, they have not known them. Praise ye the LORD.
 
-
-Psalm 148
-
-"""
+[Book]
+title=Psalm 148
 
 [[Chapter]] #8
 text="""\
@@ -6641,10 +6462,8 @@ text="""\
  saints; even of the children of Israel, a people near unto him.
  Praise ye the LORD.
 
-
-Psalm 149
-
-"""
+[Book]
+title=Psalm 149
 
 [[Chapter]] #9
 text="""\
@@ -6667,10 +6486,8 @@ text="""\
 {149:9} To execute upon them the judgment written: this honour have all
  his saints. Praise ye the LORD.
 
-
-Psalm 150
-
-"""
+[Book]
+title=Psalm 150
 
 [[Chapter]] #0
 text="""\

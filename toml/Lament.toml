@@ -1,7 +1,5 @@
-
-The Lamentations of Jeremiah
-
- """
+[Book]
+title=The Lamentations of Jeremiah
 
 [[Chapter]] #1
 text="""\
@@ -71,8 +69,7 @@ done it: thou wilt bring the day that thou hast called, and they
 shall be like unto me. {1:22} Let all their wickedness come before
 thee; and do unto them, as thou hast done unto me for all my
 transgressions: for my sighs are many, and my heart is faint.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -146,8 +143,7 @@ them in the day of thine anger; thou hast killed, and not pitied.
 {2:22} Thou hast called as in a solemn day my terrors round about, so
 that in the day of the LORD'S anger none escaped nor remained: those
 that I have swaddled and brought up hath mine enemy consumed.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -227,8 +223,7 @@ sitting down, and their rising up; I am their musick.
 of their hands. {3:65} Give them sorrow of heart, thy curse unto them.
 {3:66} Persecute and destroy them in anger from under the heavens of
 the LORD.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -285,8 +280,7 @@ drunken, and shalt make thyself naked.
  {4:22} The punishment of thine iniquity is accomplished, O daughter
 of Zion; he will no more carry thee away into captivity: he will visit
 thine iniquity, O daughter of Edom; he will discover thy sins.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\

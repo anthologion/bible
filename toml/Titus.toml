@@ -1,7 +1,5 @@
-
-The Epistle of Paul to Titus
-
- """
+[Book]
+title=The Epistle of Paul to Titus
 
 [[Chapter]] #1
 text="""\
@@ -36,8 +34,7 @@ that are defiled and unbelieving is nothing pure; but even their mind
 and conscience is defiled. {1:16} They profess that they know God; but
 in works they deny him, being abominable, and disobedient, and unto
 every good work reprobate.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -65,8 +62,7 @@ our Saviour Jesus Christ; {2:14} Who gave himself for us, that he might
 redeem us from all iniquity, and purify unto himself a peculiar people,
 zealous of good works. {2:15} These things speak, and exhort, and
 rebuke with all authority. Let no man despise thee.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\

@@ -1,7 +1,5 @@
-
-Habakkuk
-
- """
+[Book]
+title=Habakkuk
 
 [[Chapter]] #1
 text="""\
@@ -45,8 +43,7 @@ Therefore they sacrifice unto their net, and burn incense unto their
 drag; because by them their portion is fat, and their meat plenteous.
 {1:17} Shall they therefore empty their net, and not spare continually
 to slay the nations?
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -102,8 +99,7 @@ saith to the wood, Awake; to the dumb stone, Arise, it shall teach!
 Behold, it is laid over with gold and silver, and there is no
 breath at all in the midst of it. {2:20} But the LORD is in his holy
 temple: let all the earth keep silence before him.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\

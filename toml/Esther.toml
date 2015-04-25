@@ -1,7 +1,5 @@
-
-The Book of Esther
-
- """
+[Book]
+title=The Book of Esther
 
 [[Chapter]] #1
 text="""\
@@ -68,8 +66,7 @@ all the king's provinces, into every province according to the writing
 thereof, and to every people after their language, that every man
 should bear rule in his own house, and that it should be published
 according to the language of every people.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -148,8 +145,7 @@ and Esther certified the king thereof in Mordecai's name. {2:23} And
 when inquisition was made of the matter, it was found out; therefore
 they were both hanged on a tree: and it was written in the book of the
 chronicles before the king.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -202,8 +198,7 @@ published unto all people, that they should be ready against that day.
 {3:15} The posts went out, being hastened by the king's commandment,
 and the decree was given in Shushan the palace. And the king and Haman
 sat down to drink; but the city Shushan was perplexed.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -254,8 +249,7 @@ and my maidens will fast likewise; and so will I go in unto the king,
 which is not according to the law: and if I perish, I perish. {4:17}
 So Mordecai went his way, and did according to all that Esther had
 commanded him.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -302,8 +296,7 @@ gallows be made of fifty cubits high, and to morrow speak thou unto the
 king that Mordecai may be hanged thereon: then go thou in merrily with
 the king unto the banquet. And the thing pleased Haman; and he caused
 the gallows to be made.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -349,8 +342,7 @@ fall, thou shalt not prevail against him, but shalt surely fall before
 him. {6:14} And while they were yet talking with him, came the king's
 chamberlains, and hasted to bring Haman unto the banquet that Esther
 had prepared.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -384,8 +376,7 @@ cubits high, which Haman had made for Mordecai, who had spoken good for
 the king, standeth in the house of Haman. Then the king said, Hang him
 thereon. {7:10} So they hanged Haman on the gallows that he had
 prepared for Mordecai. Then was the king's wrath pacified.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -446,8 +437,7 @@ was glad. {8:16} The Jews had light, and gladness, and joy, and honour.
 king's commandment and his decree came, the Jews had joy and gladness,
 a feast and a good day. And many of the people of the land became Jews;
 for the fear of the Jews fell upon them.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -535,8 +525,7 @@ the queen had enjoined them, and as they had decreed for themselves and
 for their seed, the matters of the fastings and their cry. {9:32} And
 the decree of Esther confirmed these matters of Purim; and it was
 written in the book.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\

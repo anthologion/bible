@@ -1,7 +1,5 @@
-
-The Book of Joshua
-
- """
+[Book]
+title=The Book of Joshua
 
 [[Chapter]] #1
 text="""\
@@ -56,8 +54,7 @@ unto thee: only the LORD thy God be with thee, as he was with Moses.
 {1:18} Whosoever he be that doth rebel against thy commandment, and
 will not hearken unto thy words in all that thou commandest him, he
 shall be put to death: only be strong and of a good courage.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -123,8 +120,7 @@ passed over, and came to Joshua the son of Nun, and told him all
 things that befell them: {2:24} And they said unto Joshua, Truly the
 LORD hath delivered into our hands all the land; for even all the
 inhabitants of the country do faint because of us.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -176,8 +172,7 @@ people passed over right against Jericho. {3:17} And the priests that
 bare the ark of the covenant of the LORD stood firm on dry ground in
 the midst of Jordan, and all the Israelites passed over on dry ground,
 until all the people were passed clean over Jordan.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -241,8 +236,7 @@ until ye were passed over, as the LORD your God did to the Red sea,
 which he dried up from before us, until we were gone over: {4:24} That
 all the people of the earth might know the hand of the LORD, that it
 is mighty: that ye might fear the LORD your God for ever.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -297,8 +291,7 @@ and said unto him, What saith my lord unto his servant? {5:15} And the
 captain of the LORD'S host said unto Joshua, Loose thy shoe from off
 thy foot; for the place whereon thou standest is holy. And Joshua did
 so.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -382,8 +375,7 @@ and buildeth this city Jericho: he shall lay the foundation thereof in
 his firstborn, and in his youngest son shall he set up the gates of
 it. {6:27} So the LORD was with Joshua; and his fame was noised
 throughout all the country.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -465,8 +457,7 @@ stones. {7:26} And they raised over him a great heap of stones unto
 this day. So the LORD turned from the fierceness of his anger.
 Wherefore the name of that place was called, The valley of Achor, unto
 this day.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -569,8 +560,7 @@ blessings and cursings, according to all that is written in the book of
 the law. {8:35} There was not a word of all that Moses commanded, which
 Joshua read not before all the congregation of Israel, with the women,
 and the little ones, and the strangers that were conversant among them.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -642,8 +632,7 @@ Israel, that they slew them not. {9:27} And Joshua made them that day
 hewers of wood and drawers of water for the congregation, and for the
 altar of the LORD, even unto this day, in the place which he should
 choose.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -771,8 +760,7 @@ Kadesh-barnea even unto Gaza, and all the country of Goshen, even unto
 Gibeon. {10:42} And all these kings and their land did Joshua take at
 one time, because the LORD God of Israel fought for Israel. {10:43} And
 Joshua returned, and all Israel with him, unto the camp to Gilgal.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -841,8 +829,7 @@ Gath, and in Ashdod, there remained. {11:23} So Joshua took the whole
 land, according to all that the LORD said unto Moses; and Joshua gave
 it for an inheritance unto Israel according to their divisions by their
 tribes. And the land rested from war.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -890,8 +877,7 @@ king of Megiddo, one; {12:22} The king of Kedesh, one; the king of
 Jokneam of Carmel, one; {12:23} The king of Dor in the coast of Dor,
 one; the king of the nations of Gilgal, one; {12:24} The king of
 Tirzah, one: all the kings thirty and one.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -973,8 +959,7 @@ for inheritance in the plains of Moab, on the other side Jordan, by
 Jericho, eastward. {13:33} But unto the tribe of Levi Moses gave not
 any inheritance: the LORD God of Israel was their inheritance, as
 he said unto them.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -1019,8 +1004,7 @@ the inheritance of Caleb the son of Jephunneh the Kenezite unto this
 day, because that he wholly followed the LORD God of Israel. {14:15}
 And the name of Hebron before was Kirjath-arba; which Arba was a
 great man among the Anakims. And the land had rest from war.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -1121,8 +1105,7 @@ En-gedi; six cities with their villages. {15:63} As for the Jebusites
 the inhabitants of Jerusalem, the children of Judah could not drive
 them out: but the Jebusites dwell with the children of Judah at
 Jerusalem unto this day.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -1150,8 +1133,7 @@ inheritance of the children of Manasseh, all the cities with their
 villages. {16:10} And they drave not out the Canaanites that dwelt in
 Gezer: but the Canaanites dwell among the Ephraimites unto this day,
 and serve under tribute.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -1213,8 +1195,7 @@ shalt not have one lot [only: ]{17:18} But the mountain shall be thine;
 for it is a wood, and thou shalt cut it down: and the outgoings of it
 shall be thine: for thou shalt drive out the Canaanites, though they
 have iron chariots, and though they be strong.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -1288,8 +1269,7 @@ and Chephirah, and Mozah, {18:27} And Rekem, and Irpeel, and Taralah,
 {18:28} And Zelah, Eleph, and Jebusi, which is Jerusalem, Gibeath,
 and Kirjath; fourteen cities with their villages. This is the
 inheritance of the children of Benjamin according to their families.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -1389,8 +1369,7 @@ Nun, and the heads of the fathers of the tribes of the children of
 Israel, divided for an inheritance by lot in Shiloh before the LORD, at
 the door of the tabernacle of the congregation. So they made an end of
 dividing the country.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -1421,8 +1400,7 @@ cities appointed for all the children of Israel, and for the stranger
 that sojourneth among them, that whosoever killeth any person at
 unawares might flee thither, and not die by the hand of the avenger of
 blood, until he stood before the congregation.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -1641,8 +1619,7 @@ intend to go up against them in battle, to destroy the land wherein the
 children of Reuben and Gad dwelt. {22:34} And the children of Reuben
 and the children of Gad called the altar Ed: for it shall be a
 witness between us that the LORD is God.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -1690,8 +1667,7 @@ transgressed the covenant of the LORD your God, which he commanded you,
 and have gone and served other gods, and bowed yourselves to them; then
 shall the anger of the LORD be kindled against you, and ye shall perish
 quickly from off the good land which he hath given unto you.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\

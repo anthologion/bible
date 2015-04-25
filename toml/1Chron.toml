@@ -1,7 +1,5 @@
-
-The First Book of the Chronicles
-
- """
+[Book]
+title=The First Book of the Chronicles
 
 [[Chapter]] #1
 text="""\
@@ -81,8 +79,7 @@ of Matred, the daughter of Mezahab.
 duke Aliah, duke Jetheth, {1:52} Duke Aholibamah, duke Elah, duke
 Pinon, {1:53} Duke Kenaz, duke Teman, duke Mibzar, {1:54} Duke Magdiel,
 duke Iram. These are the dukes of Edom.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -174,8 +171,7 @@ of the Manahethites, the Zorites. {2:55} And the families of the
 scribes which dwelt at Jabez; the Tirathites, the Shimeathites, and
 Suchathites. These are the Kenites that came of Hemath, the father of
 the house of Rechab.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -215,8 +211,7 @@ Bariah, and Neariah, and Shaphat, six. {3:23} And the sons of Neariah;
 Elioenai, and Hezekiah, and Azrikam, three. {3:24} And the sons of
 Elioenai were, Hodaiah, and Eliashib, and Pelaiah, and Akkub, and
 Johanan, and Dalaiah, and Anani, seven.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -302,8 +297,7 @@ of the sons of Simeon, five hundred men, went to mount Seir, having for
 their captains Pelatiah, and Neariah, and Rephaiah, and Uzziel, the
 sons of Ishi. {4:43} And they smote the rest of the Amalekites that
 were escaped, and dwelt there unto this day.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -368,8 +362,7 @@ spirit of Pul king of Assyria, and the spirit of Tilgath-pilneser king
 of Assyria, and he carried them away, even the Reubenites, and the
 Gadites, and the half tribe of Manasseh, and brought them unto Halah,
 and Habor, and Hara, and to the river Gozan, unto this day.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -494,8 +487,7 @@ Jahzah with her suburbs, {6:79} Kedemoth also with her suburbs, and
 Mephaath with her suburbs: {6:80} And out of the tribe of Gad; Ramoth
 in Gilead with her suburbs, and Mahanaim with her suburbs, {6:81} And
 Heshbon with her suburbs, and Jazer with her suburbs.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -585,8 +577,7 @@ Asher, heads of their father's house, choice and mighty men of
 valour, chief of the princes. And the number throughout the genealogy
 of them that were apt to the war and to battle was twenty and six
 thousand men.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -637,8 +628,7 @@ Sheariah, and Obadiah, and Hanan. All these were the sons of Azel.
 Jehush the second, and Eliphelet the third. {8:40} And the sons of Ulam
 were mighty men of valour, archers, and had many sons, and sons' sons,
 an hundred and fifty. All these are of the sons of Benjamin.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -731,8 +721,7 @@ Azmaveth, and Zimri; and Zimri begat Moza; {9:43} And Moza begat Binea;
 and Rephaiah his son, Eleasah his son, Azel his son. {9:44} And Azel
 had six sons, whose names are these, Azrikam, Bocheru, and Ishmael,
 and Sheariah, and Obadiah, and Hanan: these were the sons of Azel.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -771,8 +760,7 @@ against the LORD, even against the word of the LORD, which he kept
 not, and also for asking counsel of one that had a familiar spirit,
 to enquire [of it; ]{10:14} And enquired not of the LORD: therefore he
 slew him, and turned the kingdom unto David the son of Jesse.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -865,8 +853,7 @@ Jehiel the sons of Hothan the Aroerite, {11:45} Jediael the son of
 Shimri, and Joha his brother, the Tizite, {11:46} Eliel the Mahavite,
 and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite,
 {11:47} Eliel, and Obed, and Jasiel the Mesobaite.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -955,8 +942,7 @@ nigh them, even unto Issachar and Zebulun and Naphtali, brought bread
 on asses, and on camels, and on mules, and on oxen, and meat, meal,
 cakes of figs, and bunches of raisins, and wine, and oil, and oxen, and
 sheep abundantly: for there was joy in Israel.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -993,8 +979,7 @@ home to himself to the city of David, but carried it aside into the
 house of Obed-edom the Gittite. {13:14} And the ark of God remained
 with the family of Obed-edom in his house three months. And the LORD
 blessed the house of Obed-edom, and all that he had.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -1031,8 +1016,7 @@ the Philistines. {14:16} David therefore did as God commanded him: and
 they smote the host of the Philistines from Gibeon even to Gazer.
 {14:17} And the fame of David went out into all lands; and the LORD
 brought the fear of him upon all nations.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -1100,8 +1084,7 @@ making a noise with psalteries and harps.
 LORD came to the city of David, that Michal the daughter of Saul
 looking out at a window saw king David dancing and playing: and she
 despised him in her heart.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -1180,8 +1163,7 @@ Heman and Jeduthun with trumpets and cymbals for those that should make
 a sound, and with musical instruments of God. And the sons of Jeduthun
 were porters. {16:43} And all the people departed every man to his
 house: and David returned to bless his house.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -1251,8 +1233,7 @@ thee. {17:26} And now, LORD, thou art God, and hast promised this
 goodness unto thy servant: {17:27} Now therefore let it please thee to
 bless the house of thy servant, that it may be before thee for ever:
 for thou blessest, O LORD, and it shall be blessed for ever.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -1299,8 +1280,7 @@ Zadok the son of Ahitub, and Abimelech the son of Abiathar, were the
 priests; and Shavsha was scribe; {18:17} And Benaiah the son of
 Jehoiada was over the Cherethites and the Pelethites; and the sons of
 David were chief about the king.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -1359,8 +1339,7 @@ and killed Shophach the captain of the host. {19:19} And when the
 servants of Hadarezer saw that they were put to the worse before
 Israel, they made peace with David, and became his servants: neither
 would the Syrians help the children of Ammon any more.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -1389,8 +1368,7 @@ also was the son of the giant. {20:7} But when he defied Israel,
 Jonathan the son of Shimea David's brother slew him. {20:8} These were
 born unto the giant in Gath; and they fell by the hand of David, and by
 the hand of his servants.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -1475,8 +1453,7 @@ wilderness, and the altar of the burnt offering, were at that season
 in the high place at Gibeon. {21:30} But David could not go before it
 to enquire of God: for he was afraid because of the sword of the angel
 of the LORD.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -1531,8 +1508,7 @@ soul to seek the LORD your God; arise therefore, and build ye the
 sanctuary of the LORD God, to bring the ark of the covenant of the
 LORD, and the holy vessels of God, into the house that is to be built
 to the name of the LORD.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -1601,8 +1577,7 @@ continually before the LORD: {23:32} And that they should keep the
 charge of the tabernacle of the congregation, and the charge of the
 holy place, and the charge of the sons of Aaron their brethren, in
 the service of the house of the LORD.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -1657,8 +1632,7 @@ lots over against their brethren the sons of Aaron in the presence of
 David the king, and Zadok, and Ahimelech, and the chief of the fathers
 of the priests and Levites, even the principal fathers over against
 their younger brethren.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -1714,8 +1688,7 @@ he, his sons, and his brethren, were twelve: {25:30} The three and
 twentieth to Mahazioth, he, his sons, and his brethren, were
 twelve: {25:31} The four and twentieth to Romamti-ezer, he, his sons,
 and his brethren, were twelve.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -1788,8 +1761,7 @@ And his brethren, men of valour, were two thousand and seven hundred
 chief fathers, whom king David made rulers over the Reubenites, the
 Gadites, and the half tribe of Manasseh, for every matter pertaining to
 God, and affairs of the king.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -1869,8 +1841,7 @@ was with the king's sons: {27:33} And Ahithophel was the king's
 counsellor: and Hushai the Archite was the king's companion: {27:34}
 And after Ahithophel was Jehoiada the son of Benaiah, and Abiathar:
 and the general of the king's army was Joab.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -1944,8 +1915,7 @@ shall be with thee for all the service of the house of God: and there
 shall be with thee for all manner of workmanship every willing skilful
 man, for any manner of service: also the princes and all the people
 will be wholly at thy commandment.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\

@@ -1,7 +1,5 @@
-
-The Second Book of the Maccabees
-
- """
+[Book]
+title=The Second Book of the Maccabees
 
 [[Chapter]] #1
 text="""\
@@ -135,8 +133,7 @@ whom he would gratify.
 
  {1:36} And Neemias called this thing Naphthar, which is as much as
 to say, a cleansing: but many men call it Nephi.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -258,8 +255,7 @@ to be granted to him that will make an abridgment.
  {2:32} Here then will we begin the story: only adding thus much to
 that which hath been said, that it is a foolish thing to make a long
 prologue, and to be short in the story itself.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -417,8 +413,7 @@ it.
 
  {3:40} And the things concerning Heliodorus, and the keeping of the
 treasury, fell out on this sort.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -623,8 +618,7 @@ wicked deed, caused them to be honourably buried.
  {4:50} And so through the covetousness of them that were of power
 Menelaus remained still in authority, increasing in malice, and being a
 great traitor to the citizens.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -741,8 +735,7 @@ multitudes.
 himself into the wilderness, and lived in the mountains after the
 manner of beasts, with his company, who fed on herbs continually, lest
 they should be partakers of the pollution.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -868,8 +861,7 @@ things, because I fear him.
  {6:31} And thus this man died, leaving his death for an example of a
 noble courage, and a memorial of virtue, not only unto young men, but
 unto all his nation.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -1032,8 +1024,7 @@ Lord.
 
  {7:42} Let this be enough now to have spoken concerning the
 idolatrous feasts, and the extreme tortures.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -1190,8 +1181,7 @@ destroyed.
 tribute by means of captives in Jerusalem, told abroad, that the Jews
 had God to fight for them, and therefore they could not be hurt,
 because they followed the laws that he gave them.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -1317,8 +1307,7 @@ a strange country in the mountains.
  {9:29} And Philip, that was brought up with him, carried away his
 body, who also fearing the son of Antiochus went into Egypt to
 Ptolemeus Philometor.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -1470,8 +1459,7 @@ Chereas his brother, with Apollophanes.
  {10:38} When this was done, they praised the Lord with psalms and
 thanksgiving, who had done so great things for Israel, and given them
 the victory.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -1608,8 +1596,7 @@ your mind.
 
  {11:38} Farewell. This hundred and eight and fortieth year, the
 fifteenth day of the month Xanthicus.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -1797,8 +1784,7 @@ have risen again, it had been superfluous and vain to pray for the dead.
 laid up for those that died godly, it was an holy and good thought.
 Whereupon he made a reconciliation for the dead, that they might be
 delivered from sin.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -1902,8 +1888,7 @@ void:
 be in defence of the cause, persuaded, pacified, made them well
 affected, returned to Antioch. Thus it went touching the king's coming
 and departing.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -2083,8 +2068,7 @@ midst of the throng; and standing upon a steep rock,
 bowels, and taking them in both his hands, he cast them upon the
 throng, and calling upon the Lord of life and spirit to restore him
 those again, he thus died.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\

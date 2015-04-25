@@ -1,7 +1,5 @@
-
-The Epistle of Paul the Apostle to the Philippians
-
- """
+[Book]
+title=The Epistle of Paul the Apostle to the Philippians
 
 [[Chapter]] #1
 text="""\
@@ -57,8 +55,7 @@ an evident token of perdition, but to you of salvation, and that of
 God. {1:29} For unto you it is given in the behalf of Christ, not only
 to believe on him, but also to suffer for his sake; {1:30} Having the
 same conflict which ye saw in me, and now hear to be in me.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -114,8 +111,7 @@ ye see him again, ye may rejoice, and that I may be the less sorrowful.
 such in reputation: {2:30} Because for the work of Christ he was nigh
 unto death, not regarding his life, to supply your lack of service
 toward me.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -160,8 +156,7 @@ For our conversation is in heaven; from whence also we look for the
 Saviour, the Lord Jesus Christ: {3:21} Who shall change our vile body,
 that it may be fashioned like unto his glorious body, according to the
 working whereby he is able even to subdue all things unto himself.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\

@@ -1,7 +1,5 @@
-
-The Second Epistle of Paul the Apostle to Timothy
-
- """
+[Book]
+title=The Second Epistle of Paul the Apostle to Timothy
 
 [[Chapter]] #1
 text="""\
@@ -40,8 +38,7 @@ ashamed of my chain: {1:17} But, when he was in Rome, he sought me out
 very diligently, and found [me. ]{1:18} The Lord grant unto him that he
 may find mercy of the Lord in that day: and in how many things he
 ministered unto me at Ephesus, thou knowest very well.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -89,8 +86,7 @@ instructing those that oppose themselves; if God peradventure will give
 them repentance to the acknowledging of the truth; {2:26} And that
 they may recover themselves out of the snare of the devil, who are
 taken captive by him at his will.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -122,8 +118,7 @@ Jesus. {3:16} All scripture is given by inspiration of God, and is
 profitable for doctrine, for reproof, for correction, for instruction
 in righteousness: {3:17} That the man of God may be perfect, throughly
 furnished unto all good works.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\

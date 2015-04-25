@@ -1,7 +1,5 @@
-
-The First Epistle General of Peter
-
- """
+[Book]
+title=The First Epistle General of Peter
 
 [[Chapter]] #1
 text="""\
@@ -57,8 +55,7 @@ ever. {1:24} For all flesh is as grass, and all the glory of man as
 the flower of grass. The grass withereth, and the flower thereof
 falleth away: {1:25} But the word of the Lord endureth for ever. And
 this is the word which by the gospel is preached unto you.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -112,8 +109,7 @@ self bare our sins in his own body on the tree, that we, being dead to
 sins, should live unto righteousness: by whose stripes ye were healed.
 {2:25} For ye were as sheep going astray; but are now returned unto the
 Shepherd and Bishop of your souls.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -164,8 +160,7 @@ the filth of the flesh, but the answer of a good conscience toward
 God,) by the resurrection of Jesus Christ: {3:22} Who is gone into
 heaven, and is on the right hand of God; angels and authorities and
 powers being made subject unto him.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -211,8 +206,7 @@ if the righteous scarcely be saved, where shall the ungodly and the
 sinner appear? {4:19} Wherefore let them that suffer according to the
 will of God commit the keeping of their souls to him in well doing,
 as unto a faithful Creator.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\

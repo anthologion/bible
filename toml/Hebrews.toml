@@ -1,7 +1,5 @@
-
-The Epistle to the Hebrews
-
- """
+[Book]
+title=The Epistle to the Hebrews
 
 [[Chapter]] #1
 text="""\
@@ -32,8 +30,7 @@ years shall not fail. {1:13} But to which of the angels said he at any
 times, Sit on my right hand, until I make thine enemies thy footstool?
 {1:14} Are they not all ministering spirits, sent forth to minister for
 them who shall be heirs of salvation?
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -77,8 +74,7 @@ brethren, that he might be a merciful and faithful high priest in
 things pertaining to God, to make reconciliation for the sins of the
 people. {2:18} For in that he himself hath suffered being tempted, he
 is able to succour them that are tempted.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -112,8 +108,7 @@ was it not with them that had sinned, whose carcases fell in the
 wilderness? {3:18} And to whom sware he that they should not enter into
 his rest, but to them that believed not? {3:19} So we see that they
 could not enter in because of unbelief.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -149,8 +144,7 @@ cannot be touched with the feeling of our infirmities; but was in all
 points tempted like as we are, yet without sin. {4:16} Let us
 therefore come boldly unto the throne of grace, that we may obtain
 mercy, and find grace to help in time of need.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -181,8 +175,7 @@ milk, and not of strong meat. {5:13} For every one that useth milk is
 unskilful in the word of righteousness: for he is a babe. {5:14} But
 strong meat belongeth to them that are of full age, even those who by
 reason of use have their senses exercised to discern both good and evil.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -223,8 +216,7 @@ anchor of the soul, both sure and stedfast, and which entereth into
 that within the veil; {6:20} Whither the forerunner is for us entered,
 even Jesus, made an high priest for ever after the order of
 Melchisedec.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -280,8 +272,7 @@ for his own sins, and then for the people's: for this he did once, when
 he offered up himself. {7:28} For the law maketh men high priests which
 have infirmity; but the word of the oath, which was since the law,
 maketh the Son, who is consecrated for evermore.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -316,8 +307,7 @@ their unrighteousness, and their sins and their iniquities will I
 remember no more. {8:13} In that he saith, A new covenant, he hath
 made the first old. Now that which decayeth and waxeth old is ready
 to vanish away.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -379,8 +369,7 @@ appeared to put away sin by the sacrifice of himself. {9:27} And as it
 is appointed unto men once to die, but after this the judgment: {9:28}
 So Christ was once offered to bear the sins of many; and unto them that
 look for him shall he appear the second time without sin unto salvation.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -453,8 +442,7 @@ tarry. {10:38} Now the just shall live by faith: but if any man draw
 back, my soul shall have no pleasure in him. {10:39} But we are not of
 them who draw back unto perdition; but of them that believe to the
 saving of the soul.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -537,8 +525,7 @@ deserts, and in mountains, and in dens and caves of the earth.
 {11:39} And these all, having obtained a good report through faith,
 received not the promise: {11:40} God having provided some better thing
 for us, that they without us should not be made perfect.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -601,8 +588,7 @@ that are made, that those things which cannot be shaken may remain.
 {12:28} Wherefore we receiving a kingdom which cannot be moved, let us
 have grace, whereby we may serve God acceptably with reverence and
 godly fear: {12:29} For our God is a consuming fire.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\

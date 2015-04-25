@@ -1,7 +1,5 @@
-
-The Book of Job
-
- """
+[Book]
+title=The Book of Job
 
 [[Chapter]] #1
 text="""\
@@ -59,8 +57,7 @@ fell down upon the ground, and worshipped, {1:21} And said, Naked came
 I out of my mother's womb, and naked shall I return thither: the LORD
 gave, and the LORD hath taken away; blessed be the name of the LORD.
 {1:22} In all this Job sinned not, nor charged God foolishly.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -100,8 +97,7 @@ one his mantle, and sprinkled dust upon their heads toward heaven.
 {2:13} So they sat down with him upon the ground seven days and seven
 nights, and none spake a word unto him: for they saw that his grief
 was very great.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -140,8 +136,7 @@ my roarings are poured out like the waters. {3:25} For the thing which
 I greatly feared is come upon me, and that which I was afraid of is
 come unto me. {3:26} I was not in safety, neither had I rest, neither
 was I quiet; yet trouble came.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -174,8 +169,7 @@ foundation is in the dust, which are crushed before the moth?
 {4:20} They are destroyed from morning to evening: they perish for ever
 without any regarding [it. ]{4:21} Doth not their excellency which is
 in them go away? they die, even without wisdom.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -217,8 +211,7 @@ offspring as the grass of the earth. {5:26} Thou shalt come to thy
 grave in a full age, like as a shock of corn cometh in in his season.
 {5:27} Lo this, we have searched it, so it is; hear it, and know thou
 it for thy good.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -262,8 +255,7 @@ me; for it is evident unto you if I lie. {6:29} Return, I pray you,
 let it not be iniquity; yea, return again, my righteousness is in it.
 {6:30} Is there iniquity in my tongue? cannot my taste discern perverse
 things?
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -298,8 +290,7 @@ men? why hast thou set me as a mark against thee, so that I am a burden
 to myself? {7:21} And why dost thou not pardon my transgression, and
 take away mine iniquity? for now shall I sleep in the dust; and thou
 shalt seek me in the morning, but I shall not be.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -332,8 +323,7 @@ Behold, God will not cast away a perfect man, neither will he help
 the evil doers: {8:21} Till he fill thy mouth with laughing, and thy
 lips with rejoicing. {8:22} They that hate thee shall be clothed with
 shame; and the dwelling place of the wicked shall come to nought.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -382,8 +372,7 @@ in judgment. {9:33} Neither is there any daysman betwixt us, that
 might lay his hand upon us both. {9:34} Let him take his rod away from
 me, and let not his fear terrify me: {9:35} Then would I speak, and
 not fear him; but it is not so with me.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -421,8 +410,7 @@ shall not return, even to the land of darkness and the shadow of
 death; {10:22} A land of darkness, as darkness itself; and of the
 shadow of death, without any order, and where the light is as
 darkness.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -455,8 +443,7 @@ thou shalt dig about thee, and thou shalt take thy rest in safety.
 yea, many shall make suit unto thee. {11:20} But the eyes of the wicked
 shall fail, and they shall not escape, and their hope shall be as the
 giving up of the ghost.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -495,8 +482,7 @@ them [again. ]{12:24} He taketh away the heart of the chief of the
 people of the earth, and causeth them to wander in a wilderness where
 there is no way. {12:25} They grope in the dark without light, and he
 maketh them to stagger like a drunken man.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -534,8 +520,7 @@ makest me to possess the iniquities of my youth. {13:27} Thou puttest
 my feet also in the stocks, and lookest narrowly unto all my paths;
 thou settest a print upon the heels of my feet. {13:28} And he, as a
 rotten thing, consumeth, as a garment that is moth eaten.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -572,8 +557,7 @@ him, and he passeth: thou changest his countenance, and sendest him
 away. {14:21} His sons come to honour, and he knoweth it not; and
 they are brought low, but he perceiveth it not of them. {14:22} But
 his flesh upon him shall have pain, and his soul within him shall mourn.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -626,8 +610,7 @@ as the olive. {15:34} For the congregation of hypocrites shall be
 desolate, and fire shall consume the tabernacles of bribery. {15:35}
 They conceive mischief, and bring forth vanity, and their belly
 prepareth deceit.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -662,8 +645,7 @@ scorn me: but mine eye poureth out tears unto God. {16:21} Oh that
 one might plead for a man with God, as a man pleadeth for his
 neighbour! {16:22} When a few years are come, then I shall go the way
 whence I shall not return.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -689,8 +671,7 @@ corruption, Thou art my father: to the worm, Thou art my mother,
 and my sister. {17:15} And where is now my hope? as for my hope, who
 shall see it? {17:16} They shall go down to the bars of the pit, when
 our rest together is in the dust.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -723,8 +704,7 @@ dwellings. {18:20} They that come after him shall be astonied at his
 day, as they that went before were affrighted. {18:21} Surely such
 are the dwellings of the wicked, and this is the place of him
 that knoweth not God.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -767,8 +747,7 @@ within me. {19:28} But ye should say, Why persecute we him, seeing the
 root of the matter is found in me? {19:29} Be ye afraid of the sword:
 for wrath bringeth the punishments of the sword, that ye may know
 there is a judgment.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -815,8 +794,7 @@ reveal his iniquity; and the earth shall rise up against him. {20:28}
 The increase of his house shall depart, and his goods shall flow away
 in the day of his wrath. {20:29} This is the portion of a wicked man
 from God, and the heritage appointed unto him by God.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -864,8 +842,7 @@ brought to the grave, and shall remain in the tomb. {21:33} The clods
 of the valley shall be sweet unto him, and every man shall draw after
 him, as there are innumerable before him. {21:34} How then comfort ye
 me in vain, seeing in your answers there remaineth falsehood?
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -910,8 +887,7 @@ light shall shine upon thy ways. {22:29} When men are cast down, then
 thou shalt say, There is lifting up; and he shall save the humble
 person. {22:30} He shall deliver the island of the innocent: and it is
 delivered by the pureness of thine hands.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -939,8 +915,7 @@ presence: when I consider, I am afraid of him. {23:16} For God maketh
 my heart soft, and the Almighty troubleth me: {23:17} Because I was not
 cut off before the darkness, neither hath he covered the darkness
 from my face.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -984,8 +959,7 @@ are exalted for a little while, but are gone and brought low; they are
 taken out of the way as all other, and cut off as the tops of the
 ears of corn. {24:25} And if it be not so now, who will make me a
 liar, and make my speech nothing worth?
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -996,8 +970,7 @@ there any number of his armies? and upon whom doth not his light arise?
 that is born of a woman? {25:5} Behold even to the moon, and it
 shineth not; yea, the stars are not pure in his sight. {25:6} How much
 less man, that is a worm? and the son of man, which is a worm?
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -1019,8 +992,7 @@ understanding he smiteth through the proud. {26:13} By his spirit he
 hath garnished the heavens; his hand hath formed the crooked serpent.
 {26:14} Lo, these are parts of his ways: but how little a portion is
 heard of him? but the thunder of his power who can understand?
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -1055,8 +1027,7 @@ away, and he departeth: and as a storm hurleth him out of his place.
 {27:22} For God shall cast upon him, and not spare: he would fain
 flee out of his hand. {27:23} Men shall clap their hands at him, and
 shall hiss him out of his place.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -1098,8 +1069,7 @@ a way for the lightning of the thunder: {28:27} Then did he see it, and
 declare it; he prepared it, yea, and searched it out. {28:28} And unto
 man he said, Behold, the fear of the Lord, that is wisdom; and to
 depart from evil is understanding.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -1136,8 +1106,7 @@ laughed on them, they believed it not; and the light of my
 countenance they cast not down. {29:25} I chose out their way, and sat
 chief, and dwelt as a king in the army, as one that comforteth the
 mourners.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -1183,8 +1152,7 @@ stood up, and I cried in the congregation. {30:29} I am a brother to
 dragons, and a companion to owls. {30:30} My skin is black upon me, and
 my bones are burned with heat. {30:31} My harp also is turned to
 mourning, and my organ into the voice of them that weep.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -1244,8 +1212,7 @@ the furrows likewise thereof complain; {31:39} If I have eaten the
 fruits thereof without money, or have caused the owners thereof to lose
 their life: {31:40} Let thistles grow instead of wheat, and cockle
 instead of barley. The words of Job are ended.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -1281,8 +1248,7 @@ my lips and answer. {32:21} Let me not, I pray you, accept any man's
 person, neither let me give flattering titles unto man. {32:22} For I
 know not to give flattering titles; in so doing my maker would soon
 take me away.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -1330,8 +1296,7 @@ well, O Job, hearken unto me: hold thy peace, and I will speak. {33:32}
 If thou hast any thing to say, answer me: speak, for I desire to
 justify thee. {33:33} If not, hearken unto me: hold thy peace, and I
 shall teach thee wisdom.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -1388,8 +1353,7 @@ were without wisdom. {34:36} My desire is that Job may be tried
 unto the end because of his answers for wicked men. {34:37} For he
 addeth rebellion unto his sin, he clappeth his hands among us, and
 multiplieth his words against God.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -1415,8 +1379,7 @@ not see him, yet judgment is before him; therefore trust thou in
 him. {35:15} But now, because it is not so, he hath visited in his
 anger; yet he knoweth it not in great extremity: {35:16} Therefore
 doth Job open his mouth in vain; he multiplieth words without knowledge.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -1464,8 +1427,7 @@ them judgeth he the people; he giveth meat in abundance. {36:32} With
 clouds he covereth the light; and commandeth it not to shine by the
 cloud that cometh betwixt. {36:33} The noise thereof sheweth
 concerning it, the cattle also concerning the vapour.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -1503,8 +1465,7 @@ majesty. {37:23} Touching the Almighty, we cannot find him out: he
 is excellent in power, and in judgment, and in plenty of justice: he
 will not afflict. {37:24} Men do therefore fear him: he respecteth not
 any that are wise of heart.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -1564,8 +1525,7 @@ appetite of the young lions, {38:40} When they couch in their dens,
 and abide in the covert to lie in wait? {38:41} Who provideth for the
 raven his food? when his young ones cry unto God, they wander for lack
 of meat.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -1610,8 +1570,7 @@ nest on high? {39:28} She dwelleth and abideth on the rock, upon the
 crag of the rock, and the strong place. {39:29} From thence she seeketh
 the prey, and her eyes behold afar off. {39:30} Her young ones also
 suck up blood: and where the slain are, there is she.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -1651,8 +1610,7 @@ the brook compass him about. {40:23} Behold, he drinketh up a river,
 and hasteth not: he trusteth that he can draw up Jordan into his
 mouth. {40:24} He taketh it with his eyes: his nose pierceth through
 snares.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -1699,8 +1657,7 @@ shine after him; one would think the deep to be hoary. {41:33} Upon
 earth there is not his like, who is made without fear. {41:34} He
 beholdeth all high things: he is a king over all the children of
 pride.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\

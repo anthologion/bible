@@ -1,7 +1,5 @@
-
-The Epistle of Paul the Apostle to the Colossians
-
- """
+[Book]
+title=The Epistle of Paul the Apostle to the Colossians
 
 [[Chapter]] #1
 text="""\
@@ -59,8 +57,7 @@ the hope of glory: {1:28} Whom we preach, warning every man, and
 teaching every man in all wisdom; that we may present every man perfect
 in Christ Jesus: {1:29} Whereunto I also labour, striving according to
 his working, which worketh in me mightily.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -109,8 +106,7 @@ are to perish with the using;) after the commandments and doctrines of
 men? {2:23} Which things have indeed a shew of wisdom in will worship,
 and humility, and neglecting of the body; not in any honour to the
 satisfying of the flesh.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -156,8 +152,7 @@ whatsoever ye do, do it heartily, as to the Lord, and not unto men;
 inheritance: for ye serve the Lord Christ. {3:25} But he that doeth
 wrong shall receive for the wrong which he hath done: and there is no
 respect of persons.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\

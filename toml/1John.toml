@@ -1,7 +1,5 @@
-
-The First Epistle General of John
-
- """
+[Book]
+title=The First Epistle General of John
 
 [[Chapter]] #1
 text="""\
@@ -25,8 +23,7 @@ have no sin, we deceive ourselves, and the truth is not in us. {1:9} If
 we confess our sins, he is faithful and just to forgive us our sins,
 and to cleanse us from all unrighteousness. {1:10} If we say that we
 have not sinned, we make him a liar, and his word is not in us.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -91,8 +88,7 @@ little children, abide in him; that, when he shall appear, we may have
 confidence, and not be ashamed before him at his coming. {2:29} If ye
 know that he is righteous, ye know that every one that doeth
 righteousness is born of him.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -141,8 +137,7 @@ the name of his Son Jesus Christ, and love one another, as he gave us
 commandment. {3:24} And he that keepeth his commandments dwelleth in
 him, and he in him. And hereby we know that he abideth in us, by the
 Spirit which he hath given us.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -185,8 +180,7 @@ hateth his brother, he is a liar: for he that loveth not his brother
 whom he hath seen, how can he love God whom he hath not seen? {4:21}
 And this commandment have we from him, That he who loveth God love his
 brother also.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\

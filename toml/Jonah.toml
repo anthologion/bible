@@ -1,7 +1,5 @@
-
-Jonah
-
- """
+[Book]
+title=Jonah
 
 [[Chapter]] #1
 text="""\
@@ -48,8 +46,7 @@ sacrifice unto the LORD, and made vows.
 
  {1:17} Now the LORD had prepared a great fish to swallow up Jonah.
 And Jonah was in the belly of the fish three days and three nights.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -72,8 +69,7 @@ that I have vowed. Salvation is of the LORD.
 
  {2:10} And the LORD spake unto the fish, and it vomited out Jonah
 upon the dry land.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -101,8 +97,7 @@ his fierce anger, that we perish not?
  {3:10} And God saw their works, that they turned from their evil
 way; and God repented of the evil, that he had said that he would do
 unto them; and he did it not.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\

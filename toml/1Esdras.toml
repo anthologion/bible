@@ -1,7 +1,5 @@
-
-The First Book of Esdras
-
- """
+[Book]
+title=The First Book of Esdras
 
 [[Chapter]] #1
 text="""\
@@ -217,8 +215,7 @@ Jeremy:
 
  {1:58} Until the land had enjoyed her sabbaths, the whole time of
 her desolation shall she rest, until the full term of seventy years.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -338,8 +335,7 @@ removing in haste toward Jerusalem with a troop of horsemen and a
 multitude of people in battle array, began to hinder the builders; and
 the building of the temple in Jerusalem ceased until the second year of
 the reign of Darius king of the Persians.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -422,8 +418,7 @@ have done.
 
  {3:24} O ye men, is not wine the strongest, that enforceth to do
 thus? And when he had so spoken, he held his peace.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -646,8 +641,7 @@ given them freedom and liberty
  {4:63} To go up, and to build Jerusalem, and the temple which is
 called by his name: and they feasted with instruments of musick and
 gladness seven days.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -925,8 +919,7 @@ of Judea, and holding them strait, hindered their building;
 commotions, they hindered the finishing of the building all the time
 that king Cyrus lived: so they were hindered from building for the
 space of two years, until the reign of Darius.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -1064,8 +1057,7 @@ or endamage that house of the Lord in Jerusalem.
 
  {6:34} I Darius the king have ordained that according unto these
 things it be done with diligence.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -1122,8 +1114,7 @@ making merry before the Lord,
  {7:15} For that he had turned the counsel of the king of Assyria
 toward them, to strengthen their hands in the works of the Lord God of
 Israel.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -1472,8 +1463,7 @@ appertain, and we will be with thee: do valiantly.
 
  {8:96} So Esdras arose, and took an oath of the chief of the priests
 and Levites of all Israel to do after these things; and so they sware.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\

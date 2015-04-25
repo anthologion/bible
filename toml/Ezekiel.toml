@@ -1,7 +1,5 @@
-
-The Book of the Prophet Ezekiel
-
- """
+[Book]
+title=The Book of the Prophet Ezekiel
 
 [[Chapter]] #1
 text="""\
@@ -78,8 +76,7 @@ day of rain, so was the appearance of the brightness round about.
 This was the appearance of the likeness of the glory of the LORD. And
 when I saw it, I fell upon my face, and I heard a voice of one that
 spake.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -108,8 +105,7 @@ house: open thy mouth, and eat that I give thee.
 lo, a roll of a book was therein; {2:10} And he spread it before me;
 and it was written within and without: and there was written
 therein lamentations, and mourning, and woe.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -180,8 +176,7 @@ them a reprover: for they are a rebellious house. {3:27} But when I
 speak with thee, I will open thy mouth, and thou shalt say unto them,
 Thus saith the Lord GOD; He that heareth, let him hear; and he that
 forbeareth, let him forbear: for they are a rebellious house.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -227,8 +222,7 @@ break the staff of bread in Jerusalem: and they shall eat bread by
 weight, and with care; and they shall drink water by measure, and with
 astonishment: {4:17} That they may want bread and water, and be
 astonied one with another, and consume away for their iniquity.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -284,8 +278,7 @@ you, and will break your staff of bread: {5:17} So will I send upon you
 famine and evil beasts, and they shall bereave thee; and pestilence and
 blood shall pass through thee; and I will bring the sword upon thee. I
 the LORD have spoken it.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -329,8 +322,7 @@ savour to all their idols. {6:14} So will I stretch out my hand upon
 them, and make the land desolate, yea, more desolate than the
 wilderness toward Diblath, in all their habitations: and they shall
 know that I am the LORD.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -400,8 +392,7 @@ king shall mourn, and the prince shall be clothed with desolation, and
 the hands of the people of the land shall be troubled: I will do unto
 them after their way, and according to their deserts will I judge them;
 and they shall know that I am the LORD.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -462,8 +453,7 @@ violence, and have returned to provoke me to anger: and, lo, they put
 the branch to their nose. {8:18} Therefore will I also deal in fury:
 mine eye shall not spare, neither will I have pity: and though they cry
 in mine ears with a loud voice, yet will I not hear them.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -501,8 +491,7 @@ mine eye shall not spare, neither will I have pity, but I will
 recompense their way upon their head. {9:11} And, behold, the man
 clothed with linen, which had the inkhorn by his side, reported the
 matter, saying, I have done as thou hast commanded me.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -560,8 +549,7 @@ had four faces apiece, and every one four wings; and the likeness of
 the hands of a man was under their wings. {10:22} And the likeness of
 their faces was the same faces which I saw by the river of Chebar,
 their appearances and themselves: they went every one straight forward.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -627,8 +615,7 @@ and stood upon the mountain which is on the east side of the city.
 by the Spirit of God into Chaldea, to them of the captivity. So the
 vision that I had seen went up from me. {11:25} Then I spake unto them
 of the captivity all the things that the LORD had shewed me.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -700,8 +687,7 @@ seeth is for many days to come, and he prophesieth of the times
 that are far off. {12:28} Therefore say unto them, Thus saith the
 Lord GOD; There shall none of my words be prolonged any more, but the
 word which I have spoken shall be done, saith the Lord GOD.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -767,8 +753,7 @@ the hands of the wicked, that he should not return from his wicked way,
 by promising him life: {13:23} Therefore ye shall see no more vanity,
 nor divine divinations: for I will deliver my people out of your hand:
 and ye shall know that I am the LORD.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -840,8 +825,7 @@ even concerning all that I have brought upon it. {14:23} And they
 shall comfort you, when ye see their ways and their doings: and ye
 shall know that I have not done without cause all that I have done in
 it, saith the Lord GOD.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -862,8 +846,7 @@ against them; they shall go out from one fire, and another fire
 shall devour them; and ye shall know that I am the LORD, when I set
 my face against them. {15:8} And I will make the land desolate, because
 they have committed a trespass, saith the Lord GOD.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -1026,8 +1009,7 @@ that I am the LORD: {16:63} That thou mayest remember, and be
 confounded, and never open thy mouth any more because of thy shame,
 when I am pacified toward thee for all that thou hast done, saith the
 Lord GOD.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -1097,8 +1079,7 @@ have made the dry tree to flourish: I the LORD have brought down the
 high tree, have exalted the low tree, have dried up the green tree, and
 have made the dry tree to flourish: I the LORD have spoken and have
 done it.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -1188,8 +1169,7 @@ transgressed; and make you a new heart and a new spirit: for why will
 ye die, O house of Israel? {18:32} For I have no pleasure in the death
 of him that dieth, saith the Lord GOD: wherefore turn yourselves, and
 live ye.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -1223,8 +1203,7 @@ wilderness, in a dry and thirsty ground. {19:14} And fire is gone out
 of a rod of her branches, which hath devoured her fruit, so that she
 hath no strong rod to be a sceptre to rule. This is a lamentation,
 and shall be for a lamentation.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -1360,8 +1339,7 @@ shall not be quenched, and all faces from the south to the north shall
 be burned therein. {20:48} And all flesh shall see that I the LORD have
 kindled it: it shall not be quenched. {20:49} Then said I, Ah Lord GOD!
 they say of me, Doth he not speak parables?
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -1445,8 +1423,7 @@ my wrath, and deliver thee into the hand of brutish men, and skilful
 to destroy. {21:32} Thou shalt be for fuel to the fire; thy blood shall
 be in the midst of the land; thou shalt be no more remembered: for I
 the LORD have spoken it.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -1523,8 +1500,7 @@ should not destroy it: but I found none. {22:31} Therefore have I
 poured out mine indignation upon them; I have consumed them with the
 fire of my wrath: their own way have I recompensed upon their heads,
 saith the Lord GOD.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -1644,8 +1620,7 @@ fire. {23:48} Thus will I cause lewdness to cease out of the land, that
 all women may be taught not to do after your lewdness. {23:49} And they
 shall recompense your lewdness upon you, and ye shall bear the sins of
 your idols: and ye shall know that I am the Lord GOD.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -1712,8 +1687,7 @@ thee to hear it with thine ears? {24:27} In that day shall thy
 mouth be opened to him which is escaped, and thou shalt speak, and be
 no more dumb: and thou shalt be a sign unto them; and they shall know
 that I am the LORD.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -1763,8 +1737,7 @@ will cut off the Cherethims, and destroy the remnant of the sea coast.
 {25:17} And I will execute great vengeance upon them with furious
 rebukes; and they shall know that I am the LORD, when I shall lay my
 vengeance upon them.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -1827,8 +1800,7 @@ that thou be not inhabited; and I shall set glory in the land of the
 living; {26:21} I will make thee a terror, and thou shalt be no
 more: though thou be sought for, yet shalt thou never be found again,
 saith the Lord GOD.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -1908,8 +1880,7 @@ astonished at thee, and their kings shall be sore afraid, they shall be
 troubled in their countenance. {27:36} The merchants among the people
 shall hiss at thee; thou shalt be a terror, and never shalt be any
 more.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -1979,8 +1950,7 @@ And they shall dwell safely therein, and shall build houses, and plant
 vineyards; yea, they shall dwell with confidence, when I have executed
 judgments upon all those that despise them round about them; and they
 shall know that I am the LORD their God.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -2046,8 +2016,7 @@ wrought for me, saith the Lord GOD.
  {29:21} In that day will I cause the horn of the house of Israel to
 bud forth, and I will give thee the opening of the mouth in the midst
 of them; and they shall know that I am the LORD.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -2111,8 +2080,7 @@ hand of the king of Babylon, and he shall stretch it out upon the land
 of Egypt. {30:26} And I will scatter the Egyptians among the nations,
 and disperse them among the countries; and they shall know that I am
 the LORD.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -2172,8 +2140,7 @@ the trees of Eden? yet shalt thou be brought down with the trees of
 Eden unto the nether parts of the earth: thou shalt lie in the midst of
 the uncircumcised with them that be slain by the sword. This is
 Pharaoh and all his multitude, saith the Lord GOD.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -2265,8 +2232,7 @@ all his army slain by the sword, saith the Lord GOD. {32:32} For I have
 caused my terror in the land of the living: and he shall be laid in the
 midst of the uncircumcised with them that are slain with the sword,
 even Pharaoh and all his multitude, saith the Lord GOD.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -2360,8 +2326,7 @@ lovely song of one that hath a pleasant voice, and can play well on an
 instrument: for they hear thy words, but they do them not. {33:33} And
 when this cometh to pass, (lo, it will come,) then shall they know that
 a prophet hath been among them.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -2445,8 +2410,7 @@ that I the LORD their God am with them, and that they, even the
 house of Israel, are my people, saith the Lord GOD. {34:31} And ye my
 flock, the flock of my pasture, are men, and I am your God, saith
 the Lord GOD.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -2483,8 +2447,7 @@ As thou didst rejoice at the inheritance of the house of Israel,
 because it was desolate, so will I do unto thee: thou shalt be
 desolate, O mount Seir, and all Idumea, even all of it: and they
 shall know that I am the LORD.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -2588,8 +2551,7 @@ for them; I will increase them with men like a flock. {36:38} As the
 holy flock, as the flock of Jerusalem in her solemn feasts; so shall
 the waste cities be filled with flocks of men: and they shall know that
 I am the LORD.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -2665,8 +2627,7 @@ for evermore. {37:27} My tabernacle also shall be with them: yea, I
 will be their God, and they shall be my people. {37:28} And the heathen
 shall know that I the LORD do sanctify Israel, when my sanctuary shall
 be in the midst of them for evermore.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -2733,8 +2694,7 @@ him, and upon his bands, and upon the many people that are with him,
 an overflowing rain, and great hailstones, fire, and brimstone. {38:23}
 Thus will I magnify myself, and sanctify myself; and I will be known in
 the eyes of many nations, and they shall know that I am the LORD.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -2816,8 +2776,7 @@ caused them to be led into captivity among the heathen: but I have
 gathered them unto their own land, and have left none of them any more
 there. {39:29} Neither will I hide my face any more from them: for I
 have poured out my spirit upon the house of Israel, saith the Lord GOD.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -2956,8 +2915,7 @@ and three cubits on that side. {40:49} The length of the porch was
 twenty cubits, and the breadth eleven cubits; and he brought me by
 the steps whereby they went up to it: and there were pillars by the
 posts, one on this side, and another on that side.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -3027,8 +2985,7 @@ and there were thick planks upon the face of the porch without.
 {41:26} And there were narrow windows and palm trees on the one side
 and on the other side, on the sides of the porch, and upon the side
 chambers of the house, and thick planks.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -3084,8 +3041,7 @@ hundred reeds with the measuring reed. {42:20} He measured it by the
 four sides: it had a wall round about, five hundred reeds long, and
 five hundred broad, to make a separation between the sanctuary and the
 profane place.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -3164,8 +3120,7 @@ purge the altar and purify it; and they shall consecrate themselves.
 eighth day, and so forward, the priests shall make your burnt
 offerings upon the altar, and your peace offerings; and I will accept
 you, saith the Lord GOD.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -3258,8 +3213,7 @@ oblations, shall be the priest's: ye shall also give unto the priest
 the first of your dough, that he may cause the blessing to rest in
 thine house. {44:31} The priests shall not eat of any thing that is
 dead of itself, or torn, whether it be fowl or beast.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -3338,8 +3292,7 @@ a bullock, and an ephah for a ram, and an hin of oil for an ephah.
 shall he do the like in the feast of the seven days, according to the
 sin offering, according to the burnt offering, and according to the
 meat offering, and according to the oil.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -3416,8 +3369,7 @@ round about in them, round about them four, and it was made with
 boiling places under the rows round about. {46:24} Then said he unto
 me, These are the places of them that boil, where the ministers of
 the house shall boil the sacrifice of the people.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -3489,8 +3441,7 @@ as born in the country among the children of Israel; they shall have
 inheritance with you among the tribes of Israel. {47:23} And it shall
 come to pass, that in what tribe the stranger sojourneth, there shall
 ye give him his inheritance, saith the Lord GOD.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\

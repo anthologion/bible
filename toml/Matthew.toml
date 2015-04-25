@@ -1,7 +1,6 @@
 
-The Gospel According to St. Matthew
-
- """
+The Gospel According to St.[Book]
+title=Matthew
 
 [[Chapter]] #1
 text="""\
@@ -47,8 +46,7 @@ interpreted is, God with us. {1:24} Then Joseph being raised from sleep
 did as the angel of the Lord had bidden him, and took unto him his
 wife: {1:25} And knew her not till she had brought forth her firstborn
 son: and he called his name JESUS.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -106,8 +104,7 @@ notwithstanding, being warned of God in a dream, he turned aside into
 the parts of Galilee: {2:23} And he came and dwelt in a city called
 Nazareth: that it might be fulfilled which was spoken by the prophets,
 He shall be called a Nazarene.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -145,8 +142,7 @@ he was baptized, went up straightway out of the water: and, lo, the
 heavens were opened unto him, and he saw the Spirit of God descending
 like a dove, and lighting upon him: {3:17} And lo a voice from heaven,
 saying, This is my beloved Son, in whom I am well pleased.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -201,8 +197,7 @@ and those that had the palsy; and he healed them. {4:25} And there
 followed him great multitudes of people from Galilee, and from
 Decapolis, and from Jerusalem, and from Judaea, and from beyond
 Jordan.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -303,8 +298,7 @@ what reward have ye? do not even the publicans the same? {5:47} And if
 ye salute your brethren only, what do ye more [than others?] do not
 even the publicans so? {5:48} Be ye therefore perfect, even as your
 Father which is in heaven is perfect.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -377,8 +371,7 @@ the kingdom of God, and his righteousness; and all these things shall
 be added unto you. {6:34} Take therefore no thought for the morrow: for
 the morrow shall take thought for the things of itself. Sufficient unto
 the day is the evil thereof.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -440,8 +433,7 @@ came, and the winds blew, and beat upon that house; and it fell: and
 great was the fall of it. {7:28} And it came to pass, when Jesus had
 ended these sayings, the people were astonished at his doctrine: {7:29}
 For he taught them as one having authority, and not as the scribes.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -514,8 +506,7 @@ kept them fled, and went their ways into the city, and told every
 thing, and what was befallen to the possessed of the devils. {8:34}
 And, behold, the whole city came out to meet Jesus: and when they saw
 him, they besought him that he would depart out of their coasts.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -600,8 +591,7 @@ having no shepherd. {9:37} Then saith he unto his disciples, The
 harvest truly is plenteous, but the labourers are few; {9:38} Pray
 ye therefore the Lord of the harvest, that he will send forth labourers
 into his harvest.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -681,8 +671,7 @@ receiveth a righteous man in the name of a righteous man shall receive
 a righteous man's reward. {10:42} And whosoever shall give to drink
 unto one of these little ones a cup of cold water only in the name of
 a disciple, verily I say unto you, he shall in no wise lose his reward.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -747,8 +736,7 @@ whomsoever the Son will reveal him.
 I will give you rest. {11:29} Take my yoke upon you, and learn of me;
 for I am meek and lowly in heart: and ye shall find rest unto your
 souls. {11:30} For my yoke is easy, and my burden is light.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -857,8 +845,7 @@ he stretched forth his hand toward his disciples, and said, Behold my
 mother and my brethren! {12:50} For whosoever shall do the will of my
 Father which is in heaven, the same is my brother, and sister, and
 mother.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -985,8 +972,7 @@ hath this man all these things? {13:57} And they were offended in
 him. But Jesus said unto them, A prophet is not without honour, save in
 his own country, and in his own house. {13:58} And he did not many
 mighty works there because of their unbelief.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -1057,8 +1043,7 @@ him, they sent out into all that country round about, and brought unto
 him all that were diseased; {14:36} And besought him that they might
 only touch the hem of his garment: and as many as touched were made
 perfectly whole.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -1132,8 +1117,7 @@ they did all eat, and were filled: and they took up of the broken
 meat that was left seven baskets full. {15:38} And they that did eat
 were four thousand men, beside women and children. {15:39} And he sent
 away the multitude, and took ship, and came into the coasts of Magdala,
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -1198,8 +1182,7 @@ man shall come in the glory of his Father with his angels; and then he
 shall reward every man according to his works. {16:28} Verily I say
 unto you, There be some standing here, which shall not taste of death,
 till they see the Son of man coming in his kingdom.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -1259,8 +1242,7 @@ should offend them, go thou to the sea, and cast an hook, and take up
 the fish that first cometh up; and when thou hast opened his mouth,
 thou shalt find a piece of money: that take, and give unto them for me
 and thee.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -1339,8 +1321,7 @@ on thee? {18:34} And his lord was wroth, and delivered him to the
 tormentors, till he should pay all that was due unto him. {18:35} So
 likewise shall my heavenly Father do also unto you, if ye from your
 hearts forgive not every one his brother their trespasses.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -1414,8 +1395,7 @@ houses, or brethren, or sisters, or father, or mother, or wife, or
 children, or lands, for my name's sake, shall receive an hundredfold,
 and shall inherit everlasting life. {19:30} But many that are first
 shall be last; and the last shall be first.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -1485,8 +1465,7 @@ still, and called them, and said, What will ye that I shall do unto
 you? {20:33} They say unto him, Lord, that our eyes may be opened.
 {20:34} So Jesus had compassion on them, and touched their eyes: and
 immediately their eyes received sight, and they followed him.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -1588,8 +1567,7 @@ powder. {21:45} And when the chief priests and Pharisees had heard his
 parables, they perceived that he spake of them. {21:46} But when they
 sought to lay hands on him, they feared the multitude, because they
 took him for a prophet.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -1671,8 +1649,7 @@ my Lord, Sit thou on my right hand, till I make thine enemies thy
 footstool? {22:45} If David then call him Lord, how is he his son?
 {22:46} And no man was able to answer him a word, neither durst any
 man from that day forth ask him any more questions.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -1751,8 +1728,7 @@ her chickens under her wings, and ye would not! {23:38} Behold, your
 house is left unto you desolate. {23:39} For I say unto you, Ye shall
 not see me henceforth, till ye shall say, Blessed is he that cometh
 in the name of the Lord.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -1848,8 +1824,7 @@ The lord of that servant shall come in a day when he looketh not for
 him, and in an hour that he is not aware of, {24:51} And shall cut
 him asunder, and appoint him his portion with the hypocrites: there
 shall be weeping and gnashing of teeth.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -1935,8 +1910,7 @@ and did not minister unto thee? {25:45} Then shall he answer them,
 saying, Verily I say unto you, Inasmuch as ye did it not to one of
 the least of these, ye did it not to me. {25:46} And these shall go
 away into everlasting punishment: but the righteous into life eternal.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -2083,8 +2057,7 @@ bewrayeth thee. {26:74} Then began he to curse and to swear, saying,
 I know not the man. And immediately the cock crew. {26:75} And Peter
 remembered the word of Jesus, which said unto him, Before the cock
 crow, thou shalt deny me thrice. And he went out, and wept bitterly.
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -2213,8 +2186,7 @@ from the dead: so the last error shall be worse than the first. {27:65}
 Pilate said unto them, Ye have a watch: go your way, make it as sure
 as ye can. {27:66} So they went, and made the sepulchre sure, sealing
 the stone, and setting a watch.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\

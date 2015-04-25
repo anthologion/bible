@@ -1,7 +1,5 @@
-
-The Second Book of Esdras
-
- """
+[Book]
+title=The Second Book of Esdras
 
 [[Chapter]] #1
 text="""\
@@ -141,8 +139,7 @@ Oseas, Amos, and Micheas, Joel, Abdias, and Jonas,
 
  {1:40} Nahum, and Abacuc, Sophonias, Aggeus, Zachary, and Malachy,
 which is called also an angel of the Lord.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -303,8 +300,7 @@ that stood so stiffly for the name of the Lord.
  {2:48} Then the angel said unto me, Go thy way, and tell my people
 what manner of things, and how great wonders of the Lord thy God, thou
 hast seen.
-
- """
+"""
 
 [[Chapter]] #3
 text="""\
@@ -428,8 +424,7 @@ sinned in thy sight? or what people have so kept thy commandments?
 
  {3:36} Thou shalt find that Israel by name hath kept thy precepts;
 but not the heathen.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -622,8 +617,7 @@ that time? or what shall happen in those days?
  {4:52} He answered me, and said, As for the tokens whereof thou
 askest me, I may tell thee of them in part: but as touching thy life, I
 am not sent to shew thee; for I do not know it.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -823,8 +817,7 @@ of youth.
 
  {5:56} Then said I, Lord, I beseech thee, if I have found favour in
 thy sight, shew thy servant by whom thou visitest thy creature.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
@@ -1029,8 +1022,7 @@ only begotten, and thy fervent lover, are given into their hands.
 
  {6:59} If the world now be made for our sakes, why do we not possess
 an inheritance with the world? how long shall this endure?
-
- """
+"""
 
 [[Chapter]] #7
 text="""\
@@ -1257,8 +1249,7 @@ with his word, and put out the multitude of contentions,
 
  {7:70} There should be very few left peradventure in an innumerable
 multitude.
-
- """
+"""
 
 [[Chapter]] #8
 text="""\
@@ -1470,8 +1461,7 @@ and a few like thee. Then answered I and said,
  {8:63} Behold, O Lord, now hast thou shewed me the multitude of the
 wonders, which thou wilt begin to do in the last times: but at what
 time, thou hast not shewed me.
-
- """
+"""
 
 [[Chapter]] #9
 text="""\
@@ -1632,8 +1622,7 @@ great honour unto the Almighty.
 
  {9:47} So when he grew up, and came to the time that he should have
 a wife, I made a feast.
-
- """
+"""
 
 [[Chapter]] #0
 text="""\
@@ -1836,8 +1825,7 @@ the Highest; and so are but few.
 things, which the most High will do unto them that dwell upon the earth
 in the last days. So I slept that night and another, like as he
 commanded me.
-
- """
+"""
 
 [[Chapter]] #1
 text="""\
@@ -1988,8 +1976,7 @@ claws, nor all thy vain body:
  {11:46} That all the earth may be refreshed, and may return, being
 delivered from thy violence, and that she may hope for the judgment and
 mercy of him that made her.
-
- """
+"""
 
 [[Chapter]] #2
 text="""\
@@ -2162,9 +2149,8 @@ commanded them:
 
  {12:51} But I remained still in the field seven days, as the angel
 commanded me; and did eat only in those days of the flowers of the
-field, and had my meat of the herbs
-
- """
+field,[Book]
+title=and had my meat of the herbs
 
 [[Chapter]] #3
 text="""\
@@ -2364,8 +2350,7 @@ greatly unto the most High because of his wonders which he did in time;
 
  {13:58} And because he governeth the same, and such things as fall
 in their seasons: and there I sat three days.
-
- """
+"""
 
 [[Chapter]] #4
 text="""\
@@ -2522,8 +2507,7 @@ only to such as be wise among the people:
 wisdom, and the stream of knowledge.
 
  {14:48} And I did so.
-
- """
+"""
 
 [[Chapter]] #5
 text="""\
@@ -2739,8 +2723,7 @@ fire.
 
  {15:63} Thy children shall they carry away captive, and, look, what
 thou hast, they shall spoil it, and mar the beauty of thy face.
-
- """
+"""
 
 [[Chapter]] #6
 text="""\
