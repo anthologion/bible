@@ -8,7 +8,7 @@ do
 # 4) Removes bracketed words
 cat $f \
 | perl -0777pe 's/\r\n/\n/g' \
-| perl -pe 's/(\{(\d)+:1\}) /"""\n\n[[Chapter]] #$2\ntext="""\\\n$1 /' \
+| perl -pe 's/(\{(\d+):1\}) /"""\n\n[[Chapter]] #$2\ntext="""\\\n$1 /' \
 | perl -pe 's/[ \t][ \t]+/ /' \
 | perl -0777pe 's/([\s,.])\[([:,.;\w\s]+)\]([\s,.])/$1$2$3/g' \
 | perl -0777pe 's/\s([\w ]+)\s+"""/[Book]\ntitle="$1"/sg' \

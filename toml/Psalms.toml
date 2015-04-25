@@ -307,7 +307,7 @@ text="""\
 [Book]
 title="Psalm 10"
 
-[[Chapter]] #0
+[[Chapter]] #10
 text="""\
 {10:1} Why standest thou afar off, O LORD? why hidest thou thyself
  in times of trouble?
@@ -356,7 +356,7 @@ To the chief Musician, A Psalm of David.
 
 """
 
-[[Chapter]] #1
+[[Chapter]] #11
 text="""\
 {11:1} In the LORD put I my trust: How say ye to my soul, Flee as
  a bird to your mountain?
@@ -381,7 +381,7 @@ To the chief Musician upon Sheminith, A Psalm of David.
 
 """
 
-[[Chapter]] #2
+[[Chapter]] #12
 text="""\
 {12:1} Help, LORD; for the godly man ceaseth; for the faithful fail
  from among the children of men.
@@ -408,7 +408,7 @@ To the chief Musician, A Psalm of David.
 
 """
 
-[[Chapter]] #3
+[[Chapter]] #13
 text="""\
 {13:1} How long wilt thou forget me, O LORD? for ever? how long wilt
  thou hide thy face from me?
@@ -431,7 +431,7 @@ To the chief Musician, A Psalm of David.
 
 """
 
-[[Chapter]] #4
+[[Chapter]] #14
 text="""\
 {14:1} The fool hath said in his heart, There is no God. They are
  corrupt, they have done abominable works, there is none that
@@ -458,7 +458,7 @@ A Psalm of David.
 
 """
 
-[[Chapter]] #5
+[[Chapter]] #15
 text="""\
 {15:1} LORD, who shall abide in thy tabernacle? who shall dwell in
  thy holy hill?
@@ -481,7 +481,7 @@ Michtam of David.
 
 """
 
-[[Chapter]] #6
+[[Chapter]] #16
 text="""\
 {16:1} Preserve me, O God: for in thee do I put my trust.
 {16:2} O my soul, thou hast said unto the LORD, Thou art my Lord:
@@ -515,7 +515,7 @@ A Prayer of David.
 
 """
 
-[[Chapter]] #7
+[[Chapter]] #17
 text="""\
 {17:1} Hear the right, O LORD, attend unto my cry, give ear unto my
  prayer, that goeth not out of feigned lips.
@@ -562,7 +562,7 @@ Saul: And he said,
 
 """
 
-[[Chapter]] #8
+[[Chapter]] #18
 text="""\
 {18:1} I will love thee, O LORD, my strength.
 {18:2} The LORD is my rock, and my fortress, and my deliverer; my
@@ -675,7 +675,7 @@ To the chief Musician, A Psalm of David.
 
 """
 
-[[Chapter]] #9
+[[Chapter]] #19
 text="""\
 {19:1} The heavens declare the glory of God; and the firmament
  sheweth his handywork.
@@ -717,7 +717,7 @@ To the chief Musician, A Psalm of David.
 
 """
 
-[[Chapter]] #0
+[[Chapter]] #20
 text="""\
 {20:1} The LORD hear thee in the day of trouble; the name of the God
  of Jacob defend thee;
@@ -745,7 +745,7 @@ To the chief Musician, A Psalm of David.
 
 """
 
-[[Chapter]] #1
+[[Chapter]] #21
 text="""\
 {21:1} The king shall joy in thy strength, O LORD; and in thy
  salvation how greatly shall he rejoice!
@@ -784,7 +784,7 @@ To the chief Musician upon Aijeleth Shahar, A Psalm of David.
 
 """
 
-[[Chapter]] #2
+[[Chapter]] #22
 text="""\
 {22:1} My God, my God, why hast thou forsaken me? why art thou so
  far from helping me, and from the words of my roaring?
@@ -858,7 +858,7 @@ A Psalm of David.
 
 """
 
-[[Chapter]] #3
+[[Chapter]] #23
 text="""\
 {23:1} The LORD is my shepherd; I shall not want.
 {23:2} He maketh me to lie down in green pastures: he leadeth me beside
@@ -881,7 +881,7 @@ A Psalm of David.
 
 """
 
-[[Chapter]] #4
+[[Chapter]] #24
 text="""\
 {24:1} The earth is the LORD'S, and the fulness thereof; the
  world, and they that dwell therein.
@@ -912,7 +912,7 @@ A Psalm of David.
 
 """
 
-[[Chapter]] #5
+[[Chapter]] #25
 text="""\
 {25:1} Unto thee, O LORD, do I lift up my soul.
 {25:2} O my God, I trust in thee: let me not be ashamed, let not mine
@@ -963,7 +963,7 @@ A Psalm of David.
 
 """
 
-[[Chapter]] #6
+[[Chapter]] #26
 text="""\
 {26:1} Judge me, O LORD; for I have walked in mine integrity: I have
  trusted also in the LORD; therefore I shall not slide.
@@ -996,7 +996,7 @@ A Psalm of David.
 
 """
 
-[[Chapter]] #7
+[[Chapter]] #27
 text="""\
 {27:1} The LORD is my light and my salvation; whom shall I fear?
  the LORD is the strength of my life; of whom shall I be afraid?
@@ -1042,7 +1042,7 @@ A Psalm of David.
 
 """
 
-[[Chapter]] #8
+[[Chapter]] #28
 text="""\
 {28:1} Unto thee will I cry, O LORD my rock; be not silent to me:
  lest, if thou be silent to me, I become like them that go down
@@ -1075,7 +1075,7 @@ A Psalm of David.
 
 """
 
-[[Chapter]] #9
+[[Chapter]] #29
 text="""\
 {29:1} Give unto the LORD, O ye mighty, give unto the LORD glory and
  strength.
@@ -1108,7 +1108,7 @@ A Psalm and Song at the dedication of the house of David.
 
 """
 
-[[Chapter]] #0
+[[Chapter]] #30
 text="""\
 {30:1} I will extol thee, O LORD; for thou hast lifted me up, and
  hast not made my foes to rejoice over me.
@@ -1139,7 +1139,7 @@ To the chief Musician, A Psalm of David.
 
 """
 
-[[Chapter]] #1
+[[Chapter]] #31
 text="""\
 {31:1} In thee, O LORD, do I put my trust; let me never be ashamed:
  deliver me in thy righteousness.
@@ -1203,7 +1203,7 @@ A Psalm of David, Maschil.
 
 """
 
-[[Chapter]] #2
+[[Chapter]] #32
 text="""\
 {32:1} Blessed is he whose transgression is forgiven, whose
  sin is covered.
@@ -1234,7 +1234,7 @@ text="""\
 [Book]
 title="Psalm 33"
 
-[[Chapter]] #3
+[[Chapter]] #33
 text="""\
 {33:1} Rejoice in the LORD, O ye righteous: for praise is comely for
  the upright.
@@ -1285,7 +1285,7 @@ drove him away, and he departed.
 
 """
 
-[[Chapter]] #4
+[[Chapter]] #34
 text="""\
 {34:1} I will bless the LORD at all times: his praise shall
  continually be in my mouth.
@@ -1336,7 +1336,7 @@ A Psalm of David.
 
 """
 
-[[Chapter]] #5
+[[Chapter]] #35
 text="""\
 {35:1} Plead my cause, O LORD, with them that strive with me:
  fight against them that fight against me.
@@ -1409,7 +1409,7 @@ To the chief Musician, A Psalm of David, the servant of the LORD.
 
 """
 
-[[Chapter]] #6
+[[Chapter]] #36
 text="""\
 {36:1} The transgression of the wicked saith within my heart, that
  there is no fear of God before his eyes.
@@ -1445,7 +1445,7 @@ A Psalm of David.
 
 """
 
-[[Chapter]] #7
+[[Chapter]] #37
 text="""\
 {37:1} Fret not thyself because of evildoers, neither be thou
  envious against the workers of iniquity.
@@ -1538,7 +1538,7 @@ A Psalm of David, to bring to remembrance.
 
 """
 
-[[Chapter]] #8
+[[Chapter]] #38
 text="""\
 {38:1} O LORD, rebuke me not in thy wrath: neither chasten me in thy
  hot displeasure.
@@ -1589,7 +1589,7 @@ To the chief Musician, even to Jeduthun, A Psalm of David.
 
 """
 
-[[Chapter]] #9
+[[Chapter]] #39
 text="""\
 {39:1} I said, I will take heed to my ways, that I sin not with my
  tongue: I will keep my mouth with a bridle, while the wicked is
@@ -1629,7 +1629,7 @@ To the chief Musician, A Psalm of David.
 
 """
 
-[[Chapter]] #0
+[[Chapter]] #40
 text="""\
 {40:1} I waited patiently for the LORD; and he inclined unto me, and
  heard my cry.
@@ -1681,7 +1681,7 @@ To the chief Musician, A Psalm of David.
 
 """
 
-[[Chapter]] #1
+[[Chapter]] #41
 text="""\
 {41:1} Blessed is he that considereth the poor: the LORD will
  deliver him in time of trouble.
@@ -1721,7 +1721,7 @@ To the chief Musician, Maschil, for the sons of Korah.
 
 """
 
-[[Chapter]] #2
+[[Chapter]] #42
 text="""\
 {42:1} As the hart panteth after the water brooks, so panteth my
  soul after thee, O God.
@@ -1755,7 +1755,7 @@ text="""\
 [Book]
 title="Psalm 43"
 
-[[Chapter]] #3
+[[Chapter]] #43
 text="""\
 {43:1} Judge me, O God, and plead my cause against an ungodly nation: O
  deliver me from the deceitful and unjust man.
@@ -1777,7 +1777,7 @@ To the chief Musician for the sons of Korah, Maschil.
 
 """
 
-[[Chapter]] #4
+[[Chapter]] #44
 text="""\
 {44:1} We have heard with our ears, O God, our fathers have told us,
  what work thou didst in their days, in the times of old.
@@ -1841,7 +1841,7 @@ A Song of loves.
 
 """
 
-[[Chapter]] #5
+[[Chapter]] #45
 text="""\
 {45:1} My heart is inditing a good matter: I speak of the things
  which I have made touching the king: my tongue is the pen of a
@@ -1890,7 +1890,7 @@ To the chief Musician for the sons of Korah, A Song upon Alamoth.
 
 """
 
-[[Chapter]] #6
+[[Chapter]] #46
 text="""\
 {46:1} God is our refuge and strength, a very present help in
  trouble.
@@ -1924,7 +1924,7 @@ To the chief Musician, A Psalm for the sons of Korah.
 
 """
 
-[[Chapter]] #7
+[[Chapter]] #47
 text="""\
 {47:1} O clap your hands, all ye people; shout unto God with the
  voice of triumph.
@@ -1954,7 +1954,7 @@ A Song and Psalm for the sons of Korah.
 
 """
 
-[[Chapter]] #8
+[[Chapter]] #48
 text="""\
 {48:1} Great is the LORD, and greatly to be praised in the city of
  our God, in the mountain of his holiness.
@@ -1991,7 +1991,7 @@ To the chief Musician, A Psalm for the sons of Korah.
 
 """
 
-[[Chapter]] #9
+[[Chapter]] #49
 text="""\
 {49:1} Hear this, all ye people; give ear, all ye inhabitants of
  the world:
@@ -2043,7 +2043,7 @@ A Psalm of Asaph.
 
 """
 
-[[Chapter]] #0
+[[Chapter]] #50
 text="""\
 {50:1} The mighty God, even the LORD, hath spoken, and called the
  earth from the rising of the sun unto the going down thereof.
@@ -2101,7 +2101,7 @@ unto him, after he had gone in to Bathsheba.
 
 """
 
-[[Chapter]] #1
+[[Chapter]] #51
 text="""\
 {51:1} Have mercy upon me, O God, according to thy lovingkindness:
  according unto the multitude of thy tender mercies blot out my
@@ -2153,7 +2153,7 @@ house of Ahimelech.
 
 """
 
-[[Chapter]] #2
+[[Chapter]] #52
 text="""\
 {52:1} Why boastest thou thyself in mischief, O mighty man? the
  goodness of God [endureth ]continually.
@@ -2182,7 +2182,7 @@ To the chief Musician upon Mahalath, Maschil, A Psalm of David.
 
 """
 
-[[Chapter]] #3
+[[Chapter]] #53
 text="""\
 {53:1} The fool hath said in his heart, There is no God. Corrupt
  are they, and have done abominable iniquity: there is none that
@@ -2209,7 +2209,7 @@ the Ziphims came and said to Saul, Doth not David hide himself with us?
 
 """
 
-[[Chapter]] #4
+[[Chapter]] #54
 text="""\
 {54:1} Save me, O God, by thy name, and judge me by thy strength.
 {54:2} Hear my prayer, O God; give ear to the words of my mouth.
@@ -2232,7 +2232,7 @@ To the chief Musician on Neginoth, Maschil, A Psalm of David.
 
 """
 
-[[Chapter]] #5
+[[Chapter]] #55
 text="""\
 {55:1} Give ear to my prayer, O God; and hide not thyself from my
  supplication.
@@ -2293,7 +2293,7 @@ the Philistines took him in Gath.
 
 """
 
-[[Chapter]] #6
+[[Chapter]] #56
 text="""\
 {56:1} Be merciful unto me, O God: for man would swallow me up; he
  fighting daily oppresseth me.
@@ -2330,7 +2330,7 @@ Saul in the cave.
 
 """
 
-[[Chapter]] #7
+[[Chapter]] #57
 text="""\
 {57:1} Be merciful unto me, O God, be merciful unto me: for my soul
  trusteth in thee: yea, in the shadow of thy wings will I make my
@@ -2367,7 +2367,7 @@ To the chief Musician, Altaschith, Michtam of David.
 
 """
 
-[[Chapter]] #8
+[[Chapter]] #58
 text="""\
 {58:1} Do ye indeed speak righteousness, O congregation? do ye judge
  uprightly, O ye sons of men?
@@ -2403,7 +2403,7 @@ and they watched the house to kill him.
 
 """
 
-[[Chapter]] #9
+[[Chapter]] #59
 text="""\
 {59:1} Deliver me from mine enemies, O my God: defend me from them
  that rise up against me.
@@ -2454,7 +2454,7 @@ returned, and smote of Edom in the valley of salt twelve thousand.
 
 """
 
-[[Chapter]] #0
+[[Chapter]] #60
 text="""\
 {60:1} O God, thou hast cast us off, thou hast scattered us, thou
  hast been displeased; O turn thyself to us again.
@@ -2488,7 +2488,7 @@ To the chief Musician upon Neginah, A Psalm of David.
 
 """
 
-[[Chapter]] #1
+[[Chapter]] #61
 text="""\
 {61:1} Hear my cry, O God; attend unto my prayer.
 {61:2} From the end of the earth will I cry unto thee, when my heart is
@@ -2514,7 +2514,7 @@ To the chief Musician, to Jeduthun, A Psalm of David.
 
 """
 
-[[Chapter]] #2
+[[Chapter]] #62
 text="""\
 {62:1} Truly my soul waiteth upon God: from him cometh my
  salvation.
@@ -2552,7 +2552,7 @@ A Psalm of David, when he was in the wilderness of Judah.
 
 """
 
-[[Chapter]] #3
+[[Chapter]] #63
 text="""\
 {63:1} O God, thou art my God; early will I seek thee: my soul
  thirsteth for thee, my flesh longeth for thee in a dry and
@@ -2585,7 +2585,7 @@ To the chief Musician, A Psalm of David.
 
 """
 
-[[Chapter]] #4
+[[Chapter]] #64
 text="""\
 {64:1} Hear my voice, O God, in my prayer: preserve my life from
  fear of the enemy.
@@ -2617,7 +2617,7 @@ To the chief Musician, A Psalm and Song of David.
 
 """
 
-[[Chapter]] #5
+[[Chapter]] #65
 text="""\
 {65:1} Praise waiteth for thee, O God, in Sion: and unto thee shall
  the vow be performed.
@@ -2659,7 +2659,7 @@ To the chief Musician, A Song or Psalm.
 
 """
 
-[[Chapter]] #6
+[[Chapter]] #66
 text="""\
 {66:1} Make a joyful noise unto God, all ye lands:
 {66:2} Sing forth the honour of his name: make his praise glorious.
@@ -2709,7 +2709,7 @@ To the chief Musician on Neginoth, A Psalm or Song.
 
 """
 
-[[Chapter]] #7
+[[Chapter]] #67
 text="""\
 {67:1} God be merciful unto us, and bless us; and cause his face
  to shine upon us; Selah.
@@ -2733,7 +2733,7 @@ To the chief Musician, A Psalm or Song of David.
 
 """
 
-[[Chapter]] #8
+[[Chapter]] #68
 text="""\
 {68:1} Let God arise, let his enemies be scattered: let them also
  that hate him flee before him.
@@ -2824,7 +2824,7 @@ To chief Musician upon Shoshannim, A Psalm of David.
 
 """
 
-[[Chapter]] #9
+[[Chapter]] #69
 text="""\
 {69:1} Save me, O God; for the waters are come in unto my soul.
 {69:2} I sink in deep mire, where there is no standing: I am come
@@ -2910,7 +2910,7 @@ To the chief Musician, A Psalm of David, to bring to remembrance.
 
 """
 
-[[Chapter]] #0
+[[Chapter]] #70
 text="""\
 {70:1} Make haste, O God, to deliver me; make haste to help me, O
  LORD.
@@ -2928,7 +2928,7 @@ text="""\
 [Book]
 title="Psalm 71"
 
-[[Chapter]] #1
+[[Chapter]] #71
 text="""\
 {71:1} In thee, O LORD, do I put my trust: let me never be put to
  confusion.
@@ -2991,7 +2991,7 @@ A Psalm for Solomon.
 
 """
 
-[[Chapter]] #2
+[[Chapter]] #72
 text="""\
 {72:1} Give the king thy judgments, O God, and thy righteousness
  unto the king's son.
@@ -3045,7 +3045,7 @@ A Psalm of Asaph.
 
 """
 
-[[Chapter]] #3
+[[Chapter]] #73
 text="""\
 {73:1} Truly God is good to Israel, even to such as are of a
  clean heart.
@@ -3110,7 +3110,7 @@ Maschil of Asaph.
 
 """
 
-[[Chapter]] #4
+[[Chapter]] #74
 text="""\
 {74:1} O God, why hast thou cast us off for ever? why doth thine
  anger smoke against the sheep of thy pasture?
@@ -3168,7 +3168,7 @@ To the chief Musician, Altaschith, A Psalm or Song of Asaph.
 
 """
 
-[[Chapter]] #5
+[[Chapter]] #75
 text="""\
 {75:1} Unto thee, O God, do we give thanks, unto thee do we give
  thanks: for that thy name is near thy wondrous works declare.
@@ -3199,7 +3199,7 @@ To the chief Musician on Neginoth, A Psalm or Song of Asaph.
 
 """
 
-[[Chapter]] #6
+[[Chapter]] #76
 text="""\
 {76:1} In Judah is God known: his name is great in Israel.
 {76:2} In Salem also is his tabernacle, and his dwelling place in Zion.
@@ -3232,7 +3232,7 @@ To the chief Musician, to Jeduthun, A Psalm of Asaph.
 
 """
 
-[[Chapter]] #7
+[[Chapter]] #77
 text="""\
 {77:1} I cried unto God with my voice, even unto God with my
  voice; and he gave ear unto me.
@@ -3281,7 +3281,7 @@ Maschil of Asaph.
 
 """
 
-[[Chapter]] #8
+[[Chapter]] #78
 text="""\
 {78:1} Give ear, O my people, to my law: incline your ears to the
  words of my mouth.
@@ -3439,7 +3439,7 @@ A Psalm of Asaph.
 
 """
 
-[[Chapter]] #9
+[[Chapter]] #79
 text="""\
 {79:1} O God, the heathen are come into thine inheritance; thy holy
  temple have they defiled; they have laid Jerusalem on heaps.
@@ -3478,7 +3478,7 @@ To the chief Musician upon Shoshannim-Eduth, A Psalm of Asaph.
 
 """
 
-[[Chapter]] #0
+[[Chapter]] #80
 text="""\
 {80:1} Give ear, O Shepherd of Israel, thou that leadest Joseph like
  a flock; thou that dwellest between the cherubims, shine forth.
@@ -3527,7 +3527,7 @@ To the chief Musician upon Gittith, a Psalm of Asaph.
 
 """
 
-[[Chapter]] #1
+[[Chapter]] #81
 text="""\
 {81:1} Sing aloud unto God our strength: make a joyful noise unto
  the God of Jacob.
@@ -3572,7 +3572,7 @@ A Psalm of Asaph.
 
 """
 
-[[Chapter]] #2
+[[Chapter]] #82
 text="""\
 {82:1} God standeth in the congregation of the mighty; he judgeth
  among the gods.
@@ -3598,7 +3598,7 @@ A Song or Psalm of Asaph.
 
 """
 
-[[Chapter]] #3
+[[Chapter]] #83
 text="""\
 {83:1} Keep not thou silence, O God: hold not thy peace, and be not
  still, O God.
@@ -3644,7 +3644,7 @@ To the chief Musician upon Gittith, A Psalm for the sons of Korah.
 
 """
 
-[[Chapter]] #4
+[[Chapter]] #84
 text="""\
 {84:1} How amiable are thy tabernacles, O LORD of hosts!
 {84:2} My soul longeth, yea, even fainteth for the courts of the LORD:
@@ -3680,7 +3680,7 @@ To the chief Musician, A Psalm for the sons of Korah.
 
 """
 
-[[Chapter]] #5
+[[Chapter]] #85
 text="""\
 {85:1} LORD, thou hast been favourable unto thy land: thou hast
  brought back the captivity of Jacob.
@@ -3717,7 +3717,7 @@ A Prayer of David.
 
 """
 
-[[Chapter]] #6
+[[Chapter]] #86
 text="""\
 {86:1} Bow down thine ear, O LORD, hear me: for I am poor and
  needy.
@@ -3763,7 +3763,7 @@ A Psalm or Song for the sons of Korah.
 
 """
 
-[[Chapter]] #7
+[[Chapter]] #87
 text="""\
 {87:1} His foundation is in the holy mountains.
 {87:2} The LORD loveth the gates of Zion more than all the dwellings of
@@ -3788,7 +3788,7 @@ Mahalath Leannoth, Maschil of Heman the Ezrahite.
 
 """
 
-[[Chapter]] #8
+[[Chapter]] #88
 text="""\
 {88:1} O LORD God of my salvation, I have cried day and night
  before thee:
@@ -3833,7 +3833,7 @@ Maschil of Ethan the Ezrahite.
 
 """
 
-[[Chapter]] #9
+[[Chapter]] #89
 text="""\
 {89:1} I will sing of the mercies of the LORD for ever: with my
  mouth will I make known thy faithfulness to all generations.
@@ -3946,7 +3946,7 @@ A Prayer of Moses the man of God.
 
 """
 
-[[Chapter]] #0
+[[Chapter]] #90
 text="""\
 {90:1} LORD, thou hast been our dwelling place in all generations.
 {90:2} Before the mountains were brought forth, or ever thou hadst
@@ -3989,7 +3989,7 @@ text="""\
 [Book]
 title="Psalm 91"
 
-[[Chapter]] #1
+[[Chapter]] #91
 text="""\
 {91:1} He that dwelleth in the secret place of the most High shall
  abide under the shadow of the Almighty.
@@ -4031,7 +4031,7 @@ A Psalm or Song for the sabbath day.
 
 """
 
-[[Chapter]] #2
+[[Chapter]] #92
 text="""\
 {92:1} It is a good thing to give thanks unto the LORD, and to
  sing praises unto thy name, O most High:
@@ -4066,7 +4066,7 @@ text="""\
 [Book]
 title="Psalm 93"
 
-[[Chapter]] #3
+[[Chapter]] #93
 text="""\
 {93:1} The LORD reigneth, he is clothed with majesty; the LORD is
  clothed with strength, wherewith he hath girded himself: the
@@ -4083,7 +4083,7 @@ text="""\
 [Book]
 title="Psalm 94"
 
-[[Chapter]] #4
+[[Chapter]] #94
 text="""\
 {94:1} O LORD God, to whom vengeance belongeth; O God, to whom
  vengeance belongeth, shew thyself.
@@ -4133,7 +4133,7 @@ text="""\
 [Book]
 title="Psalm 95"
 
-[[Chapter]] #5
+[[Chapter]] #95
 text="""\
 {95:1} O come, let us sing unto the LORD: let us make a joyful noise to
  the rock of our salvation.
@@ -4160,7 +4160,7 @@ text="""\
 [Book]
 title="Psalm 96"
 
-[[Chapter]] #6
+[[Chapter]] #96
 text="""\
 {96:1} O sing unto the LORD a new song: sing unto the LORD, all the
  earth.
@@ -4194,7 +4194,7 @@ text="""\
 [Book]
 title="Psalm 97"
 
-[[Chapter]] #7
+[[Chapter]] #97
 text="""\
 {97:1} The LORD reigneth; let the earth rejoice; let the multitude of
  isles be glad thereof.
@@ -4228,7 +4228,7 @@ A Psalm.
 
 """
 
-[[Chapter]] #8
+[[Chapter]] #98
 text="""\
 {98:1} O sing unto the LORD a new song; for he hath done marvellous
  things: his right hand, and his holy arm, hath gotten him the
@@ -4255,7 +4255,7 @@ text="""\
 [Book]
 title="Psalm 99"
 
-[[Chapter]] #9
+[[Chapter]] #99
 text="""\
 {99:1} The LORD reigneth; let the people tremble: he sitteth between
  the cherubims; let the earth be moved.
@@ -4284,7 +4284,7 @@ A Psalm of praise.
 
 """
 
-[[Chapter]] #0
+[[Chapter]] #100
 text="""\
 {100:1} Make a joyful noise unto the LORD, all ye lands.
 {100:2} Serve the LORD with gladness: come before his presence with
@@ -4305,7 +4305,7 @@ A Psalm of David.
 
 """
 
-[[Chapter]] #1
+[[Chapter]] #101
 text="""\
 {101:1} I will sing of mercy and judgment: unto thee, O LORD, will I
  sing.
@@ -4334,7 +4334,7 @@ complaint before the LORD.
 
 """
 
-[[Chapter]] #2
+[[Chapter]] #102
 text="""\
 {102:1} Hear my prayer, O LORD, and let my cry come unto thee.
 {102:2} Hide not thy face from me in the day when I am in trouble;
@@ -4399,7 +4399,7 @@ A Psalm of David.
 
 """
 
-[[Chapter]] #3
+[[Chapter]] #103
 text="""\
 {103:1} Bless the LORD, O my soul: and all that is within me,
  bless his holy name.
@@ -4448,7 +4448,7 @@ text="""\
 [Book]
 title="Psalm 104"
 
-[[Chapter]] #4
+[[Chapter]] #104
 text="""\
 {104:1} Bless the LORD, O my soul. O LORD my God, thou art very great;
  thou art clothed with honour and majesty.
@@ -4525,7 +4525,7 @@ text="""\
 [Book]
 title="Psalm 105"
 
-[[Chapter]] #5
+[[Chapter]] #105
 text="""\
 {105:1} O give thanks unto the LORD; call upon his name: make known his
  deeds among the people.
@@ -4611,7 +4611,7 @@ text="""\
 [Book]
 title="Psalm 106"
 
-[[Chapter]] #6
+[[Chapter]] #106
 text="""\
 {106:1} Praise ye the LORD. O give thanks unto the LORD; for he is
  good: for his mercy endureth for ever.
@@ -4713,7 +4713,7 @@ Book V
 [Book]
 title="Psalm 107"
 
-[[Chapter]] #7
+[[Chapter]] #107
 text="""\
 {107:1} O give thanks unto the LORD, for he is good: for his mercy
  endureth for ever.
@@ -4808,7 +4808,7 @@ A Song or Psalm of David.
 
 """
 
-[[Chapter]] #8
+[[Chapter]] #108
 text="""\
 {108:1} O God, my heart is fixed; I will sing and give praise, even
  with my glory.
@@ -4843,7 +4843,7 @@ To the chief Musician, A Psalm of David.
 
 """
 
-[[Chapter]] #9
+[[Chapter]] #109
 text="""\
 {109:1} Hold not thy peace, O God of my praise;
 {109:2} For the mouth of the wicked and the mouth of the deceitful are
@@ -4913,7 +4913,7 @@ A Psalm of David.
 
 """
 
-[[Chapter]] #0
+[[Chapter]] #110
 text="""\
 {110:1} The LORD said unto my Lord, Sit thou at my right hand, until
  I make thine enemies thy footstool.
@@ -4935,7 +4935,7 @@ text="""\
 [Book]
 title="Psalm 111"
 
-[[Chapter]] #1
+[[Chapter]] #111
 text="""\
 {111:1} Praise ye the LORD. I will praise the LORD with my whole
  heart, in the assembly of the upright, and in the congregation.
@@ -4962,7 +4962,7 @@ text="""\
 [Book]
 title="Psalm 112"
 
-[[Chapter]] #2
+[[Chapter]] #112
 text="""\
 {112:1} Praise ye the LORD. Blessed is the man that feareth the
  LORD, that delighteth greatly in his commandments.
@@ -4988,7 +4988,7 @@ text="""\
 [Book]
 title="Psalm 113"
 
-[[Chapter]] #3
+[[Chapter]] #113
 text="""\
 {113:1} Praise ye the LORD. Praise, O ye servants of the LORD, praise
  the name of the LORD.
@@ -5011,7 +5011,7 @@ text="""\
 [Book]
 title="Psalm 114"
 
-[[Chapter]] #4
+[[Chapter]] #114
 text="""\
 {114:1} When Israel went out of Egypt, the house of Jacob from a people
  of strange language;
@@ -5031,7 +5031,7 @@ text="""\
 [Book]
 title="Psalm 115"
 
-[[Chapter]] #5
+[[Chapter]] #115
 text="""\
 {115:1} Not unto us, O LORD, not unto us, but unto thy name give glory,
  for thy mercy, and for thy truth's sake.
@@ -5069,7 +5069,7 @@ text="""\
 [Book]
 title="Psalm 116"
 
-[[Chapter]] #6
+[[Chapter]] #116
 text="""\
 {116:1} I love the LORD, because he hath heard my voice and my
  supplications.
@@ -5109,7 +5109,7 @@ text="""\
 [Book]
 title="Psalm 117"
 
-[[Chapter]] #7
+[[Chapter]] #117
 text="""\
 {117:1} O praise the LORD, all ye nations: praise him, all ye people.
 {117:2} For his merciful kindness is great toward us: and the truth of
@@ -5118,7 +5118,7 @@ text="""\
 [Book]
 title="Psalm 118"
 
-[[Chapter]] #8
+[[Chapter]] #118
 text="""\
 {118:1} O give thanks unto the LORD; for he is good: because his
  mercy endureth for ever.
@@ -5182,7 +5182,7 @@ ALEPH.
 
 """
 
-[[Chapter]] #9
+[[Chapter]] #119
 text="""\
 {119:1} Blessed are the undefiled in the way, who walk in the law
  of the LORD.
@@ -5573,7 +5573,7 @@ A Song of degrees.
 
 """
 
-[[Chapter]] #0
+[[Chapter]] #120
 text="""\
 {120:1} In my distress I cried unto the LORD, and he heard me.
 {120:2} Deliver my soul, O LORD, from lying lips, and from a
@@ -5594,7 +5594,7 @@ A Song of degrees.
 
 """
 
-[[Chapter]] #1
+[[Chapter]] #121
 text="""\
 {121:1} I will lift up mine eyes unto the hills, from whence cometh
  my help.
@@ -5618,7 +5618,7 @@ A Song of degrees of David.
 
 """
 
-[[Chapter]] #2
+[[Chapter]] #122
 text="""\
 {122:1} I was glad when they said unto me, Let us go into the house
  of the LORD.
@@ -5643,7 +5643,7 @@ A Song of degrees.
 
 """
 
-[[Chapter]] #3
+[[Chapter]] #123
 text="""\
 {123:1} Unto thee lift I up mine eyes, O thou that dwellest in the
  heavens.
@@ -5664,7 +5664,7 @@ A Song of degrees of David.
 
 """
 
-[[Chapter]] #4
+[[Chapter]] #124
 text="""\
 {124:1} If it had not been the LORD who was on our side, now may
  Israel say;
@@ -5690,7 +5690,7 @@ A Song of degrees.
 
 """
 
-[[Chapter]] #5
+[[Chapter]] #125
 text="""\
 {125:1} They that trust in the LORD shall be as mount Zion,
  which cannot be removed, but abideth for ever.
@@ -5712,7 +5712,7 @@ A Song of degrees.
 
 """
 
-[[Chapter]] #6
+[[Chapter]] #126
 text="""\
 {126:1} When the LORD turned again the captivity of Zion, we were
  like them that dream.
@@ -5734,7 +5734,7 @@ A Song of degrees for Solomon.
 
 """
 
-[[Chapter]] #7
+[[Chapter]] #127
 text="""\
 {127:1} Except the LORD build the house, they labour in vain that
  build it: except the LORD keep the city, the watchman waketh
@@ -5757,7 +5757,7 @@ A Song of degrees.
 
 """
 
-[[Chapter]] #8
+[[Chapter]] #128
 text="""\
 {128:1} Blessed is every one that feareth the LORD; that walketh
  in his ways.
@@ -5780,7 +5780,7 @@ A Song of degrees.
 
 """
 
-[[Chapter]] #9
+[[Chapter]] #129
 text="""\
 {129:1} Many a time have they afflicted me from my youth, may Israel
  now say:
@@ -5805,7 +5805,7 @@ A Song of degrees.
 
 """
 
-[[Chapter]] #0
+[[Chapter]] #130
 text="""\
 {130:1} Out of the depths have I cried unto thee, O LORD.
 {130:2} Lord, hear my voice: let thine ears be attentive to the voice
@@ -5830,7 +5830,7 @@ A Song of degrees of David.
 
 """
 
-[[Chapter]] #1
+[[Chapter]] #131
 text="""\
 {131:1} LORD, my heart is not haughty, nor mine eyes lofty: neither
  do I exercise myself in great matters, or in things too high for
@@ -5847,7 +5847,7 @@ A Song of degrees.
 
 """
 
-[[Chapter]] #2
+[[Chapter]] #132
 text="""\
 {132:1} LORD, remember David, and all his afflictions:
 {132:2} How he sware unto the LORD, and vowed unto the mighty God
@@ -5893,7 +5893,7 @@ A Song of degrees of David.
 
 """
 
-[[Chapter]] #3
+[[Chapter]] #133
 text="""\
 {133:1} Behold, how good and how pleasant it is for brethren to
  dwell together in unity!
@@ -5912,7 +5912,7 @@ A Song of degrees.
 
 """
 
-[[Chapter]] #4
+[[Chapter]] #134
 text="""\
 {134:1} Behold, bless ye the LORD, all ye servants of the LORD,
  which by night stand in the house of the LORD.
@@ -5922,7 +5922,7 @@ text="""\
 [Book]
 title="Psalm 135"
 
-[[Chapter]] #5
+[[Chapter]] #135
 text="""\
 {135:1} Praise ye the LORD. Praise ye the name of the LORD; praise
  him, O ye servants of the LORD.
@@ -5969,7 +5969,7 @@ text="""\
 [Book]
 title="Psalm 136"
 
-[[Chapter]] #6
+[[Chapter]] #136
 text="""\
 {136:1} O give thanks unto the LORD; for he is good: for his mercy
  endureth for ever.
@@ -6023,7 +6023,7 @@ text="""\
 [Book]
 title="Psalm 137"
 
-[[Chapter]] #7
+[[Chapter]] #137
 text="""\
 {137:1} By the rivers of Babylon, there we sat down, yea, we wept, when
  we remembered Zion.
@@ -6051,7 +6051,7 @@ A Psalm of David.
 
 """
 
-[[Chapter]] #8
+[[Chapter]] #138
 text="""\
 {138:1} I will praise thee with my whole heart: before the gods will
  I sing praise unto thee.
@@ -6081,7 +6081,7 @@ To the chief Musician, A Psalm of David.
 
 """
 
-[[Chapter]] #9
+[[Chapter]] #139
 text="""\
 {139:1} O LORD, thou hast searched me, and known me.
 {139:2} Thou knowest my downsitting and mine uprising, thou
@@ -6139,7 +6139,7 @@ To the chief Musician, A Psalm of David.
 
 """
 
-[[Chapter]] #0
+[[Chapter]] #140
 text="""\
 {140:1} Deliver me, O LORD, from the evil man: preserve me from the
  violent man;
@@ -6176,7 +6176,7 @@ A Psalm of David.
 
 """
 
-[[Chapter]] #1
+[[Chapter]] #141
 text="""\
 {141:1} LORD, I cry unto thee: make haste unto me; give ear unto my
  voice, when I cry unto thee.
@@ -6209,7 +6209,7 @@ Maschil of David; A Prayer when he was in the cave.
 
 """
 
-[[Chapter]] #2
+[[Chapter]] #142
 text="""\
 {142:1} I cried unto the LORD with my voice; with my voice unto the
  LORD did I make my supplication.
@@ -6236,7 +6236,7 @@ A Psalm of David.
 
 """
 
-[[Chapter]] #3
+[[Chapter]] #143
 text="""\
 {143:1} Hear my prayer, O LORD, give ear to my supplications: in thy
  faithfulness answer me, and in thy righteousness.
@@ -6273,7 +6273,7 @@ A Psalm of David.
 
 """
 
-[[Chapter]] #4
+[[Chapter]] #144
 text="""\
 {144:1} Blessed be the LORD my strength, which teacheth my hands
  to war, and my fingers to fight:
@@ -6319,7 +6319,7 @@ David's Psalm of praise.
 
 """
 
-[[Chapter]] #5
+[[Chapter]] #145
 text="""\
 {145:1} I will extol thee, my God, O king; and I will bless thy name
  for ever and ever.
@@ -6367,7 +6367,7 @@ text="""\
 [Book]
 title="Psalm 146"
 
-[[Chapter]] #6
+[[Chapter]] #146
 text="""\
 {146:1} Praise ye the LORD. Praise the LORD, O my soul.
 {146:2} While I live will I praise the LORD: I will sing praises unto
@@ -6392,7 +6392,7 @@ text="""\
 [Book]
 title="Psalm 147"
 
-[[Chapter]] #7
+[[Chapter]] #147
 text="""\
 {147:1} Praise ye the LORD: for it is good to sing praises unto our
  God; for it is pleasant; and praise is comely.
@@ -6436,7 +6436,7 @@ text="""\
 [Book]
 title="Psalm 148"
 
-[[Chapter]] #8
+[[Chapter]] #148
 text="""\
 {148:1} Praise ye the LORD. Praise ye the LORD from the heavens: praise
  him in the heights.
@@ -6465,7 +6465,7 @@ text="""\
 [Book]
 title="Psalm 149"
 
-[[Chapter]] #9
+[[Chapter]] #149
 text="""\
 {149:1} Praise ye the LORD. Sing unto the LORD a new song, and his
  praise in the congregation of saints.
@@ -6489,7 +6489,7 @@ text="""\
 [Book]
 title="Psalm 150"
 
-[[Chapter]] #0
+[[Chapter]] #150
 text="""\
 {150:1} Praise ye the LORD. Praise God in his sanctuary: praise him in
  the firmament of his power.
