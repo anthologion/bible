@@ -21,6 +21,7 @@ cat $f \
 | perl -0777pe 's/\[([^\[\]]+)\]/$1/sg' \
 | perl -0777pe 's/Psalm (\d+)\s+(\w?[\w\s,.;\[\]]*)//g' \
 | perl -0777pe 's/(\{(\d+):[01]\}) /\]\n\n[[Chapter]] #$2\nverses=\[\n$1 /g' \
+| perl -0777pe 's/$/]\n/g' \
 | perl -0777pe 's/[\s\n]+\]/\n\]/sg' \
 | perl -0777pe 's/({\d+:\d+})([^\n{]+)(?={\d+:\d+}|\n])/"$2", #$1\n/g' \
 | perl -0777pe 's/\s([^\n]+)\n]\n\n/[Book]\ntitle="$1"\n\n/sg' \
