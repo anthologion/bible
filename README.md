@@ -17,19 +17,15 @@ The format of a Bible toml file is as follows.
 
 ```
 [Book]
-title="The First Book of the Chronicles"
+title="The Book of Psalms"
 
-[[Chapter]] #1
+[[Chapter]] #134
 verses=[
-"Adam, Sheth, Enosh,", #{1:1}
-"Kenan, Mahalaleel, Jered,", #{1:2}
-"Henoch, Methuselah, Lamech,", #{1:3}
-"Noah, Shem, Ham, and Japheth.", #{1:4}
-"The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.", #{1:5}
-"And the sons of Gomer; Ashchenaz, and Riphath, and Togarmah.", #{1:6}
-"And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim." #{1:7}
+" Behold, bless ye the LORD, all ye servants of the LORD, which by night stand in the house of the LORD. ", #{134:1}
+" Lift up your hands in the sanctuary, and bless the LORD. ", #{134:2}
+" The LORD that made heaven and earth bless thee out of Zion.", #{134:3}
 ]
-"""
+
 ```
 The verse numbers in the comments are not in a strictly regulated format, but the
 the following conventions are preferred:
