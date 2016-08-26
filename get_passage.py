@@ -17,7 +17,7 @@ def get_verses(book_toml, c_start, v_start, c_end, v_end):
         else:
             ve_index = len(book_toml['Chapter'][chap]['verses'])-1
 
-        for verse in book_toml['Chapter'][chap-1]['verses'][vs_index:ve_index]:
+        for verse in book_toml['Chapter'][chap-1]['verses'][vs_index:ve_index+1]:
             section += verse
     return section
 
