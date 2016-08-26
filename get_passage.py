@@ -5,9 +5,6 @@ import pytoml as toml
 import re
 SCRIPT_DIR=os.path.dirname(os.path.abspath(sys.argv[0]))
 
-def get_psalm(number):
-    return u"Psalm " + unicode(number)
-
 def get_verses(book_toml, c_start, v_start, c_end, v_end):
     section = ""
     for chap in range (int(c_start), int(c_end)+1):
