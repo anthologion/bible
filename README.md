@@ -1,12 +1,5 @@
-# kjv-bible
-#The KJV Bible in TOML
+#The Bible in TOML
 
-##Editing Notes
-This version does *not* attempt to stay faitful to any sort of original
-typesetting. In particular, words that were bracked as words inserted by the
-translators have been retained in-line with no special formatting.
-
-The Psalms are not separated into their individual books.
 
 The goal of this project is to provide a text store that is convient to to access
 programatically.
