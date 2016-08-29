@@ -26,7 +26,7 @@ class Bible(object):
         text = self.get_verses(book, start_c, start_v, end_c, end_v)
         reference = scriptures.reference_to_string(book, start_c, start_v,
                                                    end_c, end_v)
-        return {'ref': reference, 'text': text}
+        return text
 
 
     def __getitem__(self, index):
@@ -38,6 +38,11 @@ class Bible(object):
         return self.get_passage_by_reference(index)
 
 class TomlBible(Bible):
+    def __init__(self, biblepath=None, language="en-us", translation="kjv"):
+        if biblepath is None:
+            self._searchpath = SCRIPT_DIR + "/%s/%s/toml/"%(language, translation)
+        else:
+            self._searchpath = biblepath
 
     def _find_book_file(self, bookname):
         book_prefix = bookname[0:4]
@@ -66,7 +71,6 @@ class TomlBible(Bible):
 
     def get_verses(self, book, c_start, v_start, c_end, v_end):
         book_toml = toml.loads(self.load_book(book))
-        print book, c_start, v_start, c_end, v_end
         section = ""
         for chap in range (int(c_start), int(c_end)+1):
             if chap == c_start:
@@ -77,7 +81,8 @@ class TomlBible(Bible):
                 ve_index = v_end -1 
             else:
                 ve_index = len(book_toml['Chapter'][chap]['verses'])-1
-
+            if ve_index >= len(book_toml['Chapter'][chap-1]['verses']):
+                ve_index = len(book_toml['Chapter'][chap-1]['verses'])
             for verse in book_toml['Chapter'][chap-1]['verses'][vs_index:ve_index+1]:
                 section += verse
         return section
