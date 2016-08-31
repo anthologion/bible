@@ -57,7 +57,6 @@ class TomlBible(Bible):
         for i in range(0, len(bookname)):
             file_attempt = "%s/%s.toml"%(self._searchpath,
                                          bookname[0:len(bookname)-i])
-            print file_attempt
             if os.path.isfile(file_attempt):
                 return file_attempt
                 
