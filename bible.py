@@ -4,7 +4,7 @@ import pytoml as toml
 
 SCRIPT_DIR=os.path.dirname(os.path.abspath(sys.argv[0]))
 if __name__ is not "__main__":
-    SCRIPT_DIR = os.path.dirname(__file__)
+    SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 class Bible(object):
 
@@ -57,6 +57,7 @@ class TomlBible(Bible):
         for i in range(0, len(bookname)):
             file_attempt = "%s/%s.toml"%(self._searchpath,
                                          bookname[0:len(bookname)-i])
+            print file_attempt
             if os.path.isfile(file_attempt):
                 return file_attempt
                 
@@ -94,6 +95,6 @@ if __name__ == "__main__":
     parser.add_argument('reference', metavar="REFERENCE", type=str)
 
     args = parser.parse_args()
-    t = TomlBible(SCRIPT_DIR + "%s/%s/toml/"%(args.language, args.translation))
+    t = TomlBible(SCRIPT_DIR + "/%s/%s/toml/"%(args.language, args.translation))
     print t[args.reference]
 
